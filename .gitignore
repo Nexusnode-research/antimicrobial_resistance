@@ -1,0 +1,28 @@
+# Python / notebooks
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.egg-info/
+.mypy_cache/
+.pytest_cache/
+
+# Editors / OS
+.DS_Store
+*.swp
+.vscode/
+.idea/
+
+# Env / secrets
+.env
+*.env
+
+# Build & outputs
+outputs/
+data/raw/**
+
+# Large geo bundles (track via LFS if needed)
+*.shp
+*.shx
+*.dbf
+*.prj
+*.cpg
