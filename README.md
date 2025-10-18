@@ -3,9 +3,7 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17384867.svg)](https://doi.org/10.5281/zenodo.17384867)
 
-Empirical-Bayes (EB) pipeline that converts routine antibiograms into stable, threshold-aligned policy alerts per province, organism, drug, and year.
-
----
+Empirical-Bayes pipeline that converts routine antibiograms into stable, threshold-aligned policy alerts per province, organism, drug, and year.
 
 ## Repository
 
@@ -18,8 +16,6 @@ src/                 # helpers
 outputs/             # generated at runtime
 
 ````
-
----
 
 ## Quickstart
 
@@ -40,8 +36,6 @@ outputs/tables/
 outputs/figures/
 ```
 
----
-
 ## Data access
 
 Raw NICD/NHLS data are not redistributed in this repository.
@@ -58,15 +52,13 @@ province, organism, antibiotic, specimen, sector, year, percent_resistant, n_tes
 
 4. Optional for maps: `data/raw/provinces.geojson`.
 
----
-
 ## Method
 
 * EB Beta–Binomial pooling with Bayes–Laplace pseudo-counts (+1.0).
-* Decision quantity: exceedance probability (P(\theta>\tau)).
-* Thresholds ( \tau ): per-syndrome grid search over [0.10, 0.40] against target tolerance in the latest year.
-* Stability rule: current-year gate (P(\theta>\tau)\ge 0.80) and (K=2 persistence or 3-year positive slope of (P(\theta>\tau))).
-* Impact: excess failures per 1,000 tests (= 1000 \times \max(\hat{\theta}-\tau, 0)).
+* Decision quantity: exceedance probability $P(\theta>\tau)$.
+* Thresholds ($\tau$): per-syndrome grid search over $[0.10, 0.40]$ against target tolerance in the latest year.
+* Stability rule: current-year gate $P(\theta>\tau)\ge 0.80$ and (K=2 persistence or 3-year positive slope of $P(\theta>\tau)$).
+* Impact: excess failures per 1,000 tests $= 1000 \times \max(\hat{\theta}-\tau, 0)$.
 
 **Key parameters**
 
@@ -77,11 +69,9 @@ SLOPE_WINDOW = 3
 SLOPE_MIN = 0.05
 ```
 
----
-
 ## Citation
 
-**Code:** Nexusnode-research (2025). AMR EB pipeline (code only). Zenodo. [https://doi.org/10.5281/zenodo.17384867](https://doi.org/10.5281/zenodo.17384867)
+Code: Nexusnode-research (2025). AMR EB pipeline (code only). Zenodo. [https://doi.org/10.5281/zenodo.17384867](https://doi.org/10.5281/zenodo.17384867)
 
 **BibTeX**
 
@@ -94,8 +84,6 @@ SLOPE_MIN = 0.05
   url     = {https://doi.org/10.5281/zenodo.17384867}
 }
 ```
-
----
 
 ## License
 
