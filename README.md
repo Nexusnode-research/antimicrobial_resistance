@@ -1,40 +1,34 @@
-```markdown
+````markdown
 # Antimicrobial Resistance (AMR) — Threshold-Aligned Policy Signals
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17384867.svg)](https://doi.org/10.5281/zenodo.17384867)
 
-Empirical-Bayes pipeline that converts routine antibiograms into stable, threshold-aligned policy alerts per province, organism, drug, and year.
+Empirical-Bayes pipeline that turns routine antibiograms into stable, threshold-aligned policy alerts per province, organism, drug, and year.
 
 ## Repository
 
-```
-
-docker/              # Micromamba + JupyterLab image
-docker-compose.yml   # runs Jupyter, mounts repo at /workspace
-notebooks/AMR.ipynb  # main analysis notebook
-src/                 # helpers
-outputs/             # generated at runtime (not committed)
-
-````
+- `docker/` — Micromamba + JupyterLab image  
+- `docker-compose.yml` — runs Jupyter, mounts repo at `/workspace`  
+- `notebooks/AMR.ipynb` — main analysis notebook  
+- `src/` — helpers  
+- `outputs/` — generated at runtime (not committed)
 
 ## Quickstart
 
 ```bash
 docker compose up --build
-# open http://localhost:8888 and run notebooks/AMR.ipynb
 ````
 
-### Outputs
+Open [http://localhost:8888](http://localhost:8888) and run **notebooks/AMR.ipynb**.
 
-```
-outputs/tables/
-  scores_eb.csv
-  stability_flags.csv
-  change_list.csv
-  change_list_clean.csv
-  change_list_actionable.csv
-outputs/figures/
-```
+## Outputs
+
+* `outputs/tables/scores_eb.csv`
+* `outputs/tables/stability_flags.csv`
+* `outputs/tables/change_list.csv`
+* `outputs/tables/change_list_clean.csv`
+* `outputs/tables/change_list_actionable.csv`
+* `outputs/figures/` (plots, maps)
 
 ## Data access
 
@@ -44,21 +38,16 @@ To reproduce:
 
 1. Obtain NICD/NHLS public-sector antibiogram extracts for 2021–2024 under their terms.
 2. Save as `data/raw/amr_nicd_2021_2024.csv`.
-3. Required columns (long format):
-
-```
-province, organism, antibiotic, specimen, sector, year, percent_resistant, n_tested
-```
-
+3. Required columns (long format): `province, organism, antibiotic, specimen, sector, year, percent_resistant, n_tested`
 4. Optional for maps: `data/raw/provinces.geojson`.
 
 ## Method
 
 * EB Beta–Binomial pooling with Bayes–Laplace pseudo-counts (+1.0).
-* Decision quantity: exceedance probability $P(\theta>\tau)$.
-* Thresholds ($\tau$): per-syndrome grid search over $[0.10, 0.40]$ against target tolerance in the latest year.
-* Stability rule: current-year gate $P(\theta>\tau)\ge 0.80$ and (K=2 persistence or 3-year positive slope of $P(\theta>\tau)$).
-* Impact: excess failures per 1,000 tests $= 1000 \times \max(\hat{\theta}-\tau, 0)$.
+* Decision quantity: `P(theta > tau)` (exceedance probability).
+* Thresholds (`tau`): per-syndrome grid search over `[0.10, 0.40]` against target tolerance in the latest year.
+* Stability: current-year gate `P(theta > tau) >= 0.80` and (`K=2` persistence or 3-year positive slope of `P(theta > tau)`).
+* Impact: excess failures per 1,000 tests `= 1000 * max(theta_hat - tau, 0)`.
 
 **Key parameters**
 
