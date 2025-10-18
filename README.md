@@ -11,9 +11,9 @@ Empirical-Bayes pipeline that converts routine antibiograms into stable, thresho
 
 docker/              # Micromamba + JupyterLab image
 docker-compose.yml   # runs Jupyter, mounts repo at /workspace
-notebooks/AMR.ipynb  # main analysis
+notebooks/AMR.ipynb  # main analysis notebook
 src/                 # helpers
-outputs/             # generated at runtime
+outputs/             # generated at runtime (not committed)
 
 ````
 
@@ -24,7 +24,7 @@ docker compose up --build
 # open http://localhost:8888 and run notebooks/AMR.ipynb
 ````
 
-Outputs are written to:
+### Outputs
 
 ```
 outputs/tables/
@@ -87,7 +87,7 @@ Code: Nexusnode-research (2025). AMR EB pipeline (code only). Zenodo. [https://d
 
 ## License
 
-Code: MIT.
+Code: MIT
 Data: follow NICD/NHLS terms.
 
 ```
