@@ -1,0 +1,28 @@
+province,organism,antibiotic,specimen,sector,year,n_tested,percent_resistant
+Gauteng,E. coli,Ciprofloxacin,Blood,Public,2022,320,26
+Gauteng,E. coli,Ciprofloxacin,Blood,Public,2023,350,28
+Gauteng,E. coli,Ciprofloxacin,Blood,Public,2024,370,29
+Gauteng,E. coli,Ceftriaxone,Blood,Public,2022,300,18
+Gauteng,E. coli,Ceftriaxone,Blood,Public,2023,310,19
+Gauteng,E. coli,Ceftriaxone,Blood,Public,2024,330,20
+Limpopo,E. coli,Ciprofloxacin,Blood,Public,2022,80,16
+Limpopo,E. coli,Ciprofloxacin,Blood,Public,2023,90,18
+Limpopo,E. coli,Ciprofloxacin,Blood,Public,2024,95,19
+Limpopo,E. coli,Ceftriaxone,Blood,Public,2022,70,12
+Limpopo,E. coli,Ceftriaxone,Blood,Public,2023,82,13
+Limpopo,E. coli,Ceftriaxone,Blood,Public,2024,88,14
+Western Cape,E. coli,Ciprofloxacin,Blood,Public,2022,180,20
+Western Cape,E. coli,Ciprofloxacin,Blood,Public,2023,210,22
+Western Cape,E. coli,Ciprofloxacin,Blood,Public,2024,225,23
+Western Cape,E. coli,Ceftriaxone,Blood,Public,2022,170,14
+Western Cape,E. coli,Ceftriaxone,Blood,Public,2023,185,15
+Western Cape,E. coli,Ceftriaxone,Blood,Public,2024,195,16
+Gauteng,Klebsiella pneumoniae,Ciprofloxacin,Blood,Public,2022,260,31
+Gauteng,Klebsiella pneumoniae,Ciprofloxacin,Blood,Public,2023,275,33
+Gauteng,Klebsiella pneumoniae,Ciprofloxacin,Blood,Public,2024,290,34
+Limpopo,Klebsiella pneumoniae,Ciprofloxacin,Blood,Public,2022,60,22
+Limpopo,Klebsiella pneumoniae,Ciprofloxacin,Blood,Public,2023,70,24
+Limpopo,Klebsiella pneumoniae,Ciprofloxacin,Blood,Public,2024,75,25
+Western Cape,Klebsiella pneumoniae,Ciprofloxacin,Blood,Public,2022,140,27
+Western Cape,Klebsiella pneumoniae,Ciprofloxacin,Blood,Public,2023,155,28
+Western Cape,Klebsiella pneumoniae,Ciprofloxacin,Blood,Public,2024,165,29
