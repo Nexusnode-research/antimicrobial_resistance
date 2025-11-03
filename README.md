@@ -149,8 +149,4 @@ If you use this code or methodology, please cite:
 * **Code:** MIT
 * **Data:** Subject to NICD/NHLS terms (no redistribution here).
 
-```
 
-Want me to generate a small **git patch** so you can apply this update in one command?
-::contentReference[oaicite:0]{index=0}
-```
