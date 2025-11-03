@@ -1,10 +1,14 @@
 
-
 # Antimicrobial Resistance (AMR) – Threshold-Aligned Policy Signals
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17384867.svg)](https://doi.org/10.5281/zenodo.17384867)
 
 This repository contains the full, reproducible analytical pipeline that converts routine antimicrobial surveillance data into stable, threshold-aligned policy alerts per province. The methodology and results are detailed in the accompanying paper: [`Paper/AMR.pdf`](Paper/AMR.pdf).
+
+## ▶️ Demo Video (5 min)
+[![Watch the demo](https://img.youtube.com/vi/ygPV1n7le-Q/hqdefault.jpg)](https://youtu.be/ygPV1n7le-Q)
+
+> **Note:** This `main` branch is the local Docker implementation. A Microsoft Fabric (Lakehouse + Power BI) implementation lives on the `fabric-narrative-ai` branch (`fabric/README_fabric.md`).
 
 ---
 
@@ -42,7 +46,37 @@ Deterministic, closed-form workflow (no MCMC):
 1. **Data ingestion** — Reads individual NICD public-sector antibiogram CSVs (2021–2024) from `data/raw/nicd/_incoming/` and builds a single master table for analysis.
 2. **Empirical-Bayes (EB) shrinkage** — Beta–Binomial with **Bayes–Laplace prior** (+1.0 pseudo-counts) to stabilize provincial estimates, borrowing strength from national totals.
 3. **Adaptive thresholds (τ)** — Per-syndrome grid search over τ ∈ [0.10, 0.40] using the latest year to align with a clinical failure tolerance.
-4. **Stability & impact** — Stable alert if the current-year gate holds (Pr(θ>τ) ≥ 0.80) **and** either (K=2 persistence) or (3-year positive slope of Pr(θ>τ) ≥ 0.05). Rank by **impact**: 1000·max(θ̂ − τ, 0).
+4. **Stability & impact** — **Gate AND (Persistence OR Slope)**: Gate is Pr(θ>τ) ≥ 0.80 in the current year; Persistence is K=2 (this year **and** last year); Slope is a positive 3-year trend of Pr(θ>τ) ≥ 0.05. Rank by **impact**: 1000·max(θ̂ − τ, 0).
+
+---
+
+## ⚙️ Implementations (by Branch)
+This pipeline has two fully functional implementations with identical logic, separated by branch.
+
+### 🚀 Quick Start (Local Docker — `main` branch)
+You are currently on the `main` branch, which runs the analysis locally using Docker.
+
+1. **Prepare data** — see the section below.  
+2. **Build & run**
+   ```bash
+   docker compose up --build
+   ```
+3. **Execute** — open the URL printed in the terminal (usually `http://localhost:8888`) and run the notebook: `notebooks/AMR.ipynb`. Outputs will appear under `outputs/`.
+
+### ☁️ Microsoft Fabric (Lakehouse — `fabric-narrative-ai` branch)
+A separate, enterprise-scale implementation of this pipeline is available on the `fabric-narrative-ai` branch. It mirrors the exact same logic using a modern Lakehouse, SQL Views, and Power BI.
+
+**To view the Fabric implementation, switch to that branch:**
+```bash
+git checkout fabric-narrative-ai
+```
+
+The `fabric/` directory on that branch contains the dedicated assets:
+
+- `fabric/README_fabric.md` — Setup guide  
+- `fabric/notebooks/01_ingest.ipynb` — Data ingest  
+- `fabric/agent/tools.sql` — SQL analytic views  
+- `fabric/powerbi/AMR Policy Alerts.pbix` — BI report
 
 ---
 
@@ -50,7 +84,6 @@ Deterministic, closed-form workflow (no MCMC):
 
 1) **Prepare data** — see the Data Access section below.  
 2) **Build & run**
-
 ```bash
 docker compose up --build
 ````
@@ -117,5 +150,7 @@ If you use this code or methodology, please cite:
 * **Data:** Subject to NICD/NHLS terms (no redistribution here).
 
 ```
+
+Want me to generate a small **git patch** so you can apply this update in one command?
 ::contentReference[oaicite:0]{index=0}
 ```
