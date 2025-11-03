@@ -1,28 +1,2001 @@
 province,organism,antibiotic,specimen,sector,year,n_tested,percent_resistant
-Gauteng,E. coli,Ciprofloxacin,Blood,Public,2022,320,26
-Gauteng,E. coli,Ciprofloxacin,Blood,Public,2023,350,28
-Gauteng,E. coli,Ciprofloxacin,Blood,Public,2024,370,29
-Gauteng,E. coli,Ceftriaxone,Blood,Public,2022,300,18
-Gauteng,E. coli,Ceftriaxone,Blood,Public,2023,310,19
-Gauteng,E. coli,Ceftriaxone,Blood,Public,2024,330,20
-Limpopo,E. coli,Ciprofloxacin,Blood,Public,2022,80,16
-Limpopo,E. coli,Ciprofloxacin,Blood,Public,2023,90,18
-Limpopo,E. coli,Ciprofloxacin,Blood,Public,2024,95,19
-Limpopo,E. coli,Ceftriaxone,Blood,Public,2022,70,12
-Limpopo,E. coli,Ceftriaxone,Blood,Public,2023,82,13
-Limpopo,E. coli,Ceftriaxone,Blood,Public,2024,88,14
-Western Cape,E. coli,Ciprofloxacin,Blood,Public,2022,180,20
-Western Cape,E. coli,Ciprofloxacin,Blood,Public,2023,210,22
-Western Cape,E. coli,Ciprofloxacin,Blood,Public,2024,225,23
-Western Cape,E. coli,Ceftriaxone,Blood,Public,2022,170,14
-Western Cape,E. coli,Ceftriaxone,Blood,Public,2023,185,15
-Western Cape,E. coli,Ceftriaxone,Blood,Public,2024,195,16
-Gauteng,Klebsiella pneumoniae,Ciprofloxacin,Blood,Public,2022,260,31
-Gauteng,Klebsiella pneumoniae,Ciprofloxacin,Blood,Public,2023,275,33
-Gauteng,Klebsiella pneumoniae,Ciprofloxacin,Blood,Public,2024,290,34
-Limpopo,Klebsiella pneumoniae,Ciprofloxacin,Blood,Public,2022,60,22
-Limpopo,Klebsiella pneumoniae,Ciprofloxacin,Blood,Public,2023,70,24
-Limpopo,Klebsiella pneumoniae,Ciprofloxacin,Blood,Public,2024,75,25
-Western Cape,Klebsiella pneumoniae,Ciprofloxacin,Blood,Public,2022,140,27
-Western Cape,Klebsiella pneumoniae,Ciprofloxacin,Blood,Public,2023,155,28
-Western Cape,Klebsiella pneumoniae,Ciprofloxacin,Blood,Public,2024,165,29
+Eastern Cape,E. coli,Amoxicillin-clavulanate,Blood,Public,2022,296,24.1
+Eastern Cape,E. coli,Amoxicillin-clavulanate,Blood,Public,2023,387,25.5
+Eastern Cape,E. coli,Amoxicillin-clavulanate,Blood,Public,2024,172,27.4
+Eastern Cape,E. coli,Amoxicillin-clavulanate,Respiratory,Public,2022,315,26.0
+Eastern Cape,E. coli,Amoxicillin-clavulanate,Respiratory,Public,2023,389,27.5
+Eastern Cape,E. coli,Amoxicillin-clavulanate,Respiratory,Public,2024,195,28.7
+Eastern Cape,E. coli,Amoxicillin-clavulanate,Urine,Public,2022,88,26.4
+Eastern Cape,E. coli,Amoxicillin-clavulanate,Urine,Public,2023,76,26.0
+Eastern Cape,E. coli,Amoxicillin-clavulanate,Urine,Public,2024,265,28.8
+Eastern Cape,E. coli,Amoxicillin-clavulanate,Wound,Public,2022,168,25.6
+Eastern Cape,E. coli,Amoxicillin-clavulanate,Wound,Public,2023,350,28.6
+Eastern Cape,E. coli,Amoxicillin-clavulanate,Wound,Public,2024,221,29.5
+Eastern Cape,E. coli,Ceftriaxone,Blood,Public,2022,141,21.6
+Eastern Cape,E. coli,Ceftriaxone,Blood,Public,2023,234,22.4
+Eastern Cape,E. coli,Ceftriaxone,Blood,Public,2024,170,22.2
+Eastern Cape,E. coli,Ceftriaxone,Respiratory,Public,2023,376,24.8
+Eastern Cape,E. coli,Ceftriaxone,Respiratory,Public,2024,245,26.0
+Eastern Cape,E. coli,Ceftriaxone,Urine,Public,2022,232,23.2
+Eastern Cape,E. coli,Ceftriaxone,Urine,Public,2023,254,21.6
+Eastern Cape,E. coli,Ceftriaxone,Urine,Public,2024,236,22.6
+Eastern Cape,E. coli,Ceftriaxone,Wound,Public,2022,82,22.6
+Eastern Cape,E. coli,Ceftriaxone,Wound,Public,2023,334,24.0
+Eastern Cape,E. coli,Ceftriaxone,Wound,Public,2024,253,23.2
+Eastern Cape,E. coli,Ciprofloxacin,Blood,Public,2022,200,24.4
+Eastern Cape,E. coli,Ciprofloxacin,Blood,Public,2023,131,26.1
+Eastern Cape,E. coli,Ciprofloxacin,Blood,Public,2024,406,28.5
+Eastern Cape,E. coli,Ciprofloxacin,Respiratory,Public,2022,274,28.4
+Eastern Cape,E. coli,Ciprofloxacin,Respiratory,Public,2023,361,28.0
+Eastern Cape,E. coli,Ciprofloxacin,Respiratory,Public,2024,63,29.2
+Eastern Cape,E. coli,Ciprofloxacin,Urine,Public,2022,339,27.6
+Eastern Cape,E. coli,Ciprofloxacin,Urine,Public,2023,276,26.6
+Eastern Cape,E. coli,Ciprofloxacin,Urine,Public,2024,107,27.4
+Eastern Cape,E. coli,Ciprofloxacin,Wound,Public,2022,318,26.5
+Eastern Cape,E. coli,Ciprofloxacin,Wound,Public,2023,347,28.6
+Eastern Cape,E. coli,Ciprofloxacin,Wound,Public,2024,392,28.4
+Eastern Cape,E. coli,Meropenem,Blood,Public,2022,441,11.8
+Eastern Cape,E. coli,Meropenem,Blood,Public,2023,194,14.0
+Eastern Cape,E. coli,Meropenem,Blood,Public,2024,279,15.6
+Eastern Cape,E. coli,Meropenem,Respiratory,Public,2022,257,15.1
+Eastern Cape,E. coli,Meropenem,Respiratory,Public,2023,299,15.5
+Eastern Cape,E. coli,Meropenem,Respiratory,Public,2024,343,16.9
+Eastern Cape,E. coli,Meropenem,Urine,Public,2022,264,15.0
+Eastern Cape,E. coli,Meropenem,Urine,Public,2023,130,14.4
+Eastern Cape,E. coli,Meropenem,Urine,Public,2024,106,15.9
+Eastern Cape,E. coli,Meropenem,Wound,Public,2022,116,15.1
+Eastern Cape,E. coli,Meropenem,Wound,Public,2023,141,14.3
+Eastern Cape,E. coli,Meropenem,Wound,Public,2024,276,17.2
+Eastern Cape,E. coli,Piperacillin-tazobactam,Blood,Public,2022,420,22.1
+Eastern Cape,E. coli,Piperacillin-tazobactam,Blood,Public,2023,398,21.5
+Eastern Cape,E. coli,Piperacillin-tazobactam,Blood,Public,2024,208,23.0
+Eastern Cape,E. coli,Piperacillin-tazobactam,Respiratory,Public,2022,391,25.1
+Eastern Cape,E. coli,Piperacillin-tazobactam,Respiratory,Public,2024,433,24.8
+Eastern Cape,E. coli,Piperacillin-tazobactam,Urine,Public,2022,179,24.3
+Eastern Cape,E. coli,Piperacillin-tazobactam,Urine,Public,2023,254,24.9
+Eastern Cape,E. coli,Piperacillin-tazobactam,Urine,Public,2024,385,24.2
+Eastern Cape,E. coli,Piperacillin-tazobactam,Wound,Public,2022,143,24.3
+Eastern Cape,E. coli,Piperacillin-tazobactam,Wound,Public,2023,167,23.9
+Eastern Cape,E. coli,Piperacillin-tazobactam,Wound,Public,2024,419,25.8
+Eastern Cape,Klebsiella pneumoniae,Amoxicillin-clavulanate,Blood,Public,2022,172,32.0
+Eastern Cape,Klebsiella pneumoniae,Amoxicillin-clavulanate,Blood,Public,2023,422,32.4
+Eastern Cape,Klebsiella pneumoniae,Amoxicillin-clavulanate,Blood,Public,2024,177,35.2
+Eastern Cape,Klebsiella pneumoniae,Amoxicillin-clavulanate,Respiratory,Public,2022,184,35.1
+Eastern Cape,Klebsiella pneumoniae,Amoxicillin-clavulanate,Respiratory,Public,2023,268,36.7
+Eastern Cape,Klebsiella pneumoniae,Amoxicillin-clavulanate,Respiratory,Public,2024,109,35.9
+Eastern Cape,Klebsiella pneumoniae,Amoxicillin-clavulanate,Urine,Public,2022,76,32.5
+Eastern Cape,Klebsiella pneumoniae,Amoxicillin-clavulanate,Urine,Public,2023,96,35.9
+Eastern Cape,Klebsiella pneumoniae,Amoxicillin-clavulanate,Urine,Public,2024,202,35.9
+Eastern Cape,Klebsiella pneumoniae,Amoxicillin-clavulanate,Wound,Public,2022,169,34.8
+Eastern Cape,Klebsiella pneumoniae,Amoxicillin-clavulanate,Wound,Public,2023,430,35.5
+Eastern Cape,Klebsiella pneumoniae,Amoxicillin-clavulanate,Wound,Public,2024,352,37.6
+Eastern Cape,Klebsiella pneumoniae,Ceftriaxone,Blood,Public,2022,138,29.2
+Eastern Cape,Klebsiella pneumoniae,Ceftriaxone,Blood,Public,2023,142,29.5
+Eastern Cape,Klebsiella pneumoniae,Ceftriaxone,Blood,Public,2024,331,31.0
+Eastern Cape,Klebsiella pneumoniae,Ceftriaxone,Respiratory,Public,2022,308,29.6
+Eastern Cape,Klebsiella pneumoniae,Ceftriaxone,Respiratory,Public,2023,449,32.8
+Eastern Cape,Klebsiella pneumoniae,Ceftriaxone,Respiratory,Public,2024,124,32.9
+Eastern Cape,Klebsiella pneumoniae,Ceftriaxone,Urine,Public,2022,366,31.1
+Eastern Cape,Klebsiella pneumoniae,Ceftriaxone,Urine,Public,2023,69,30.3
+Eastern Cape,Klebsiella pneumoniae,Ceftriaxone,Urine,Public,2024,245,30.7
+Eastern Cape,Klebsiella pneumoniae,Ceftriaxone,Wound,Public,2022,217,31.5
+Eastern Cape,Klebsiella pneumoniae,Ceftriaxone,Wound,Public,2023,183,30.6
+Eastern Cape,Klebsiella pneumoniae,Ceftriaxone,Wound,Public,2024,100,33.5
+Eastern Cape,Klebsiella pneumoniae,Ciprofloxacin,Blood,Public,2022,65,34.9
+Eastern Cape,Klebsiella pneumoniae,Ciprofloxacin,Blood,Public,2023,118,35.4
+Eastern Cape,Klebsiella pneumoniae,Ciprofloxacin,Blood,Public,2024,334,36.4
+Eastern Cape,Klebsiella pneumoniae,Ciprofloxacin,Respiratory,Public,2022,114,34.9
+Eastern Cape,Klebsiella pneumoniae,Ciprofloxacin,Respiratory,Public,2023,212,37.9
+Eastern Cape,Klebsiella pneumoniae,Ciprofloxacin,Respiratory,Public,2024,319,38.9
+Eastern Cape,Klebsiella pneumoniae,Ciprofloxacin,Urine,Public,2022,388,35.6
+Eastern Cape,Klebsiella pneumoniae,Ciprofloxacin,Urine,Public,2024,292,36.6
+Eastern Cape,Klebsiella pneumoniae,Ciprofloxacin,Wound,Public,2022,429,33.8
+Eastern Cape,Klebsiella pneumoniae,Ciprofloxacin,Wound,Public,2023,194,37.5
+Eastern Cape,Klebsiella pneumoniae,Ciprofloxacin,Wound,Public,2024,450,38.8
+Eastern Cape,Klebsiella pneumoniae,Meropenem,Blood,Public,2022,241,21.3
+Eastern Cape,Klebsiella pneumoniae,Meropenem,Blood,Public,2023,299,21.6
+Eastern Cape,Klebsiella pneumoniae,Meropenem,Blood,Public,2024,87,23.9
+Eastern Cape,Klebsiella pneumoniae,Meropenem,Respiratory,Public,2022,98,22.7
+Eastern Cape,Klebsiella pneumoniae,Meropenem,Respiratory,Public,2023,341,23.7
+Eastern Cape,Klebsiella pneumoniae,Meropenem,Respiratory,Public,2024,393,23.6
+Eastern Cape,Klebsiella pneumoniae,Meropenem,Urine,Public,2022,390,22.4
+Eastern Cape,Klebsiella pneumoniae,Meropenem,Urine,Public,2023,266,21.6
+Eastern Cape,Klebsiella pneumoniae,Meropenem,Urine,Public,2024,115,24.5
+Eastern Cape,Klebsiella pneumoniae,Meropenem,Wound,Public,2022,157,21.6
+Eastern Cape,Klebsiella pneumoniae,Meropenem,Wound,Public,2023,131,23.4
+Eastern Cape,Klebsiella pneumoniae,Meropenem,Wound,Public,2024,202,24.1
+Eastern Cape,Klebsiella pneumoniae,Piperacillin-tazobactam,Blood,Public,2022,303,28.7
+Eastern Cape,Klebsiella pneumoniae,Piperacillin-tazobactam,Blood,Public,2023,144,32.2
+Eastern Cape,Klebsiella pneumoniae,Piperacillin-tazobactam,Blood,Public,2024,370,31.1
+Eastern Cape,Klebsiella pneumoniae,Piperacillin-tazobactam,Respiratory,Public,2022,186,31.7
+Eastern Cape,Klebsiella pneumoniae,Piperacillin-tazobactam,Respiratory,Public,2023,233,32.0
+Eastern Cape,Klebsiella pneumoniae,Piperacillin-tazobactam,Urine,Public,2022,168,30.6
+Eastern Cape,Klebsiella pneumoniae,Piperacillin-tazobactam,Urine,Public,2023,446,33.1
+Eastern Cape,Klebsiella pneumoniae,Piperacillin-tazobactam,Urine,Public,2024,162,33.5
+Eastern Cape,Klebsiella pneumoniae,Piperacillin-tazobactam,Wound,Public,2022,264,32.0
+Eastern Cape,Klebsiella pneumoniae,Piperacillin-tazobactam,Wound,Public,2023,392,33.8
+Eastern Cape,Klebsiella pneumoniae,Piperacillin-tazobactam,Wound,Public,2024,324,33.0
+Eastern Cape,Pseudomonas aeruginosa,Amoxicillin-clavulanate,Blood,Public,2022,95,32.1
+Eastern Cape,Pseudomonas aeruginosa,Amoxicillin-clavulanate,Blood,Public,2023,249,33.0
+Eastern Cape,Pseudomonas aeruginosa,Amoxicillin-clavulanate,Blood,Public,2024,284,32.2
+Eastern Cape,Pseudomonas aeruginosa,Amoxicillin-clavulanate,Respiratory,Public,2022,114,32.1
+Eastern Cape,Pseudomonas aeruginosa,Amoxicillin-clavulanate,Respiratory,Public,2023,139,34.6
+Eastern Cape,Pseudomonas aeruginosa,Amoxicillin-clavulanate,Respiratory,Public,2024,369,34.2
+Eastern Cape,Pseudomonas aeruginosa,Amoxicillin-clavulanate,Urine,Public,2022,420,32.8
+Eastern Cape,Pseudomonas aeruginosa,Amoxicillin-clavulanate,Urine,Public,2023,394,32.2
+Eastern Cape,Pseudomonas aeruginosa,Amoxicillin-clavulanate,Wound,Public,2022,213,33.3
+Eastern Cape,Pseudomonas aeruginosa,Amoxicillin-clavulanate,Wound,Public,2023,113,34.6
+Eastern Cape,Pseudomonas aeruginosa,Amoxicillin-clavulanate,Wound,Public,2024,128,35.7
+Eastern Cape,Pseudomonas aeruginosa,Ceftriaxone,Blood,Public,2022,89,26.0
+Eastern Cape,Pseudomonas aeruginosa,Ceftriaxone,Blood,Public,2023,337,28.1
+Eastern Cape,Pseudomonas aeruginosa,Ceftriaxone,Blood,Public,2024,220,27.5
+Eastern Cape,Pseudomonas aeruginosa,Ceftriaxone,Respiratory,Public,2022,351,28.5
+Eastern Cape,Pseudomonas aeruginosa,Ceftriaxone,Respiratory,Public,2023,364,29.1
+Eastern Cape,Pseudomonas aeruginosa,Ceftriaxone,Respiratory,Public,2024,101,29.5
+Eastern Cape,Pseudomonas aeruginosa,Ceftriaxone,Urine,Public,2022,359,26.5
+Eastern Cape,Pseudomonas aeruginosa,Ceftriaxone,Urine,Public,2023,331,28.8
+Eastern Cape,Pseudomonas aeruginosa,Ceftriaxone,Urine,Public,2024,320,28.8
+Eastern Cape,Pseudomonas aeruginosa,Ceftriaxone,Wound,Public,2022,155,27.1
+Eastern Cape,Pseudomonas aeruginosa,Ceftriaxone,Wound,Public,2023,94,28.0
+Eastern Cape,Pseudomonas aeruginosa,Ceftriaxone,Wound,Public,2024,180,30.9
+Eastern Cape,Pseudomonas aeruginosa,Ciprofloxacin,Blood,Public,2022,67,33.3
+Eastern Cape,Pseudomonas aeruginosa,Ciprofloxacin,Blood,Public,2023,445,34.2
+Eastern Cape,Pseudomonas aeruginosa,Ciprofloxacin,Blood,Public,2024,145,34.9
+Eastern Cape,Pseudomonas aeruginosa,Ciprofloxacin,Respiratory,Public,2022,344,35.2
+Eastern Cape,Pseudomonas aeruginosa,Ciprofloxacin,Respiratory,Public,2024,211,34.8
+Eastern Cape,Pseudomonas aeruginosa,Ciprofloxacin,Urine,Public,2022,306,32.6
+Eastern Cape,Pseudomonas aeruginosa,Ciprofloxacin,Urine,Public,2023,265,33.0
+Eastern Cape,Pseudomonas aeruginosa,Ciprofloxacin,Urine,Public,2024,144,36.0
+Eastern Cape,Pseudomonas aeruginosa,Ciprofloxacin,Wound,Public,2022,259,33.0
+Eastern Cape,Pseudomonas aeruginosa,Ciprofloxacin,Wound,Public,2023,292,33.6
+Eastern Cape,Pseudomonas aeruginosa,Ciprofloxacin,Wound,Public,2024,416,34.7
+Eastern Cape,Pseudomonas aeruginosa,Meropenem,Blood,Public,2022,235,18.0
+Eastern Cape,Pseudomonas aeruginosa,Meropenem,Blood,Public,2023,384,18.9
+Eastern Cape,Pseudomonas aeruginosa,Meropenem,Blood,Public,2024,318,21.9
+Eastern Cape,Pseudomonas aeruginosa,Meropenem,Respiratory,Public,2022,278,21.0
+Eastern Cape,Pseudomonas aeruginosa,Meropenem,Respiratory,Public,2023,117,22.0
+Eastern Cape,Pseudomonas aeruginosa,Meropenem,Respiratory,Public,2024,413,21.6
+Eastern Cape,Pseudomonas aeruginosa,Meropenem,Urine,Public,2022,86,19.8
+Eastern Cape,Pseudomonas aeruginosa,Meropenem,Urine,Public,2023,276,19.6
+Eastern Cape,Pseudomonas aeruginosa,Meropenem,Urine,Public,2024,82,22.8
+Eastern Cape,Pseudomonas aeruginosa,Meropenem,Wound,Public,2022,126,18.8
+Eastern Cape,Pseudomonas aeruginosa,Meropenem,Wound,Public,2023,194,21.7
+Eastern Cape,Pseudomonas aeruginosa,Meropenem,Wound,Public,2024,286,21.3
+Eastern Cape,Pseudomonas aeruginosa,Piperacillin-tazobactam,Blood,Public,2022,358,27.6
+Eastern Cape,Pseudomonas aeruginosa,Piperacillin-tazobactam,Blood,Public,2023,221,29.0
+Eastern Cape,Pseudomonas aeruginosa,Piperacillin-tazobactam,Blood,Public,2024,164,31.1
+Eastern Cape,Pseudomonas aeruginosa,Piperacillin-tazobactam,Respiratory,Public,2022,111,31.3
+Eastern Cape,Pseudomonas aeruginosa,Piperacillin-tazobactam,Respiratory,Public,2023,169,29.6
+Eastern Cape,Pseudomonas aeruginosa,Piperacillin-tazobactam,Respiratory,Public,2024,127,31.9
+Eastern Cape,Pseudomonas aeruginosa,Piperacillin-tazobactam,Urine,Public,2022,220,29.3
+Eastern Cape,Pseudomonas aeruginosa,Piperacillin-tazobactam,Urine,Public,2023,262,29.1
+Eastern Cape,Pseudomonas aeruginosa,Piperacillin-tazobactam,Urine,Public,2024,390,29.7
+Eastern Cape,Pseudomonas aeruginosa,Piperacillin-tazobactam,Wound,Public,2022,221,28.7
+Eastern Cape,Pseudomonas aeruginosa,Piperacillin-tazobactam,Wound,Public,2023,97,31.6
+Eastern Cape,Pseudomonas aeruginosa,Piperacillin-tazobactam,Wound,Public,2024,378,29.9
+Eastern Cape,Staphylococcus aureus,Amoxicillin-clavulanate,Blood,Public,2022,82,19.9
+Eastern Cape,Staphylococcus aureus,Amoxicillin-clavulanate,Blood,Public,2023,60,22.5
+Eastern Cape,Staphylococcus aureus,Amoxicillin-clavulanate,Blood,Public,2024,335,22.9
+Eastern Cape,Staphylococcus aureus,Amoxicillin-clavulanate,Respiratory,Public,2022,319,24.0
+Eastern Cape,Staphylococcus aureus,Amoxicillin-clavulanate,Respiratory,Public,2023,269,23.3
+Eastern Cape,Staphylococcus aureus,Amoxicillin-clavulanate,Respiratory,Public,2024,416,24.3
+Eastern Cape,Staphylococcus aureus,Amoxicillin-clavulanate,Urine,Public,2022,439,22.4
+Eastern Cape,Staphylococcus aureus,Amoxicillin-clavulanate,Urine,Public,2023,160,23.5
+Eastern Cape,Staphylococcus aureus,Amoxicillin-clavulanate,Urine,Public,2024,95,23.4
+Eastern Cape,Staphylococcus aureus,Amoxicillin-clavulanate,Wound,Public,2022,229,23.7
+Eastern Cape,Staphylococcus aureus,Amoxicillin-clavulanate,Wound,Public,2023,399,23.7
+Eastern Cape,Staphylococcus aureus,Amoxicillin-clavulanate,Wound,Public,2024,428,25.4
+Eastern Cape,Staphylococcus aureus,Ceftriaxone,Blood,Public,2022,72,18.0
+Eastern Cape,Staphylococcus aureus,Ceftriaxone,Blood,Public,2023,230,16.9
+Eastern Cape,Staphylococcus aureus,Ceftriaxone,Blood,Public,2024,270,19.7
+Eastern Cape,Staphylococcus aureus,Ceftriaxone,Respiratory,Public,2023,397,19.0
+Eastern Cape,Staphylococcus aureus,Ceftriaxone,Respiratory,Public,2024,228,19.9
+Eastern Cape,Staphylococcus aureus,Ceftriaxone,Urine,Public,2022,436,18.7
+Eastern Cape,Staphylococcus aureus,Ceftriaxone,Urine,Public,2023,196,19.8
+Eastern Cape,Staphylococcus aureus,Ceftriaxone,Urine,Public,2024,419,18.8
+Eastern Cape,Staphylococcus aureus,Ceftriaxone,Wound,Public,2022,79,17.2
+Eastern Cape,Staphylococcus aureus,Ceftriaxone,Wound,Public,2023,173,20.4
+Eastern Cape,Staphylococcus aureus,Ciprofloxacin,Blood,Public,2022,339,23.0
+Eastern Cape,Staphylococcus aureus,Ciprofloxacin,Blood,Public,2023,249,21.4
+Eastern Cape,Staphylococcus aureus,Ciprofloxacin,Blood,Public,2024,135,24.1
+Eastern Cape,Staphylococcus aureus,Ciprofloxacin,Respiratory,Public,2023,181,23.8
+Eastern Cape,Staphylococcus aureus,Ciprofloxacin,Respiratory,Public,2024,150,26.9
+Eastern Cape,Staphylococcus aureus,Ciprofloxacin,Urine,Public,2022,81,22.6
+Eastern Cape,Staphylococcus aureus,Ciprofloxacin,Urine,Public,2023,80,23.3
+Eastern Cape,Staphylococcus aureus,Ciprofloxacin,Urine,Public,2024,167,26.0
+Eastern Cape,Staphylococcus aureus,Ciprofloxacin,Wound,Public,2022,401,23.9
+Eastern Cape,Staphylococcus aureus,Ciprofloxacin,Wound,Public,2023,346,23.1
+Eastern Cape,Staphylococcus aureus,Ciprofloxacin,Wound,Public,2024,268,26.5
+Eastern Cape,Staphylococcus aureus,Meropenem,Blood,Public,2022,125,8.2
+Eastern Cape,Staphylococcus aureus,Meropenem,Blood,Public,2023,400,8.9
+Eastern Cape,Staphylococcus aureus,Meropenem,Blood,Public,2024,406,12.2
+Eastern Cape,Staphylococcus aureus,Meropenem,Respiratory,Public,2022,286,10.7
+Eastern Cape,Staphylococcus aureus,Meropenem,Respiratory,Public,2023,321,12.4
+Eastern Cape,Staphylococcus aureus,Meropenem,Respiratory,Public,2024,436,12.8
+Eastern Cape,Staphylococcus aureus,Meropenem,Urine,Public,2022,149,10.6
+Eastern Cape,Staphylococcus aureus,Meropenem,Urine,Public,2023,214,11.2
+Eastern Cape,Staphylococcus aureus,Meropenem,Urine,Public,2024,60,11.6
+Eastern Cape,Staphylococcus aureus,Meropenem,Wound,Public,2022,167,9.7
+Eastern Cape,Staphylococcus aureus,Meropenem,Wound,Public,2023,356,11.1
+Eastern Cape,Staphylococcus aureus,Meropenem,Wound,Public,2024,224,12.7
+Eastern Cape,Staphylococcus aureus,Piperacillin-tazobactam,Blood,Public,2022,95,17.2
+Eastern Cape,Staphylococcus aureus,Piperacillin-tazobactam,Blood,Public,2023,202,20.2
+Eastern Cape,Staphylococcus aureus,Piperacillin-tazobactam,Respiratory,Public,2022,283,20.7
+Eastern Cape,Staphylococcus aureus,Piperacillin-tazobactam,Respiratory,Public,2023,321,21.2
+Eastern Cape,Staphylococcus aureus,Piperacillin-tazobactam,Respiratory,Public,2024,355,20.7
+Eastern Cape,Staphylococcus aureus,Piperacillin-tazobactam,Urine,Public,2022,334,18.5
+Eastern Cape,Staphylococcus aureus,Piperacillin-tazobactam,Urine,Public,2023,74,19.3
+Eastern Cape,Staphylococcus aureus,Piperacillin-tazobactam,Urine,Public,2024,193,19.7
+Eastern Cape,Staphylococcus aureus,Piperacillin-tazobactam,Wound,Public,2022,195,18.4
+Eastern Cape,Staphylococcus aureus,Piperacillin-tazobactam,Wound,Public,2023,365,19.0
+Eastern Cape,Staphylococcus aureus,Piperacillin-tazobactam,Wound,Public,2024,433,21.1
+Free State,E. coli,Amoxicillin-clavulanate,Blood,Public,2022,92,22.6
+Free State,E. coli,Amoxicillin-clavulanate,Blood,Public,2023,229,22.8
+Free State,E. coli,Amoxicillin-clavulanate,Blood,Public,2024,272,24.1
+Free State,E. coli,Amoxicillin-clavulanate,Respiratory,Public,2022,274,24.8
+Free State,E. coli,Amoxicillin-clavulanate,Respiratory,Public,2023,436,25.1
+Free State,E. coli,Amoxicillin-clavulanate,Respiratory,Public,2024,368,26.2
+Free State,E. coli,Amoxicillin-clavulanate,Urine,Public,2022,275,21.7
+Free State,E. coli,Amoxicillin-clavulanate,Urine,Public,2023,359,23.7
+Free State,E. coli,Amoxicillin-clavulanate,Urine,Public,2024,70,26.4
+Free State,E. coli,Amoxicillin-clavulanate,Wound,Public,2022,354,24.6
+Free State,E. coli,Amoxicillin-clavulanate,Wound,Public,2023,63,24.2
+Free State,E. coli,Amoxicillin-clavulanate,Wound,Public,2024,212,26.8
+Free State,E. coli,Ceftriaxone,Blood,Public,2022,62,18.5
+Free State,E. coli,Ceftriaxone,Blood,Public,2023,114,20.2
+Free State,E. coli,Ceftriaxone,Blood,Public,2024,172,20.9
+Free State,E. coli,Ceftriaxone,Respiratory,Public,2022,373,21.2
+Free State,E. coli,Ceftriaxone,Respiratory,Public,2023,318,22.0
+Free State,E. coli,Ceftriaxone,Respiratory,Public,2024,340,21.8
+Free State,E. coli,Ceftriaxone,Urine,Public,2022,416,18.0
+Free State,E. coli,Ceftriaxone,Urine,Public,2023,85,20.1
+Free State,E. coli,Ceftriaxone,Urine,Public,2024,122,21.2
+Free State,E. coli,Ceftriaxone,Wound,Public,2022,297,19.4
+Free State,E. coli,Ceftriaxone,Wound,Public,2023,346,21.0
+Free State,E. coli,Ceftriaxone,Wound,Public,2024,446,21.8
+Free State,E. coli,Ciprofloxacin,Blood,Public,2022,323,21.8
+Free State,E. coli,Ciprofloxacin,Blood,Public,2024,444,24.5
+Free State,E. coli,Ciprofloxacin,Respiratory,Public,2022,427,25.2
+Free State,E. coli,Ciprofloxacin,Respiratory,Public,2023,313,26.6
+Free State,E. coli,Ciprofloxacin,Respiratory,Public,2024,135,26.7
+Free State,E. coli,Ciprofloxacin,Urine,Public,2022,218,23.2
+Free State,E. coli,Ciprofloxacin,Urine,Public,2023,161,24.2
+Free State,E. coli,Ciprofloxacin,Urine,Public,2024,83,25.0
+Free State,E. coli,Ciprofloxacin,Wound,Public,2022,303,23.8
+Free State,E. coli,Ciprofloxacin,Wound,Public,2023,97,25.9
+Free State,E. coli,Ciprofloxacin,Wound,Public,2024,382,26.4
+Free State,E. coli,Meropenem,Blood,Public,2022,309,11.2
+Free State,E. coli,Meropenem,Blood,Public,2023,283,10.2
+Free State,E. coli,Meropenem,Blood,Public,2024,259,12.0
+Free State,E. coli,Meropenem,Respiratory,Public,2022,389,10.6
+Free State,E. coli,Meropenem,Respiratory,Public,2023,296,12.8
+Free State,E. coli,Meropenem,Respiratory,Public,2024,193,13.1
+Free State,E. coli,Meropenem,Urine,Public,2022,407,10.5
+Free State,E. coli,Meropenem,Urine,Public,2023,430,12.9
+Free State,E. coli,Meropenem,Urine,Public,2024,299,12.0
+Free State,E. coli,Meropenem,Wound,Public,2022,378,12.8
+Free State,E. coli,Meropenem,Wound,Public,2023,261,12.6
+Free State,E. coli,Meropenem,Wound,Public,2024,399,13.8
+Free State,E. coli,Piperacillin-tazobactam,Blood,Public,2022,141,18.9
+Free State,E. coli,Piperacillin-tazobactam,Blood,Public,2023,303,20.7
+Free State,E. coli,Piperacillin-tazobactam,Blood,Public,2024,444,20.9
+Free State,E. coli,Piperacillin-tazobactam,Respiratory,Public,2022,101,22.2
+Free State,E. coli,Piperacillin-tazobactam,Respiratory,Public,2023,178,20.9
+Free State,E. coli,Piperacillin-tazobactam,Respiratory,Public,2024,138,22.7
+Free State,E. coli,Piperacillin-tazobactam,Urine,Public,2022,386,19.3
+Free State,E. coli,Piperacillin-tazobactam,Urine,Public,2023,326,20.4
+Free State,E. coli,Piperacillin-tazobactam,Urine,Public,2024,182,22.0
+Free State,E. coli,Piperacillin-tazobactam,Wound,Public,2022,99,19.8
+Free State,E. coli,Piperacillin-tazobactam,Wound,Public,2023,180,22.2
+Free State,E. coli,Piperacillin-tazobactam,Wound,Public,2024,223,21.8
+Free State,Klebsiella pneumoniae,Amoxicillin-clavulanate,Blood,Public,2022,282,30.6
+Free State,Klebsiella pneumoniae,Amoxicillin-clavulanate,Blood,Public,2024,198,33.4
+Free State,Klebsiella pneumoniae,Amoxicillin-clavulanate,Respiratory,Public,2022,297,31.2
+Free State,Klebsiella pneumoniae,Amoxicillin-clavulanate,Respiratory,Public,2023,402,33.2
+Free State,Klebsiella pneumoniae,Amoxicillin-clavulanate,Respiratory,Public,2024,74,33.7
+Free State,Klebsiella pneumoniae,Amoxicillin-clavulanate,Urine,Public,2022,335,31.4
+Free State,Klebsiella pneumoniae,Amoxicillin-clavulanate,Urine,Public,2023,298,32.8
+Free State,Klebsiella pneumoniae,Amoxicillin-clavulanate,Urine,Public,2024,434,32.8
+Free State,Klebsiella pneumoniae,Amoxicillin-clavulanate,Wound,Public,2022,225,31.8
+Free State,Klebsiella pneumoniae,Amoxicillin-clavulanate,Wound,Public,2023,104,33.6
+Free State,Klebsiella pneumoniae,Amoxicillin-clavulanate,Wound,Public,2024,290,32.9
+Free State,Klebsiella pneumoniae,Ceftriaxone,Blood,Public,2022,124,25.0
+Free State,Klebsiella pneumoniae,Ceftriaxone,Blood,Public,2023,118,26.9
+Free State,Klebsiella pneumoniae,Ceftriaxone,Blood,Public,2024,171,28.2
+Free State,Klebsiella pneumoniae,Ceftriaxone,Respiratory,Public,2022,252,28.2
+Free State,Klebsiella pneumoniae,Ceftriaxone,Respiratory,Public,2023,426,28.7
+Free State,Klebsiella pneumoniae,Ceftriaxone,Respiratory,Public,2024,363,29.1
+Free State,Klebsiella pneumoniae,Ceftriaxone,Urine,Public,2022,191,26.9
+Free State,Klebsiella pneumoniae,Ceftriaxone,Urine,Public,2023,145,28.8
+Free State,Klebsiella pneumoniae,Ceftriaxone,Wound,Public,2022,143,28.2
+Free State,Klebsiella pneumoniae,Ceftriaxone,Wound,Public,2023,115,29.9
+Free State,Klebsiella pneumoniae,Ceftriaxone,Wound,Public,2024,219,29.8
+Free State,Klebsiella pneumoniae,Ciprofloxacin,Blood,Public,2022,168,30.7
+Free State,Klebsiella pneumoniae,Ciprofloxacin,Blood,Public,2023,232,31.9
+Free State,Klebsiella pneumoniae,Ciprofloxacin,Blood,Public,2024,254,33.8
+Free State,Klebsiella pneumoniae,Ciprofloxacin,Respiratory,Public,2022,75,31.6
+Free State,Klebsiella pneumoniae,Ciprofloxacin,Respiratory,Public,2023,162,35.4
+Free State,Klebsiella pneumoniae,Ciprofloxacin,Respiratory,Public,2024,378,36.0
+Free State,Klebsiella pneumoniae,Ciprofloxacin,Urine,Public,2022,275,31.4
+Free State,Klebsiella pneumoniae,Ciprofloxacin,Urine,Public,2023,101,32.3
+Free State,Klebsiella pneumoniae,Ciprofloxacin,Urine,Public,2024,443,33.9
+Free State,Klebsiella pneumoniae,Ciprofloxacin,Wound,Public,2022,239,32.6
+Free State,Klebsiella pneumoniae,Ciprofloxacin,Wound,Public,2023,95,32.7
+Free State,Klebsiella pneumoniae,Ciprofloxacin,Wound,Public,2024,393,35.4
+Free State,Klebsiella pneumoniae,Meropenem,Blood,Public,2022,226,18.0
+Free State,Klebsiella pneumoniae,Meropenem,Blood,Public,2023,168,18.1
+Free State,Klebsiella pneumoniae,Meropenem,Blood,Public,2024,192,19.6
+Free State,Klebsiella pneumoniae,Meropenem,Respiratory,Public,2022,303,19.2
+Free State,Klebsiella pneumoniae,Meropenem,Respiratory,Public,2023,311,21.5
+Free State,Klebsiella pneumoniae,Meropenem,Respiratory,Public,2024,68,21.9
+Free State,Klebsiella pneumoniae,Meropenem,Urine,Public,2022,365,18.5
+Free State,Klebsiella pneumoniae,Meropenem,Urine,Public,2023,201,20.6
+Free State,Klebsiella pneumoniae,Meropenem,Urine,Public,2024,324,21.2
+Free State,Klebsiella pneumoniae,Meropenem,Wound,Public,2022,103,20.9
+Free State,Klebsiella pneumoniae,Meropenem,Wound,Public,2023,268,19.7
+Free State,Klebsiella pneumoniae,Meropenem,Wound,Public,2024,448,21.5
+Free State,Klebsiella pneumoniae,Piperacillin-tazobactam,Blood,Public,2022,381,27.6
+Free State,Klebsiella pneumoniae,Piperacillin-tazobactam,Blood,Public,2023,416,27.2
+Free State,Klebsiella pneumoniae,Piperacillin-tazobactam,Blood,Public,2024,410,29.8
+Free State,Klebsiella pneumoniae,Piperacillin-tazobactam,Respiratory,Public,2022,310,30.1
+Free State,Klebsiella pneumoniae,Piperacillin-tazobactam,Respiratory,Public,2023,245,28.8
+Free State,Klebsiella pneumoniae,Piperacillin-tazobactam,Respiratory,Public,2024,295,31.4
+Free State,Klebsiella pneumoniae,Piperacillin-tazobactam,Urine,Public,2022,121,28.3
+Free State,Klebsiella pneumoniae,Piperacillin-tazobactam,Urine,Public,2023,349,29.9
+Free State,Klebsiella pneumoniae,Piperacillin-tazobactam,Urine,Public,2024,237,30.9
+Free State,Klebsiella pneumoniae,Piperacillin-tazobactam,Wound,Public,2023,319,29.1
+Free State,Klebsiella pneumoniae,Piperacillin-tazobactam,Wound,Public,2024,66,31.0
+Free State,Pseudomonas aeruginosa,Amoxicillin-clavulanate,Blood,Public,2022,376,28.3
+Free State,Pseudomonas aeruginosa,Amoxicillin-clavulanate,Blood,Public,2024,286,29.7
+Free State,Pseudomonas aeruginosa,Amoxicillin-clavulanate,Respiratory,Public,2022,101,29.3
+Free State,Pseudomonas aeruginosa,Amoxicillin-clavulanate,Respiratory,Public,2023,148,30.0
+Free State,Pseudomonas aeruginosa,Amoxicillin-clavulanate,Respiratory,Public,2024,140,32.2
+Free State,Pseudomonas aeruginosa,Amoxicillin-clavulanate,Urine,Public,2022,361,28.4
+Free State,Pseudomonas aeruginosa,Amoxicillin-clavulanate,Urine,Public,2023,216,31.5
+Free State,Pseudomonas aeruginosa,Amoxicillin-clavulanate,Urine,Public,2024,90,31.2
+Free State,Pseudomonas aeruginosa,Amoxicillin-clavulanate,Wound,Public,2022,438,29.8
+Free State,Pseudomonas aeruginosa,Amoxicillin-clavulanate,Wound,Public,2023,450,29.3
+Free State,Pseudomonas aeruginosa,Amoxicillin-clavulanate,Wound,Public,2024,168,30.6
+Free State,Pseudomonas aeruginosa,Ceftriaxone,Blood,Public,2022,170,23.1
+Free State,Pseudomonas aeruginosa,Ceftriaxone,Blood,Public,2023,201,25.7
+Free State,Pseudomonas aeruginosa,Ceftriaxone,Blood,Public,2024,449,26.7
+Free State,Pseudomonas aeruginosa,Ceftriaxone,Respiratory,Public,2022,417,26.2
+Free State,Pseudomonas aeruginosa,Ceftriaxone,Respiratory,Public,2023,386,28.4
+Free State,Pseudomonas aeruginosa,Ceftriaxone,Respiratory,Public,2024,311,29.1
+Free State,Pseudomonas aeruginosa,Ceftriaxone,Urine,Public,2022,204,25.1
+Free State,Pseudomonas aeruginosa,Ceftriaxone,Urine,Public,2023,159,27.5
+Free State,Pseudomonas aeruginosa,Ceftriaxone,Urine,Public,2024,244,26.4
+Free State,Pseudomonas aeruginosa,Ceftriaxone,Wound,Public,2024,87,26.8
+Free State,Pseudomonas aeruginosa,Ciprofloxacin,Blood,Public,2022,173,27.8
+Free State,Pseudomonas aeruginosa,Ciprofloxacin,Blood,Public,2023,184,29.7
+Free State,Pseudomonas aeruginosa,Ciprofloxacin,Blood,Public,2024,357,30.4
+Free State,Pseudomonas aeruginosa,Ciprofloxacin,Respiratory,Public,2022,221,31.7
+Free State,Pseudomonas aeruginosa,Ciprofloxacin,Respiratory,Public,2023,334,30.9
+Free State,Pseudomonas aeruginosa,Ciprofloxacin,Respiratory,Public,2024,413,34.4
+Free State,Pseudomonas aeruginosa,Ciprofloxacin,Urine,Public,2022,343,29.6
+Free State,Pseudomonas aeruginosa,Ciprofloxacin,Urine,Public,2023,277,31.1
+Free State,Pseudomonas aeruginosa,Ciprofloxacin,Urine,Public,2024,341,33.5
+Free State,Pseudomonas aeruginosa,Ciprofloxacin,Wound,Public,2022,419,30.0
+Free State,Pseudomonas aeruginosa,Ciprofloxacin,Wound,Public,2023,216,31.4
+Free State,Pseudomonas aeruginosa,Ciprofloxacin,Wound,Public,2024,121,31.8
+Free State,Pseudomonas aeruginosa,Meropenem,Blood,Public,2022,290,14.5
+Free State,Pseudomonas aeruginosa,Meropenem,Blood,Public,2023,300,17.6
+Free State,Pseudomonas aeruginosa,Meropenem,Blood,Public,2024,178,17.4
+Free State,Pseudomonas aeruginosa,Meropenem,Respiratory,Public,2022,136,17.2
+Free State,Pseudomonas aeruginosa,Meropenem,Respiratory,Public,2024,144,18.7
+Free State,Pseudomonas aeruginosa,Meropenem,Urine,Public,2022,204,16.4
+Free State,Pseudomonas aeruginosa,Meropenem,Urine,Public,2023,292,18.6
+Free State,Pseudomonas aeruginosa,Meropenem,Urine,Public,2024,179,17.7
+Free State,Pseudomonas aeruginosa,Meropenem,Wound,Public,2022,380,18.8
+Free State,Pseudomonas aeruginosa,Meropenem,Wound,Public,2023,161,18.8
+Free State,Pseudomonas aeruginosa,Meropenem,Wound,Public,2024,338,19.3
+Free State,Pseudomonas aeruginosa,Piperacillin-tazobactam,Blood,Public,2022,66,23.8
+Free State,Pseudomonas aeruginosa,Piperacillin-tazobactam,Blood,Public,2023,300,26.2
+Free State,Pseudomonas aeruginosa,Piperacillin-tazobactam,Blood,Public,2024,234,27.0
+Free State,Pseudomonas aeruginosa,Piperacillin-tazobactam,Respiratory,Public,2022,215,28.0
+Free State,Pseudomonas aeruginosa,Piperacillin-tazobactam,Respiratory,Public,2023,187,26.8
+Free State,Pseudomonas aeruginosa,Piperacillin-tazobactam,Respiratory,Public,2024,273,27.9
+Free State,Pseudomonas aeruginosa,Piperacillin-tazobactam,Urine,Public,2022,86,25.1
+Free State,Pseudomonas aeruginosa,Piperacillin-tazobactam,Urine,Public,2023,304,26.3
+Free State,Pseudomonas aeruginosa,Piperacillin-tazobactam,Urine,Public,2024,93,26.9
+Free State,Pseudomonas aeruginosa,Piperacillin-tazobactam,Wound,Public,2022,97,26.2
+Free State,Staphylococcus aureus,Amoxicillin-clavulanate,Blood,Public,2022,196,16.7
+Free State,Staphylococcus aureus,Amoxicillin-clavulanate,Blood,Public,2023,207,19.2
+Free State,Staphylococcus aureus,Amoxicillin-clavulanate,Blood,Public,2024,417,19.8
+Free State,Staphylococcus aureus,Amoxicillin-clavulanate,Respiratory,Public,2022,120,19.9
+Free State,Staphylococcus aureus,Amoxicillin-clavulanate,Respiratory,Public,2024,426,22.0
+Free State,Staphylococcus aureus,Amoxicillin-clavulanate,Urine,Public,2023,371,21.4
+Free State,Staphylococcus aureus,Amoxicillin-clavulanate,Urine,Public,2024,423,21.9
+Free State,Staphylococcus aureus,Amoxicillin-clavulanate,Wound,Public,2022,342,18.5
+Free State,Staphylococcus aureus,Amoxicillin-clavulanate,Wound,Public,2023,268,19.1
+Free State,Staphylococcus aureus,Amoxicillin-clavulanate,Wound,Public,2024,118,20.3
+Free State,Staphylococcus aureus,Ceftriaxone,Blood,Public,2022,70,14.3
+Free State,Staphylococcus aureus,Ceftriaxone,Blood,Public,2023,404,16.5
+Free State,Staphylococcus aureus,Ceftriaxone,Blood,Public,2024,355,17.0
+Free State,Staphylococcus aureus,Ceftriaxone,Respiratory,Public,2023,113,16.5
+Free State,Staphylococcus aureus,Ceftriaxone,Respiratory,Public,2024,228,19.1
+Free State,Staphylococcus aureus,Ceftriaxone,Urine,Public,2022,447,13.6
+Free State,Staphylococcus aureus,Ceftriaxone,Urine,Public,2023,325,15.0
+Free State,Staphylococcus aureus,Ceftriaxone,Urine,Public,2024,202,17.5
+Free State,Staphylococcus aureus,Ceftriaxone,Wound,Public,2022,359,14.6
+Free State,Staphylococcus aureus,Ceftriaxone,Wound,Public,2023,311,16.3
+Free State,Staphylococcus aureus,Ceftriaxone,Wound,Public,2024,300,18.9
+Free State,Staphylococcus aureus,Ciprofloxacin,Blood,Public,2022,364,19.9
+Free State,Staphylococcus aureus,Ciprofloxacin,Blood,Public,2023,351,20.8
+Free State,Staphylococcus aureus,Ciprofloxacin,Blood,Public,2024,284,22.3
+Free State,Staphylococcus aureus,Ciprofloxacin,Respiratory,Public,2022,188,20.5
+Free State,Staphylococcus aureus,Ciprofloxacin,Respiratory,Public,2023,177,20.6
+Free State,Staphylococcus aureus,Ciprofloxacin,Respiratory,Public,2024,354,24.4
+Free State,Staphylococcus aureus,Ciprofloxacin,Urine,Public,2022,412,18.9
+Free State,Staphylococcus aureus,Ciprofloxacin,Urine,Public,2023,266,20.4
+Free State,Staphylococcus aureus,Ciprofloxacin,Urine,Public,2024,316,23.3
+Free State,Staphylococcus aureus,Ciprofloxacin,Wound,Public,2022,284,20.6
+Free State,Staphylococcus aureus,Ciprofloxacin,Wound,Public,2023,80,20.3
+Free State,Staphylococcus aureus,Ciprofloxacin,Wound,Public,2024,436,23.7
+Free State,Staphylococcus aureus,Meropenem,Blood,Public,2022,421,5.4
+Free State,Staphylococcus aureus,Meropenem,Blood,Public,2023,307,6.3
+Free State,Staphylococcus aureus,Meropenem,Blood,Public,2024,184,9.5
+Free State,Staphylococcus aureus,Meropenem,Respiratory,Public,2022,61,7.3
+Free State,Staphylococcus aureus,Meropenem,Respiratory,Public,2023,212,8.4
+Free State,Staphylococcus aureus,Meropenem,Respiratory,Public,2024,356,11.0
+Free State,Staphylococcus aureus,Meropenem,Urine,Public,2022,134,6.9
+Free State,Staphylococcus aureus,Meropenem,Urine,Public,2023,366,7.7
+Free State,Staphylococcus aureus,Meropenem,Urine,Public,2024,129,9.0
+Free State,Staphylococcus aureus,Meropenem,Wound,Public,2023,272,9.3
+Free State,Staphylococcus aureus,Meropenem,Wound,Public,2024,319,9.0
+Free State,Staphylococcus aureus,Piperacillin-tazobactam,Blood,Public,2022,313,14.8
+Free State,Staphylococcus aureus,Piperacillin-tazobactam,Blood,Public,2023,265,15.4
+Free State,Staphylococcus aureus,Piperacillin-tazobactam,Blood,Public,2024,341,18.0
+Free State,Staphylococcus aureus,Piperacillin-tazobactam,Respiratory,Public,2022,245,16.1
+Free State,Staphylococcus aureus,Piperacillin-tazobactam,Respiratory,Public,2023,315,18.4
+Free State,Staphylococcus aureus,Piperacillin-tazobactam,Urine,Public,2022,105,14.6
+Free State,Staphylococcus aureus,Piperacillin-tazobactam,Urine,Public,2023,225,16.5
+Free State,Staphylococcus aureus,Piperacillin-tazobactam,Urine,Public,2024,266,16.9
+Free State,Staphylococcus aureus,Piperacillin-tazobactam,Wound,Public,2022,60,17.6
+Free State,Staphylococcus aureus,Piperacillin-tazobactam,Wound,Public,2023,337,18.0
+Free State,Staphylococcus aureus,Piperacillin-tazobactam,Wound,Public,2024,87,18.4
+Gauteng,E. coli,Amoxicillin-clavulanate,Blood,Public,2022,251,26.4
+Gauteng,E. coli,Amoxicillin-clavulanate,Blood,Public,2023,185,27.8
+Gauteng,E. coli,Amoxicillin-clavulanate,Blood,Public,2024,349,29.1
+Gauteng,E. coli,Amoxicillin-clavulanate,Respiratory,Public,2022,295,29.4
+Gauteng,E. coli,Amoxicillin-clavulanate,Respiratory,Public,2023,64,29.3
+Gauteng,E. coli,Amoxicillin-clavulanate,Respiratory,Public,2024,298,32.2
+Gauteng,E. coli,Amoxicillin-clavulanate,Urine,Public,2022,152,28.5
+Gauteng,E. coli,Amoxicillin-clavulanate,Urine,Public,2023,100,28.0
+Gauteng,E. coli,Amoxicillin-clavulanate,Urine,Public,2024,255,30.3
+Gauteng,E. coli,Amoxicillin-clavulanate,Wound,Public,2022,183,28.9
+Gauteng,E. coli,Amoxicillin-clavulanate,Wound,Public,2023,358,29.5
+Gauteng,E. coli,Amoxicillin-clavulanate,Wound,Public,2024,296,29.4
+Gauteng,E. coli,Ceftriaxone,Blood,Public,2023,111,23.5
+Gauteng,E. coli,Ceftriaxone,Blood,Public,2024,285,26.1
+Gauteng,E. coli,Ceftriaxone,Respiratory,Public,2022,101,24.7
+Gauteng,E. coli,Ceftriaxone,Respiratory,Public,2024,254,28.1
+Gauteng,E. coli,Ceftriaxone,Urine,Public,2022,293,22.8
+Gauteng,E. coli,Ceftriaxone,Urine,Public,2023,133,23.5
+Gauteng,E. coli,Ceftriaxone,Urine,Public,2024,395,25.7
+Gauteng,E. coli,Ceftriaxone,Wound,Public,2022,98,25.9
+Gauteng,E. coli,Ceftriaxone,Wound,Public,2023,195,25.4
+Gauteng,E. coli,Ceftriaxone,Wound,Public,2024,414,26.0
+Gauteng,E. coli,Ciprofloxacin,Blood,Public,2022,335,25.6
+Gauteng,E. coli,Ciprofloxacin,Blood,Public,2023,450,28.8
+Gauteng,E. coli,Ciprofloxacin,Blood,Public,2024,224,32.0
+Gauteng,E. coli,Ciprofloxacin,Respiratory,Public,2022,393,30.9
+Gauteng,E. coli,Ciprofloxacin,Respiratory,Public,2023,313,32.4
+Gauteng,E. coli,Ciprofloxacin,Respiratory,Public,2024,124,33.4
+Gauteng,E. coli,Ciprofloxacin,Urine,Public,2022,417,30.1
+Gauteng,E. coli,Ciprofloxacin,Urine,Public,2023,256,29.2
+Gauteng,E. coli,Ciprofloxacin,Urine,Public,2024,270,30.2
+Gauteng,E. coli,Ciprofloxacin,Wound,Public,2022,441,28.1
+Gauteng,E. coli,Ciprofloxacin,Wound,Public,2023,255,30.4
+Gauteng,E. coli,Ciprofloxacin,Wound,Public,2024,399,31.2
+Gauteng,E. coli,Meropenem,Blood,Public,2022,406,16.2
+Gauteng,E. coli,Meropenem,Blood,Public,2023,97,16.1
+Gauteng,E. coli,Meropenem,Blood,Public,2024,236,16.8
+Gauteng,E. coli,Meropenem,Respiratory,Public,2022,354,17.2
+Gauteng,E. coli,Meropenem,Respiratory,Public,2023,418,17.4
+Gauteng,E. coli,Meropenem,Respiratory,Public,2024,397,18.4
+Gauteng,E. coli,Meropenem,Urine,Public,2022,213,17.5
+Gauteng,E. coli,Meropenem,Urine,Public,2023,277,17.4
+Gauteng,E. coli,Meropenem,Urine,Public,2024,293,18.6
+Gauteng,E. coli,Meropenem,Wound,Public,2022,161,17.5
+Gauteng,E. coli,Meropenem,Wound,Public,2023,307,19.0
+Gauteng,E. coli,Meropenem,Wound,Public,2024,255,17.3
+Gauteng,E. coli,Piperacillin-tazobactam,Blood,Public,2022,380,25.4
+Gauteng,E. coli,Piperacillin-tazobactam,Blood,Public,2023,448,25.6
+Gauteng,E. coli,Piperacillin-tazobactam,Blood,Public,2024,337,26.0
+Gauteng,E. coli,Piperacillin-tazobactam,Respiratory,Public,2022,415,25.8
+Gauteng,E. coli,Piperacillin-tazobactam,Respiratory,Public,2023,74,26.4
+Gauteng,E. coli,Piperacillin-tazobactam,Respiratory,Public,2024,88,26.6
+Gauteng,E. coli,Piperacillin-tazobactam,Urine,Public,2022,95,23.6
+Gauteng,E. coli,Piperacillin-tazobactam,Urine,Public,2023,410,25.2
+Gauteng,E. coli,Piperacillin-tazobactam,Urine,Public,2024,176,28.3
+Gauteng,E. coli,Piperacillin-tazobactam,Wound,Public,2022,282,26.2
+Gauteng,E. coli,Piperacillin-tazobactam,Wound,Public,2023,449,27.9
+Gauteng,E. coli,Piperacillin-tazobactam,Wound,Public,2024,111,27.9
+Gauteng,Klebsiella pneumoniae,Amoxicillin-clavulanate,Blood,Public,2022,179,33.8
+Gauteng,Klebsiella pneumoniae,Amoxicillin-clavulanate,Blood,Public,2023,377,35.9
+Gauteng,Klebsiella pneumoniae,Amoxicillin-clavulanate,Blood,Public,2024,347,38.1
+Gauteng,Klebsiella pneumoniae,Amoxicillin-clavulanate,Respiratory,Public,2022,312,36.4
+Gauteng,Klebsiella pneumoniae,Amoxicillin-clavulanate,Respiratory,Public,2023,180,36.8
+Gauteng,Klebsiella pneumoniae,Amoxicillin-clavulanate,Respiratory,Public,2024,129,40.2
+Gauteng,Klebsiella pneumoniae,Amoxicillin-clavulanate,Urine,Public,2022,372,35.5
+Gauteng,Klebsiella pneumoniae,Amoxicillin-clavulanate,Urine,Public,2023,92,36.2
+Gauteng,Klebsiella pneumoniae,Amoxicillin-clavulanate,Urine,Public,2024,297,38.4
+Gauteng,Klebsiella pneumoniae,Amoxicillin-clavulanate,Wound,Public,2022,214,37.7
+Gauteng,Klebsiella pneumoniae,Amoxicillin-clavulanate,Wound,Public,2023,119,37.9
+Gauteng,Klebsiella pneumoniae,Amoxicillin-clavulanate,Wound,Public,2024,79,37.4
+Gauteng,Klebsiella pneumoniae,Ceftriaxone,Blood,Public,2022,218,31.4
+Gauteng,Klebsiella pneumoniae,Ceftriaxone,Blood,Public,2023,77,32.9
+Gauteng,Klebsiella pneumoniae,Ceftriaxone,Blood,Public,2024,434,33.2
+Gauteng,Klebsiella pneumoniae,Ceftriaxone,Respiratory,Public,2022,306,34.2
+Gauteng,Klebsiella pneumoniae,Ceftriaxone,Urine,Public,2022,211,30.9
+Gauteng,Klebsiella pneumoniae,Ceftriaxone,Urine,Public,2023,272,32.5
+Gauteng,Klebsiella pneumoniae,Ceftriaxone,Urine,Public,2024,127,33.0
+Gauteng,Klebsiella pneumoniae,Ceftriaxone,Wound,Public,2022,247,33.4
+Gauteng,Klebsiella pneumoniae,Ceftriaxone,Wound,Public,2023,199,33.6
+Gauteng,Klebsiella pneumoniae,Ceftriaxone,Wound,Public,2024,191,35.5
+Gauteng,Klebsiella pneumoniae,Ciprofloxacin,Blood,Public,2023,411,37.2
+Gauteng,Klebsiella pneumoniae,Ciprofloxacin,Blood,Public,2024,85,38.8
+Gauteng,Klebsiella pneumoniae,Ciprofloxacin,Respiratory,Public,2022,397,38.8
+Gauteng,Klebsiella pneumoniae,Ciprofloxacin,Respiratory,Public,2023,130,39.5
+Gauteng,Klebsiella pneumoniae,Ciprofloxacin,Respiratory,Public,2024,381,40.4
+Gauteng,Klebsiella pneumoniae,Ciprofloxacin,Urine,Public,2022,441,38.2
+Gauteng,Klebsiella pneumoniae,Ciprofloxacin,Urine,Public,2023,206,38.0
+Gauteng,Klebsiella pneumoniae,Ciprofloxacin,Urine,Public,2024,177,39.8
+Gauteng,Klebsiella pneumoniae,Ciprofloxacin,Wound,Public,2022,240,37.8
+Gauteng,Klebsiella pneumoniae,Ciprofloxacin,Wound,Public,2023,157,37.7
+Gauteng,Klebsiella pneumoniae,Ciprofloxacin,Wound,Public,2024,407,39.9
+Gauteng,Klebsiella pneumoniae,Meropenem,Blood,Public,2022,249,22.7
+Gauteng,Klebsiella pneumoniae,Meropenem,Blood,Public,2023,440,24.5
+Gauteng,Klebsiella pneumoniae,Meropenem,Blood,Public,2024,336,25.6
+Gauteng,Klebsiella pneumoniae,Meropenem,Respiratory,Public,2022,245,26.3
+Gauteng,Klebsiella pneumoniae,Meropenem,Respiratory,Public,2023,411,24.8
+Gauteng,Klebsiella pneumoniae,Meropenem,Respiratory,Public,2024,390,26.6
+Gauteng,Klebsiella pneumoniae,Meropenem,Urine,Public,2022,440,23.8
+Gauteng,Klebsiella pneumoniae,Meropenem,Urine,Public,2023,272,25.7
+Gauteng,Klebsiella pneumoniae,Meropenem,Urine,Public,2024,310,26.5
+Gauteng,Klebsiella pneumoniae,Meropenem,Wound,Public,2022,203,24.8
+Gauteng,Klebsiella pneumoniae,Meropenem,Wound,Public,2023,249,24.1
+Gauteng,Klebsiella pneumoniae,Meropenem,Wound,Public,2024,287,25.6
+Gauteng,Klebsiella pneumoniae,Piperacillin-tazobactam,Blood,Public,2022,299,32.9
+Gauteng,Klebsiella pneumoniae,Piperacillin-tazobactam,Blood,Public,2023,132,34.4
+Gauteng,Klebsiella pneumoniae,Piperacillin-tazobactam,Blood,Public,2024,175,34.8
+Gauteng,Klebsiella pneumoniae,Piperacillin-tazobactam,Respiratory,Public,2022,404,34.5
+Gauteng,Klebsiella pneumoniae,Piperacillin-tazobactam,Respiratory,Public,2023,255,34.3
+Gauteng,Klebsiella pneumoniae,Piperacillin-tazobactam,Respiratory,Public,2024,250,37.0
+Gauteng,Klebsiella pneumoniae,Piperacillin-tazobactam,Urine,Public,2022,430,34.1
+Gauteng,Klebsiella pneumoniae,Piperacillin-tazobactam,Urine,Public,2023,263,34.5
+Gauteng,Klebsiella pneumoniae,Piperacillin-tazobactam,Urine,Public,2024,345,36.4
+Gauteng,Klebsiella pneumoniae,Piperacillin-tazobactam,Wound,Public,2022,262,33.1
+Gauteng,Klebsiella pneumoniae,Piperacillin-tazobactam,Wound,Public,2023,334,33.0
+Gauteng,Klebsiella pneumoniae,Piperacillin-tazobactam,Wound,Public,2024,248,34.4
+Gauteng,Pseudomonas aeruginosa,Amoxicillin-clavulanate,Blood,Public,2022,200,31.7
+Gauteng,Pseudomonas aeruginosa,Amoxicillin-clavulanate,Blood,Public,2023,359,34.4
+Gauteng,Pseudomonas aeruginosa,Amoxicillin-clavulanate,Blood,Public,2024,226,35.1
+Gauteng,Pseudomonas aeruginosa,Amoxicillin-clavulanate,Respiratory,Public,2022,170,35.7
+Gauteng,Pseudomonas aeruginosa,Amoxicillin-clavulanate,Respiratory,Public,2024,292,36.7
+Gauteng,Pseudomonas aeruginosa,Amoxicillin-clavulanate,Urine,Public,2022,365,33.6
+Gauteng,Pseudomonas aeruginosa,Amoxicillin-clavulanate,Urine,Public,2023,292,35.1
+Gauteng,Pseudomonas aeruginosa,Amoxicillin-clavulanate,Urine,Public,2024,280,36.0
+Gauteng,Pseudomonas aeruginosa,Amoxicillin-clavulanate,Wound,Public,2022,419,33.3
+Gauteng,Pseudomonas aeruginosa,Amoxicillin-clavulanate,Wound,Public,2023,395,34.3
+Gauteng,Pseudomonas aeruginosa,Amoxicillin-clavulanate,Wound,Public,2024,342,36.9
+Gauteng,Pseudomonas aeruginosa,Ceftriaxone,Blood,Public,2022,365,29.9
+Gauteng,Pseudomonas aeruginosa,Ceftriaxone,Blood,Public,2023,134,28.5
+Gauteng,Pseudomonas aeruginosa,Ceftriaxone,Blood,Public,2024,336,32.5
+Gauteng,Pseudomonas aeruginosa,Ceftriaxone,Respiratory,Public,2022,275,29.9
+Gauteng,Pseudomonas aeruginosa,Ceftriaxone,Respiratory,Public,2023,441,32.1
+Gauteng,Pseudomonas aeruginosa,Ceftriaxone,Respiratory,Public,2024,289,31.7
+Gauteng,Pseudomonas aeruginosa,Ceftriaxone,Urine,Public,2022,149,29.2
+Gauteng,Pseudomonas aeruginosa,Ceftriaxone,Urine,Public,2023,73,29.8
+Gauteng,Pseudomonas aeruginosa,Ceftriaxone,Urine,Public,2024,243,30.9
+Gauteng,Pseudomonas aeruginosa,Ceftriaxone,Wound,Public,2022,181,31.4
+Gauteng,Pseudomonas aeruginosa,Ceftriaxone,Wound,Public,2023,68,31.8
+Gauteng,Pseudomonas aeruginosa,Ceftriaxone,Wound,Public,2024,86,31.5
+Gauteng,Pseudomonas aeruginosa,Ciprofloxacin,Blood,Public,2023,122,34.3
+Gauteng,Pseudomonas aeruginosa,Ciprofloxacin,Blood,Public,2024,292,37.3
+Gauteng,Pseudomonas aeruginosa,Ciprofloxacin,Respiratory,Public,2022,170,35.1
+Gauteng,Pseudomonas aeruginosa,Ciprofloxacin,Respiratory,Public,2023,179,37.9
+Gauteng,Pseudomonas aeruginosa,Ciprofloxacin,Respiratory,Public,2024,135,37.5
+Gauteng,Pseudomonas aeruginosa,Ciprofloxacin,Urine,Public,2022,168,33.8
+Gauteng,Pseudomonas aeruginosa,Ciprofloxacin,Urine,Public,2023,365,36.4
+Gauteng,Pseudomonas aeruginosa,Ciprofloxacin,Urine,Public,2024,85,38.4
+Gauteng,Pseudomonas aeruginosa,Ciprofloxacin,Wound,Public,2022,184,36.4
+Gauteng,Pseudomonas aeruginosa,Ciprofloxacin,Wound,Public,2023,349,38.0
+Gauteng,Pseudomonas aeruginosa,Ciprofloxacin,Wound,Public,2024,343,36.6
+Gauteng,Pseudomonas aeruginosa,Meropenem,Blood,Public,2023,278,20.8
+Gauteng,Pseudomonas aeruginosa,Meropenem,Blood,Public,2024,190,22.4
+Gauteng,Pseudomonas aeruginosa,Meropenem,Respiratory,Public,2022,347,21.7
+Gauteng,Pseudomonas aeruginosa,Meropenem,Respiratory,Public,2023,403,24.2
+Gauteng,Pseudomonas aeruginosa,Meropenem,Respiratory,Public,2024,241,23.9
+Gauteng,Pseudomonas aeruginosa,Meropenem,Urine,Public,2022,138,21.6
+Gauteng,Pseudomonas aeruginosa,Meropenem,Urine,Public,2023,302,23.6
+Gauteng,Pseudomonas aeruginosa,Meropenem,Urine,Public,2024,103,22.7
+Gauteng,Pseudomonas aeruginosa,Meropenem,Wound,Public,2022,109,21.3
+Gauteng,Pseudomonas aeruginosa,Meropenem,Wound,Public,2023,250,24.2
+Gauteng,Pseudomonas aeruginosa,Meropenem,Wound,Public,2024,344,25.4
+Gauteng,Pseudomonas aeruginosa,Piperacillin-tazobactam,Blood,Public,2022,322,30.8
+Gauteng,Pseudomonas aeruginosa,Piperacillin-tazobactam,Blood,Public,2023,291,31.3
+Gauteng,Pseudomonas aeruginosa,Piperacillin-tazobactam,Blood,Public,2024,374,32.0
+Gauteng,Pseudomonas aeruginosa,Piperacillin-tazobactam,Respiratory,Public,2022,287,32.6
+Gauteng,Pseudomonas aeruginosa,Piperacillin-tazobactam,Respiratory,Public,2023,101,31.7
+Gauteng,Pseudomonas aeruginosa,Piperacillin-tazobactam,Respiratory,Public,2024,135,33.5
+Gauteng,Pseudomonas aeruginosa,Piperacillin-tazobactam,Urine,Public,2023,294,32.1
+Gauteng,Pseudomonas aeruginosa,Piperacillin-tazobactam,Urine,Public,2024,75,33.4
+Gauteng,Pseudomonas aeruginosa,Piperacillin-tazobactam,Wound,Public,2022,305,30.2
+Gauteng,Pseudomonas aeruginosa,Piperacillin-tazobactam,Wound,Public,2023,278,33.5
+Gauteng,Staphylococcus aureus,Amoxicillin-clavulanate,Blood,Public,2022,205,22.8
+Gauteng,Staphylococcus aureus,Amoxicillin-clavulanate,Blood,Public,2023,363,24.5
+Gauteng,Staphylococcus aureus,Amoxicillin-clavulanate,Blood,Public,2024,401,25.0
+Gauteng,Staphylococcus aureus,Amoxicillin-clavulanate,Respiratory,Public,2022,442,23.5
+Gauteng,Staphylococcus aureus,Amoxicillin-clavulanate,Respiratory,Public,2023,126,25.8
+Gauteng,Staphylococcus aureus,Amoxicillin-clavulanate,Respiratory,Public,2024,420,26.6
+Gauteng,Staphylococcus aureus,Amoxicillin-clavulanate,Urine,Public,2022,172,23.4
+Gauteng,Staphylococcus aureus,Amoxicillin-clavulanate,Urine,Public,2023,366,24.7
+Gauteng,Staphylococcus aureus,Amoxicillin-clavulanate,Urine,Public,2024,164,24.7
+Gauteng,Staphylococcus aureus,Amoxicillin-clavulanate,Wound,Public,2023,190,26.3
+Gauteng,Staphylococcus aureus,Amoxicillin-clavulanate,Wound,Public,2024,121,25.9
+Gauteng,Staphylococcus aureus,Ceftriaxone,Blood,Public,2022,389,19.3
+Gauteng,Staphylococcus aureus,Ceftriaxone,Blood,Public,2023,371,20.2
+Gauteng,Staphylococcus aureus,Ceftriaxone,Blood,Public,2024,415,22.3
+Gauteng,Staphylococcus aureus,Ceftriaxone,Respiratory,Public,2022,384,19.9
+Gauteng,Staphylococcus aureus,Ceftriaxone,Respiratory,Public,2023,106,23.4
+Gauteng,Staphylococcus aureus,Ceftriaxone,Urine,Public,2022,152,19.3
+Gauteng,Staphylococcus aureus,Ceftriaxone,Urine,Public,2023,450,20.3
+Gauteng,Staphylococcus aureus,Ceftriaxone,Urine,Public,2024,233,21.4
+Gauteng,Staphylococcus aureus,Ceftriaxone,Wound,Public,2022,152,20.0
+Gauteng,Staphylococcus aureus,Ceftriaxone,Wound,Public,2023,349,22.6
+Gauteng,Staphylococcus aureus,Ceftriaxone,Wound,Public,2024,95,23.0
+Gauteng,Staphylococcus aureus,Ciprofloxacin,Blood,Public,2022,444,25.1
+Gauteng,Staphylococcus aureus,Ciprofloxacin,Blood,Public,2023,429,24.8
+Gauteng,Staphylococcus aureus,Ciprofloxacin,Blood,Public,2024,207,24.6
+Gauteng,Staphylococcus aureus,Ciprofloxacin,Respiratory,Public,2022,175,25.3
+Gauteng,Staphylococcus aureus,Ciprofloxacin,Respiratory,Public,2023,347,27.9
+Gauteng,Staphylococcus aureus,Ciprofloxacin,Respiratory,Public,2024,378,29.4
+Gauteng,Staphylococcus aureus,Ciprofloxacin,Urine,Public,2023,319,24.8
+Gauteng,Staphylococcus aureus,Ciprofloxacin,Urine,Public,2024,396,26.1
+Gauteng,Staphylococcus aureus,Ciprofloxacin,Wound,Public,2022,115,25.4
+Gauteng,Staphylococcus aureus,Ciprofloxacin,Wound,Public,2023,344,26.0
+Gauteng,Staphylococcus aureus,Ciprofloxacin,Wound,Public,2024,450,27.1
+Gauteng,Staphylococcus aureus,Meropenem,Blood,Public,2022,346,10.2
+Gauteng,Staphylococcus aureus,Meropenem,Blood,Public,2024,439,11.7
+Gauteng,Staphylococcus aureus,Meropenem,Respiratory,Public,2022,226,11.6
+Gauteng,Staphylococcus aureus,Meropenem,Respiratory,Public,2023,376,13.0
+Gauteng,Staphylococcus aureus,Meropenem,Respiratory,Public,2024,413,14.9
+Gauteng,Staphylococcus aureus,Meropenem,Urine,Public,2022,69,10.6
+Gauteng,Staphylococcus aureus,Meropenem,Urine,Public,2023,99,12.9
+Gauteng,Staphylococcus aureus,Meropenem,Urine,Public,2024,354,15.1
+Gauteng,Staphylococcus aureus,Meropenem,Wound,Public,2022,267,12.3
+Gauteng,Staphylococcus aureus,Meropenem,Wound,Public,2023,273,14.1
+Gauteng,Staphylococcus aureus,Meropenem,Wound,Public,2024,267,13.9
+Gauteng,Staphylococcus aureus,Piperacillin-tazobactam,Blood,Public,2022,292,19.6
+Gauteng,Staphylococcus aureus,Piperacillin-tazobactam,Blood,Public,2023,249,20.5
+Gauteng,Staphylococcus aureus,Piperacillin-tazobactam,Blood,Public,2024,226,21.4
+Gauteng,Staphylococcus aureus,Piperacillin-tazobactam,Respiratory,Public,2022,272,22.3
+Gauteng,Staphylococcus aureus,Piperacillin-tazobactam,Respiratory,Public,2023,446,22.3
+Gauteng,Staphylococcus aureus,Piperacillin-tazobactam,Respiratory,Public,2024,236,24.0
+Gauteng,Staphylococcus aureus,Piperacillin-tazobactam,Urine,Public,2022,350,21.8
+Gauteng,Staphylococcus aureus,Piperacillin-tazobactam,Urine,Public,2023,86,22.3
+Gauteng,Staphylococcus aureus,Piperacillin-tazobactam,Urine,Public,2024,446,22.0
+Gauteng,Staphylococcus aureus,Piperacillin-tazobactam,Wound,Public,2022,405,21.8
+Gauteng,Staphylococcus aureus,Piperacillin-tazobactam,Wound,Public,2023,286,21.2
+Gauteng,Staphylococcus aureus,Piperacillin-tazobactam,Wound,Public,2024,308,24.0
+KwaZulu-Natal,E. coli,Amoxicillin-clavulanate,Blood,Public,2022,91,25.5
+KwaZulu-Natal,E. coli,Amoxicillin-clavulanate,Blood,Public,2023,235,27.4
+KwaZulu-Natal,E. coli,Amoxicillin-clavulanate,Blood,Public,2024,103,30.0
+KwaZulu-Natal,E. coli,Amoxicillin-clavulanate,Respiratory,Public,2022,233,28.2
+KwaZulu-Natal,E. coli,Amoxicillin-clavulanate,Respiratory,Public,2023,86,30.1
+KwaZulu-Natal,E. coli,Amoxicillin-clavulanate,Respiratory,Public,2024,391,31.4
+KwaZulu-Natal,E. coli,Amoxicillin-clavulanate,Urine,Public,2022,148,27.5
+KwaZulu-Natal,E. coli,Amoxicillin-clavulanate,Urine,Public,2023,422,27.1
+KwaZulu-Natal,E. coli,Amoxicillin-clavulanate,Urine,Public,2024,284,29.3
+KwaZulu-Natal,E. coli,Amoxicillin-clavulanate,Wound,Public,2022,372,28.1
+KwaZulu-Natal,E. coli,Amoxicillin-clavulanate,Wound,Public,2024,258,31.3
+KwaZulu-Natal,E. coli,Ceftriaxone,Blood,Public,2022,368,21.6
+KwaZulu-Natal,E. coli,Ceftriaxone,Blood,Public,2023,448,22.5
+KwaZulu-Natal,E. coli,Ceftriaxone,Blood,Public,2024,150,25.0
+KwaZulu-Natal,E. coli,Ceftriaxone,Respiratory,Public,2022,285,24.0
+KwaZulu-Natal,E. coli,Ceftriaxone,Respiratory,Public,2023,286,24.2
+KwaZulu-Natal,E. coli,Ceftriaxone,Respiratory,Public,2024,200,26.9
+KwaZulu-Natal,E. coli,Ceftriaxone,Urine,Public,2022,381,24.9
+KwaZulu-Natal,E. coli,Ceftriaxone,Urine,Public,2023,446,24.5
+KwaZulu-Natal,E. coli,Ceftriaxone,Urine,Public,2024,356,25.7
+KwaZulu-Natal,E. coli,Ceftriaxone,Wound,Public,2022,349,23.9
+KwaZulu-Natal,E. coli,Ceftriaxone,Wound,Public,2023,379,25.4
+KwaZulu-Natal,E. coli,Ceftriaxone,Wound,Public,2024,381,25.5
+KwaZulu-Natal,E. coli,Ciprofloxacin,Blood,Public,2022,114,26.3
+KwaZulu-Natal,E. coli,Ciprofloxacin,Blood,Public,2023,361,27.7
+KwaZulu-Natal,E. coli,Ciprofloxacin,Blood,Public,2024,100,29.2
+KwaZulu-Natal,E. coli,Ciprofloxacin,Respiratory,Public,2022,390,29.1
+KwaZulu-Natal,E. coli,Ciprofloxacin,Respiratory,Public,2023,180,31.5
+KwaZulu-Natal,E. coli,Ciprofloxacin,Respiratory,Public,2024,191,30.3
+KwaZulu-Natal,E. coli,Ciprofloxacin,Urine,Public,2022,218,28.2
+KwaZulu-Natal,E. coli,Ciprofloxacin,Urine,Public,2023,173,30.3
+KwaZulu-Natal,E. coli,Ciprofloxacin,Urine,Public,2024,146,30.0
+KwaZulu-Natal,E. coli,Ciprofloxacin,Wound,Public,2022,384,27.7
+KwaZulu-Natal,E. coli,Ciprofloxacin,Wound,Public,2023,321,28.9
+KwaZulu-Natal,E. coli,Ciprofloxacin,Wound,Public,2024,238,30.1
+KwaZulu-Natal,E. coli,Meropenem,Blood,Public,2022,228,14.0
+KwaZulu-Natal,E. coli,Meropenem,Blood,Public,2024,189,16.2
+KwaZulu-Natal,E. coli,Meropenem,Respiratory,Public,2022,260,17.1
+KwaZulu-Natal,E. coli,Meropenem,Respiratory,Public,2023,422,16.4
+KwaZulu-Natal,E. coli,Meropenem,Urine,Public,2022,396,16.2
+KwaZulu-Natal,E. coli,Meropenem,Urine,Public,2023,368,17.9
+KwaZulu-Natal,E. coli,Meropenem,Urine,Public,2024,230,18.6
+KwaZulu-Natal,E. coli,Meropenem,Wound,Public,2022,399,14.8
+KwaZulu-Natal,E. coli,Meropenem,Wound,Public,2024,395,17.4
+KwaZulu-Natal,E. coli,Piperacillin-tazobactam,Blood,Public,2022,240,23.8
+KwaZulu-Natal,E. coli,Piperacillin-tazobactam,Blood,Public,2023,218,24.5
+KwaZulu-Natal,E. coli,Piperacillin-tazobactam,Blood,Public,2024,79,25.4
+KwaZulu-Natal,E. coli,Piperacillin-tazobactam,Respiratory,Public,2022,352,26.7
+KwaZulu-Natal,E. coli,Piperacillin-tazobactam,Respiratory,Public,2023,224,27.0
+KwaZulu-Natal,E. coli,Piperacillin-tazobactam,Respiratory,Public,2024,316,27.8
+KwaZulu-Natal,E. coli,Piperacillin-tazobactam,Urine,Public,2023,106,24.2
+KwaZulu-Natal,E. coli,Piperacillin-tazobactam,Urine,Public,2024,319,26.9
+KwaZulu-Natal,E. coli,Piperacillin-tazobactam,Wound,Public,2022,357,24.7
+KwaZulu-Natal,E. coli,Piperacillin-tazobactam,Wound,Public,2023,438,26.2
+KwaZulu-Natal,E. coli,Piperacillin-tazobactam,Wound,Public,2024,290,28.2
+KwaZulu-Natal,Klebsiella pneumoniae,Amoxicillin-clavulanate,Blood,Public,2022,112,34.7
+KwaZulu-Natal,Klebsiella pneumoniae,Amoxicillin-clavulanate,Blood,Public,2023,324,36.2
+KwaZulu-Natal,Klebsiella pneumoniae,Amoxicillin-clavulanate,Blood,Public,2024,205,37.6
+KwaZulu-Natal,Klebsiella pneumoniae,Amoxicillin-clavulanate,Respiratory,Public,2022,317,35.2
+KwaZulu-Natal,Klebsiella pneumoniae,Amoxicillin-clavulanate,Respiratory,Public,2023,257,37.1
+KwaZulu-Natal,Klebsiella pneumoniae,Amoxicillin-clavulanate,Respiratory,Public,2024,251,40.0
+KwaZulu-Natal,Klebsiella pneumoniae,Amoxicillin-clavulanate,Urine,Public,2022,142,34.3
+KwaZulu-Natal,Klebsiella pneumoniae,Amoxicillin-clavulanate,Urine,Public,2023,322,35.8
+KwaZulu-Natal,Klebsiella pneumoniae,Amoxicillin-clavulanate,Urine,Public,2024,283,36.5
+KwaZulu-Natal,Klebsiella pneumoniae,Amoxicillin-clavulanate,Wound,Public,2022,173,34.8
+KwaZulu-Natal,Klebsiella pneumoniae,Amoxicillin-clavulanate,Wound,Public,2023,238,38.0
+KwaZulu-Natal,Klebsiella pneumoniae,Amoxicillin-clavulanate,Wound,Public,2024,272,39.3
+KwaZulu-Natal,Klebsiella pneumoniae,Ceftriaxone,Blood,Public,2022,336,30.5
+KwaZulu-Natal,Klebsiella pneumoniae,Ceftriaxone,Blood,Public,2023,329,32.5
+KwaZulu-Natal,Klebsiella pneumoniae,Ceftriaxone,Blood,Public,2024,232,31.1
+KwaZulu-Natal,Klebsiella pneumoniae,Ceftriaxone,Respiratory,Public,2022,406,32.3
+KwaZulu-Natal,Klebsiella pneumoniae,Ceftriaxone,Respiratory,Public,2023,287,34.2
+KwaZulu-Natal,Klebsiella pneumoniae,Ceftriaxone,Respiratory,Public,2024,445,34.9
+KwaZulu-Natal,Klebsiella pneumoniae,Ceftriaxone,Urine,Public,2023,252,31.4
+KwaZulu-Natal,Klebsiella pneumoniae,Ceftriaxone,Urine,Public,2024,152,32.5
+KwaZulu-Natal,Klebsiella pneumoniae,Ceftriaxone,Wound,Public,2022,379,33.0
+KwaZulu-Natal,Klebsiella pneumoniae,Ceftriaxone,Wound,Public,2023,144,33.9
+KwaZulu-Natal,Klebsiella pneumoniae,Ceftriaxone,Wound,Public,2024,82,34.7
+KwaZulu-Natal,Klebsiella pneumoniae,Ciprofloxacin,Blood,Public,2022,389,35.7
+KwaZulu-Natal,Klebsiella pneumoniae,Ciprofloxacin,Blood,Public,2023,125,37.4
+KwaZulu-Natal,Klebsiella pneumoniae,Ciprofloxacin,Blood,Public,2024,438,38.0
+KwaZulu-Natal,Klebsiella pneumoniae,Ciprofloxacin,Respiratory,Public,2022,130,36.6
+KwaZulu-Natal,Klebsiella pneumoniae,Ciprofloxacin,Respiratory,Public,2023,211,37.5
+KwaZulu-Natal,Klebsiella pneumoniae,Ciprofloxacin,Urine,Public,2022,329,38.0
+KwaZulu-Natal,Klebsiella pneumoniae,Ciprofloxacin,Urine,Public,2023,403,36.3
+KwaZulu-Natal,Klebsiella pneumoniae,Ciprofloxacin,Urine,Public,2024,245,38.3
+KwaZulu-Natal,Klebsiella pneumoniae,Ciprofloxacin,Wound,Public,2022,218,35.6
+KwaZulu-Natal,Klebsiella pneumoniae,Ciprofloxacin,Wound,Public,2023,169,37.1
+KwaZulu-Natal,Klebsiella pneumoniae,Ciprofloxacin,Wound,Public,2024,308,38.5
+KwaZulu-Natal,Klebsiella pneumoniae,Meropenem,Blood,Public,2022,223,21.7
+KwaZulu-Natal,Klebsiella pneumoniae,Meropenem,Blood,Public,2023,425,24.8
+KwaZulu-Natal,Klebsiella pneumoniae,Meropenem,Blood,Public,2024,134,25.0
+KwaZulu-Natal,Klebsiella pneumoniae,Meropenem,Respiratory,Public,2022,136,23.8
+KwaZulu-Natal,Klebsiella pneumoniae,Meropenem,Respiratory,Public,2023,432,25.7
+KwaZulu-Natal,Klebsiella pneumoniae,Meropenem,Respiratory,Public,2024,276,26.8
+KwaZulu-Natal,Klebsiella pneumoniae,Meropenem,Urine,Public,2022,206,22.4
+KwaZulu-Natal,Klebsiella pneumoniae,Meropenem,Urine,Public,2023,301,25.8
+KwaZulu-Natal,Klebsiella pneumoniae,Meropenem,Urine,Public,2024,131,26.1
+KwaZulu-Natal,Klebsiella pneumoniae,Meropenem,Wound,Public,2022,300,24.8
+KwaZulu-Natal,Klebsiella pneumoniae,Meropenem,Wound,Public,2023,62,24.9
+KwaZulu-Natal,Klebsiella pneumoniae,Meropenem,Wound,Public,2024,69,27.2
+KwaZulu-Natal,Klebsiella pneumoniae,Piperacillin-tazobactam,Blood,Public,2023,182,31.7
+KwaZulu-Natal,Klebsiella pneumoniae,Piperacillin-tazobactam,Blood,Public,2024,300,32.9
+KwaZulu-Natal,Klebsiella pneumoniae,Piperacillin-tazobactam,Respiratory,Public,2022,130,34.4
+KwaZulu-Natal,Klebsiella pneumoniae,Piperacillin-tazobactam,Respiratory,Public,2023,86,35.6
+KwaZulu-Natal,Klebsiella pneumoniae,Piperacillin-tazobactam,Urine,Public,2022,159,33.7
+KwaZulu-Natal,Klebsiella pneumoniae,Piperacillin-tazobactam,Urine,Public,2023,352,33.1
+KwaZulu-Natal,Klebsiella pneumoniae,Piperacillin-tazobactam,Urine,Public,2024,296,36.0
+KwaZulu-Natal,Klebsiella pneumoniae,Piperacillin-tazobactam,Wound,Public,2022,255,33.8
+KwaZulu-Natal,Klebsiella pneumoniae,Piperacillin-tazobactam,Wound,Public,2023,274,34.0
+KwaZulu-Natal,Klebsiella pneumoniae,Piperacillin-tazobactam,Wound,Public,2024,162,36.4
+KwaZulu-Natal,Pseudomonas aeruginosa,Amoxicillin-clavulanate,Blood,Public,2022,338,32.2
+KwaZulu-Natal,Pseudomonas aeruginosa,Amoxicillin-clavulanate,Blood,Public,2023,78,33.4
+KwaZulu-Natal,Pseudomonas aeruginosa,Amoxicillin-clavulanate,Respiratory,Public,2022,314,34.5
+KwaZulu-Natal,Pseudomonas aeruginosa,Amoxicillin-clavulanate,Respiratory,Public,2023,325,35.1
+KwaZulu-Natal,Pseudomonas aeruginosa,Amoxicillin-clavulanate,Respiratory,Public,2024,102,35.8
+KwaZulu-Natal,Pseudomonas aeruginosa,Amoxicillin-clavulanate,Urine,Public,2022,84,32.9
+KwaZulu-Natal,Pseudomonas aeruginosa,Amoxicillin-clavulanate,Urine,Public,2023,229,35.6
+KwaZulu-Natal,Pseudomonas aeruginosa,Amoxicillin-clavulanate,Urine,Public,2024,248,34.8
+KwaZulu-Natal,Pseudomonas aeruginosa,Amoxicillin-clavulanate,Wound,Public,2022,264,33.8
+KwaZulu-Natal,Pseudomonas aeruginosa,Amoxicillin-clavulanate,Wound,Public,2023,257,35.7
+KwaZulu-Natal,Pseudomonas aeruginosa,Amoxicillin-clavulanate,Wound,Public,2024,155,35.5
+KwaZulu-Natal,Pseudomonas aeruginosa,Ceftriaxone,Blood,Public,2022,103,29.0
+KwaZulu-Natal,Pseudomonas aeruginosa,Ceftriaxone,Blood,Public,2023,244,29.6
+KwaZulu-Natal,Pseudomonas aeruginosa,Ceftriaxone,Blood,Public,2024,329,29.2
+KwaZulu-Natal,Pseudomonas aeruginosa,Ceftriaxone,Respiratory,Public,2022,435,30.1
+KwaZulu-Natal,Pseudomonas aeruginosa,Ceftriaxone,Respiratory,Public,2023,113,32.0
+KwaZulu-Natal,Pseudomonas aeruginosa,Ceftriaxone,Urine,Public,2022,319,29.7
+KwaZulu-Natal,Pseudomonas aeruginosa,Ceftriaxone,Urine,Public,2023,259,30.7
+KwaZulu-Natal,Pseudomonas aeruginosa,Ceftriaxone,Urine,Public,2024,82,32.6
+KwaZulu-Natal,Pseudomonas aeruginosa,Ceftriaxone,Wound,Public,2022,251,30.4
+KwaZulu-Natal,Pseudomonas aeruginosa,Ceftriaxone,Wound,Public,2023,68,30.3
+KwaZulu-Natal,Pseudomonas aeruginosa,Ciprofloxacin,Blood,Public,2022,207,32.4
+KwaZulu-Natal,Pseudomonas aeruginosa,Ciprofloxacin,Blood,Public,2023,122,33.7
+KwaZulu-Natal,Pseudomonas aeruginosa,Ciprofloxacin,Blood,Public,2024,274,34.2
+KwaZulu-Natal,Pseudomonas aeruginosa,Ciprofloxacin,Respiratory,Public,2022,60,34.9
+KwaZulu-Natal,Pseudomonas aeruginosa,Ciprofloxacin,Respiratory,Public,2023,183,36.9
+KwaZulu-Natal,Pseudomonas aeruginosa,Ciprofloxacin,Respiratory,Public,2024,155,37.7
+KwaZulu-Natal,Pseudomonas aeruginosa,Ciprofloxacin,Urine,Public,2022,378,34.9
+KwaZulu-Natal,Pseudomonas aeruginosa,Ciprofloxacin,Urine,Public,2023,116,35.4
+KwaZulu-Natal,Pseudomonas aeruginosa,Ciprofloxacin,Urine,Public,2024,315,37.5
+KwaZulu-Natal,Pseudomonas aeruginosa,Ciprofloxacin,Wound,Public,2022,68,35.3
+KwaZulu-Natal,Pseudomonas aeruginosa,Ciprofloxacin,Wound,Public,2023,354,36.4
+KwaZulu-Natal,Pseudomonas aeruginosa,Ciprofloxacin,Wound,Public,2024,133,36.2
+KwaZulu-Natal,Pseudomonas aeruginosa,Meropenem,Blood,Public,2022,100,21.2
+KwaZulu-Natal,Pseudomonas aeruginosa,Meropenem,Blood,Public,2023,152,21.3
+KwaZulu-Natal,Pseudomonas aeruginosa,Meropenem,Blood,Public,2024,224,22.7
+KwaZulu-Natal,Pseudomonas aeruginosa,Meropenem,Respiratory,Public,2022,282,22.9
+KwaZulu-Natal,Pseudomonas aeruginosa,Meropenem,Respiratory,Public,2023,89,22.8
+KwaZulu-Natal,Pseudomonas aeruginosa,Meropenem,Respiratory,Public,2024,386,23.2
+KwaZulu-Natal,Pseudomonas aeruginosa,Meropenem,Urine,Public,2022,227,20.3
+KwaZulu-Natal,Pseudomonas aeruginosa,Meropenem,Urine,Public,2023,216,23.0
+KwaZulu-Natal,Pseudomonas aeruginosa,Meropenem,Urine,Public,2024,427,23.4
+KwaZulu-Natal,Pseudomonas aeruginosa,Meropenem,Wound,Public,2022,413,21.8
+KwaZulu-Natal,Pseudomonas aeruginosa,Meropenem,Wound,Public,2023,288,22.9
+KwaZulu-Natal,Pseudomonas aeruginosa,Meropenem,Wound,Public,2024,240,22.6
+KwaZulu-Natal,Pseudomonas aeruginosa,Piperacillin-tazobactam,Blood,Public,2022,128,30.3
+KwaZulu-Natal,Pseudomonas aeruginosa,Piperacillin-tazobactam,Blood,Public,2023,339,29.2
+KwaZulu-Natal,Pseudomonas aeruginosa,Piperacillin-tazobactam,Blood,Public,2024,389,31.0
+KwaZulu-Natal,Pseudomonas aeruginosa,Piperacillin-tazobactam,Respiratory,Public,2022,162,30.2
+KwaZulu-Natal,Pseudomonas aeruginosa,Piperacillin-tazobactam,Respiratory,Public,2023,221,33.7
+KwaZulu-Natal,Pseudomonas aeruginosa,Piperacillin-tazobactam,Respiratory,Public,2024,323,34.8
+KwaZulu-Natal,Pseudomonas aeruginosa,Piperacillin-tazobactam,Urine,Public,2022,410,29.5
+KwaZulu-Natal,Pseudomonas aeruginosa,Piperacillin-tazobactam,Urine,Public,2023,416,31.4
+KwaZulu-Natal,Pseudomonas aeruginosa,Piperacillin-tazobactam,Urine,Public,2024,153,32.5
+KwaZulu-Natal,Pseudomonas aeruginosa,Piperacillin-tazobactam,Wound,Public,2023,294,32.7
+KwaZulu-Natal,Pseudomonas aeruginosa,Piperacillin-tazobactam,Wound,Public,2024,163,31.6
+KwaZulu-Natal,Staphylococcus aureus,Amoxicillin-clavulanate,Blood,Public,2022,312,21.7
+KwaZulu-Natal,Staphylococcus aureus,Amoxicillin-clavulanate,Blood,Public,2023,343,22.1
+KwaZulu-Natal,Staphylococcus aureus,Amoxicillin-clavulanate,Blood,Public,2024,299,24.7
+KwaZulu-Natal,Staphylococcus aureus,Amoxicillin-clavulanate,Respiratory,Public,2022,222,23.2
+KwaZulu-Natal,Staphylococcus aureus,Amoxicillin-clavulanate,Respiratory,Public,2023,290,25.9
+KwaZulu-Natal,Staphylococcus aureus,Amoxicillin-clavulanate,Respiratory,Public,2024,324,26.4
+KwaZulu-Natal,Staphylococcus aureus,Amoxicillin-clavulanate,Urine,Public,2022,342,24.4
+KwaZulu-Natal,Staphylococcus aureus,Amoxicillin-clavulanate,Urine,Public,2023,104,23.4
+KwaZulu-Natal,Staphylococcus aureus,Amoxicillin-clavulanate,Urine,Public,2024,263,24.2
+KwaZulu-Natal,Staphylococcus aureus,Amoxicillin-clavulanate,Wound,Public,2022,428,25.5
+KwaZulu-Natal,Staphylococcus aureus,Amoxicillin-clavulanate,Wound,Public,2023,270,25.0
+KwaZulu-Natal,Staphylococcus aureus,Amoxicillin-clavulanate,Wound,Public,2024,354,26.8
+KwaZulu-Natal,Staphylococcus aureus,Ceftriaxone,Blood,Public,2022,130,17.2
+KwaZulu-Natal,Staphylococcus aureus,Ceftriaxone,Blood,Public,2023,263,19.6
+KwaZulu-Natal,Staphylococcus aureus,Ceftriaxone,Blood,Public,2024,202,20.0
+KwaZulu-Natal,Staphylococcus aureus,Ceftriaxone,Respiratory,Public,2022,206,22.0
+KwaZulu-Natal,Staphylococcus aureus,Ceftriaxone,Respiratory,Public,2023,311,22.1
+KwaZulu-Natal,Staphylococcus aureus,Ceftriaxone,Respiratory,Public,2024,129,21.6
+KwaZulu-Natal,Staphylococcus aureus,Ceftriaxone,Urine,Public,2022,118,18.8
+KwaZulu-Natal,Staphylococcus aureus,Ceftriaxone,Urine,Public,2023,155,19.1
+KwaZulu-Natal,Staphylococcus aureus,Ceftriaxone,Urine,Public,2024,258,21.5
+KwaZulu-Natal,Staphylococcus aureus,Ceftriaxone,Wound,Public,2022,120,21.3
+KwaZulu-Natal,Staphylococcus aureus,Ceftriaxone,Wound,Public,2023,193,20.3
+KwaZulu-Natal,Staphylococcus aureus,Ceftriaxone,Wound,Public,2024,169,22.6
+KwaZulu-Natal,Staphylococcus aureus,Ciprofloxacin,Blood,Public,2022,322,23.2
+KwaZulu-Natal,Staphylococcus aureus,Ciprofloxacin,Blood,Public,2023,407,25.4
+KwaZulu-Natal,Staphylococcus aureus,Ciprofloxacin,Blood,Public,2024,75,24.5
+KwaZulu-Natal,Staphylococcus aureus,Ciprofloxacin,Respiratory,Public,2022,407,25.8
+KwaZulu-Natal,Staphylococcus aureus,Ciprofloxacin,Respiratory,Public,2023,249,26.4
+KwaZulu-Natal,Staphylococcus aureus,Ciprofloxacin,Respiratory,Public,2024,450,27.1
+KwaZulu-Natal,Staphylococcus aureus,Ciprofloxacin,Urine,Public,2022,371,23.4
+KwaZulu-Natal,Staphylococcus aureus,Ciprofloxacin,Urine,Public,2023,284,26.1
+KwaZulu-Natal,Staphylococcus aureus,Ciprofloxacin,Urine,Public,2024,94,25.1
+KwaZulu-Natal,Staphylococcus aureus,Ciprofloxacin,Wound,Public,2022,390,24.2
+KwaZulu-Natal,Staphylococcus aureus,Ciprofloxacin,Wound,Public,2023,256,25.6
+KwaZulu-Natal,Staphylococcus aureus,Ciprofloxacin,Wound,Public,2024,76,28.4
+KwaZulu-Natal,Staphylococcus aureus,Meropenem,Blood,Public,2022,342,10.1
+KwaZulu-Natal,Staphylococcus aureus,Meropenem,Blood,Public,2023,153,11.9
+KwaZulu-Natal,Staphylococcus aureus,Meropenem,Blood,Public,2024,126,13.3
+KwaZulu-Natal,Staphylococcus aureus,Meropenem,Respiratory,Public,2022,385,11.8
+KwaZulu-Natal,Staphylococcus aureus,Meropenem,Respiratory,Public,2023,200,14.9
+KwaZulu-Natal,Staphylococcus aureus,Meropenem,Respiratory,Public,2024,215,13.4
+KwaZulu-Natal,Staphylococcus aureus,Meropenem,Urine,Public,2022,88,11.3
+KwaZulu-Natal,Staphylococcus aureus,Meropenem,Urine,Public,2023,325,13.5
+KwaZulu-Natal,Staphylococcus aureus,Meropenem,Urine,Public,2024,144,12.5
+KwaZulu-Natal,Staphylococcus aureus,Meropenem,Wound,Public,2022,423,11.0
+KwaZulu-Natal,Staphylococcus aureus,Meropenem,Wound,Public,2024,100,15.2
+KwaZulu-Natal,Staphylococcus aureus,Piperacillin-tazobactam,Blood,Public,2022,291,20.6
+KwaZulu-Natal,Staphylococcus aureus,Piperacillin-tazobactam,Blood,Public,2023,425,19.5
+KwaZulu-Natal,Staphylococcus aureus,Piperacillin-tazobactam,Blood,Public,2024,104,21.4
+KwaZulu-Natal,Staphylococcus aureus,Piperacillin-tazobactam,Respiratory,Public,2022,245,21.9
+KwaZulu-Natal,Staphylococcus aureus,Piperacillin-tazobactam,Respiratory,Public,2023,122,22.5
+KwaZulu-Natal,Staphylococcus aureus,Piperacillin-tazobactam,Respiratory,Public,2024,131,25.0
+KwaZulu-Natal,Staphylococcus aureus,Piperacillin-tazobactam,Urine,Public,2022,223,21.5
+KwaZulu-Natal,Staphylococcus aureus,Piperacillin-tazobactam,Urine,Public,2023,423,22.0
+KwaZulu-Natal,Staphylococcus aureus,Piperacillin-tazobactam,Urine,Public,2024,337,21.2
+KwaZulu-Natal,Staphylococcus aureus,Piperacillin-tazobactam,Wound,Public,2022,213,20.4
+KwaZulu-Natal,Staphylococcus aureus,Piperacillin-tazobactam,Wound,Public,2023,424,23.1
+KwaZulu-Natal,Staphylococcus aureus,Piperacillin-tazobactam,Wound,Public,2024,418,23.6
+Limpopo,E. coli,Amoxicillin-clavulanate,Blood,Public,2022,183,24.6
+Limpopo,E. coli,Amoxicillin-clavulanate,Blood,Public,2023,240,24.8
+Limpopo,E. coli,Amoxicillin-clavulanate,Blood,Public,2024,204,25.3
+Limpopo,E. coli,Amoxicillin-clavulanate,Respiratory,Public,2022,347,25.3
+Limpopo,E. coli,Amoxicillin-clavulanate,Respiratory,Public,2023,343,26.8
+Limpopo,E. coli,Amoxicillin-clavulanate,Respiratory,Public,2024,257,28.1
+Limpopo,E. coli,Amoxicillin-clavulanate,Urine,Public,2022,394,25.7
+Limpopo,E. coli,Amoxicillin-clavulanate,Urine,Public,2023,206,27.2
+Limpopo,E. coli,Amoxicillin-clavulanate,Urine,Public,2024,115,27.8
+Limpopo,E. coli,Amoxicillin-clavulanate,Wound,Public,2022,195,26.0
+Limpopo,E. coli,Amoxicillin-clavulanate,Wound,Public,2023,266,27.9
+Limpopo,E. coli,Amoxicillin-clavulanate,Wound,Public,2024,265,27.8
+Limpopo,E. coli,Ceftriaxone,Blood,Public,2023,292,21.4
+Limpopo,E. coli,Ceftriaxone,Blood,Public,2024,90,21.4
+Limpopo,E. coli,Ceftriaxone,Respiratory,Public,2022,323,23.5
+Limpopo,E. coli,Ceftriaxone,Respiratory,Public,2023,223,23.9
+Limpopo,E. coli,Ceftriaxone,Respiratory,Public,2024,122,23.9
+Limpopo,E. coli,Ceftriaxone,Urine,Public,2023,164,22.6
+Limpopo,E. coli,Ceftriaxone,Urine,Public,2024,133,23.2
+Limpopo,E. coli,Ceftriaxone,Wound,Public,2022,427,21.6
+Limpopo,E. coli,Ceftriaxone,Wound,Public,2023,236,22.6
+Limpopo,E. coli,Ceftriaxone,Wound,Public,2024,126,25.6
+Limpopo,E. coli,Ciprofloxacin,Blood,Public,2023,397,26.7
+Limpopo,E. coli,Ciprofloxacin,Blood,Public,2024,232,30.4
+Limpopo,E. coli,Ciprofloxacin,Respiratory,Public,2022,381,26.3
+Limpopo,E. coli,Ciprofloxacin,Respiratory,Public,2023,388,28.8
+Limpopo,E. coli,Ciprofloxacin,Respiratory,Public,2024,307,31.1
+Limpopo,E. coli,Ciprofloxacin,Urine,Public,2022,348,27.7
+Limpopo,E. coli,Ciprofloxacin,Urine,Public,2023,74,26.3
+Limpopo,E. coli,Ciprofloxacin,Urine,Public,2024,388,27.4
+Limpopo,E. coli,Ciprofloxacin,Wound,Public,2022,195,28.0
+Limpopo,E. coli,Ciprofloxacin,Wound,Public,2023,352,28.6
+Limpopo,E. coli,Ciprofloxacin,Wound,Public,2024,387,28.9
+Limpopo,E. coli,Meropenem,Blood,Public,2022,341,12.7
+Limpopo,E. coli,Meropenem,Blood,Public,2023,379,13.0
+Limpopo,E. coli,Meropenem,Blood,Public,2024,120,15.2
+Limpopo,E. coli,Meropenem,Respiratory,Public,2022,425,13.3
+Limpopo,E. coli,Meropenem,Respiratory,Public,2023,302,15.2
+Limpopo,E. coli,Meropenem,Respiratory,Public,2024,136,16.7
+Limpopo,E. coli,Meropenem,Urine,Public,2022,109,12.6
+Limpopo,E. coli,Meropenem,Urine,Public,2023,233,14.4
+Limpopo,E. coli,Meropenem,Urine,Public,2024,247,15.9
+Limpopo,E. coli,Meropenem,Wound,Public,2022,161,15.0
+Limpopo,E. coli,Meropenem,Wound,Public,2023,265,15.5
+Limpopo,E. coli,Piperacillin-tazobactam,Blood,Public,2022,186,21.0
+Limpopo,E. coli,Piperacillin-tazobactam,Blood,Public,2023,85,21.6
+Limpopo,E. coli,Piperacillin-tazobactam,Blood,Public,2024,256,23.1
+Limpopo,E. coli,Piperacillin-tazobactam,Respiratory,Public,2022,217,23.7
+Limpopo,E. coli,Piperacillin-tazobactam,Respiratory,Public,2023,106,24.7
+Limpopo,E. coli,Piperacillin-tazobactam,Urine,Public,2022,274,23.8
+Limpopo,E. coli,Piperacillin-tazobactam,Urine,Public,2023,141,22.9
+Limpopo,E. coli,Piperacillin-tazobactam,Urine,Public,2024,355,25.6
+Limpopo,E. coli,Piperacillin-tazobactam,Wound,Public,2022,157,23.8
+Limpopo,E. coli,Piperacillin-tazobactam,Wound,Public,2023,315,25.0
+Limpopo,E. coli,Piperacillin-tazobactam,Wound,Public,2024,299,26.7
+Limpopo,Klebsiella pneumoniae,Amoxicillin-clavulanate,Blood,Public,2022,414,33.2
+Limpopo,Klebsiella pneumoniae,Amoxicillin-clavulanate,Blood,Public,2023,307,33.0
+Limpopo,Klebsiella pneumoniae,Amoxicillin-clavulanate,Blood,Public,2024,186,33.8
+Limpopo,Klebsiella pneumoniae,Amoxicillin-clavulanate,Respiratory,Public,2022,122,34.0
+Limpopo,Klebsiella pneumoniae,Amoxicillin-clavulanate,Respiratory,Public,2023,338,35.9
+Limpopo,Klebsiella pneumoniae,Amoxicillin-clavulanate,Respiratory,Public,2024,262,36.3
+Limpopo,Klebsiella pneumoniae,Amoxicillin-clavulanate,Urine,Public,2023,212,33.9
+Limpopo,Klebsiella pneumoniae,Amoxicillin-clavulanate,Urine,Public,2024,420,36.5
+Limpopo,Klebsiella pneumoniae,Amoxicillin-clavulanate,Wound,Public,2022,420,33.3
+Limpopo,Klebsiella pneumoniae,Amoxicillin-clavulanate,Wound,Public,2023,305,35.2
+Limpopo,Klebsiella pneumoniae,Amoxicillin-clavulanate,Wound,Public,2024,429,35.7
+Limpopo,Klebsiella pneumoniae,Ceftriaxone,Blood,Public,2022,382,29.8
+Limpopo,Klebsiella pneumoniae,Ceftriaxone,Blood,Public,2023,302,28.3
+Limpopo,Klebsiella pneumoniae,Ceftriaxone,Blood,Public,2024,395,30.0
+Limpopo,Klebsiella pneumoniae,Ceftriaxone,Respiratory,Public,2022,353,29.9
+Limpopo,Klebsiella pneumoniae,Ceftriaxone,Respiratory,Public,2023,116,33.0
+Limpopo,Klebsiella pneumoniae,Ceftriaxone,Respiratory,Public,2024,285,31.8
+Limpopo,Klebsiella pneumoniae,Ceftriaxone,Urine,Public,2022,356,30.5
+Limpopo,Klebsiella pneumoniae,Ceftriaxone,Urine,Public,2023,429,30.9
+Limpopo,Klebsiella pneumoniae,Ceftriaxone,Urine,Public,2024,305,30.3
+Limpopo,Klebsiella pneumoniae,Ceftriaxone,Wound,Public,2023,254,31.9
+Limpopo,Klebsiella pneumoniae,Ceftriaxone,Wound,Public,2024,408,31.1
+Limpopo,Klebsiella pneumoniae,Ciprofloxacin,Blood,Public,2024,261,35.1
+Limpopo,Klebsiella pneumoniae,Ciprofloxacin,Respiratory,Public,2022,116,35.2
+Limpopo,Klebsiella pneumoniae,Ciprofloxacin,Respiratory,Public,2023,358,38.1
+Limpopo,Klebsiella pneumoniae,Ciprofloxacin,Respiratory,Public,2024,431,37.1
+Limpopo,Klebsiella pneumoniae,Ciprofloxacin,Urine,Public,2022,438,36.2
+Limpopo,Klebsiella pneumoniae,Ciprofloxacin,Urine,Public,2023,363,36.7
+Limpopo,Klebsiella pneumoniae,Ciprofloxacin,Urine,Public,2024,320,36.2
+Limpopo,Klebsiella pneumoniae,Ciprofloxacin,Wound,Public,2022,422,35.3
+Limpopo,Klebsiella pneumoniae,Ciprofloxacin,Wound,Public,2023,303,36.4
+Limpopo,Klebsiella pneumoniae,Meropenem,Blood,Public,2022,134,21.6
+Limpopo,Klebsiella pneumoniae,Meropenem,Blood,Public,2023,207,21.1
+Limpopo,Klebsiella pneumoniae,Meropenem,Blood,Public,2024,100,24.1
+Limpopo,Klebsiella pneumoniae,Meropenem,Respiratory,Public,2022,360,23.0
+Limpopo,Klebsiella pneumoniae,Meropenem,Respiratory,Public,2023,85,22.9
+Limpopo,Klebsiella pneumoniae,Meropenem,Respiratory,Public,2024,331,25.2
+Limpopo,Klebsiella pneumoniae,Meropenem,Urine,Public,2022,286,21.2
+Limpopo,Klebsiella pneumoniae,Meropenem,Urine,Public,2023,442,23.2
+Limpopo,Klebsiella pneumoniae,Meropenem,Urine,Public,2024,163,23.6
+Limpopo,Klebsiella pneumoniae,Meropenem,Wound,Public,2022,198,23.2
+Limpopo,Klebsiella pneumoniae,Meropenem,Wound,Public,2023,416,24.5
+Limpopo,Klebsiella pneumoniae,Piperacillin-tazobactam,Blood,Public,2022,137,29.1
+Limpopo,Klebsiella pneumoniae,Piperacillin-tazobactam,Blood,Public,2023,164,30.4
+Limpopo,Klebsiella pneumoniae,Piperacillin-tazobactam,Blood,Public,2024,373,31.4
+Limpopo,Klebsiella pneumoniae,Piperacillin-tazobactam,Respiratory,Public,2022,332,31.6
+Limpopo,Klebsiella pneumoniae,Piperacillin-tazobactam,Respiratory,Public,2023,241,32.2
+Limpopo,Klebsiella pneumoniae,Piperacillin-tazobactam,Respiratory,Public,2024,429,34.2
+Limpopo,Klebsiella pneumoniae,Piperacillin-tazobactam,Urine,Public,2022,436,31.9
+Limpopo,Klebsiella pneumoniae,Piperacillin-tazobactam,Urine,Public,2023,421,32.4
+Limpopo,Klebsiella pneumoniae,Piperacillin-tazobactam,Urine,Public,2024,166,31.6
+Limpopo,Klebsiella pneumoniae,Piperacillin-tazobactam,Wound,Public,2022,399,31.4
+Limpopo,Klebsiella pneumoniae,Piperacillin-tazobactam,Wound,Public,2024,148,32.6
+Limpopo,Pseudomonas aeruginosa,Amoxicillin-clavulanate,Blood,Public,2022,265,30.2
+Limpopo,Pseudomonas aeruginosa,Amoxicillin-clavulanate,Blood,Public,2023,154,32.2
+Limpopo,Pseudomonas aeruginosa,Amoxicillin-clavulanate,Blood,Public,2024,304,34.1
+Limpopo,Pseudomonas aeruginosa,Amoxicillin-clavulanate,Respiratory,Public,2022,414,33.1
+Limpopo,Pseudomonas aeruginosa,Amoxicillin-clavulanate,Respiratory,Public,2023,401,32.9
+Limpopo,Pseudomonas aeruginosa,Amoxicillin-clavulanate,Respiratory,Public,2024,217,33.5
+Limpopo,Pseudomonas aeruginosa,Amoxicillin-clavulanate,Urine,Public,2022,187,31.2
+Limpopo,Pseudomonas aeruginosa,Amoxicillin-clavulanate,Urine,Public,2023,256,31.2
+Limpopo,Pseudomonas aeruginosa,Amoxicillin-clavulanate,Urine,Public,2024,445,32.9
+Limpopo,Pseudomonas aeruginosa,Amoxicillin-clavulanate,Wound,Public,2022,228,31.5
+Limpopo,Pseudomonas aeruginosa,Amoxicillin-clavulanate,Wound,Public,2023,430,32.6
+Limpopo,Pseudomonas aeruginosa,Amoxicillin-clavulanate,Wound,Public,2024,193,34.4
+Limpopo,Pseudomonas aeruginosa,Ceftriaxone,Blood,Public,2022,430,26.8
+Limpopo,Pseudomonas aeruginosa,Ceftriaxone,Blood,Public,2023,79,28.7
+Limpopo,Pseudomonas aeruginosa,Ceftriaxone,Blood,Public,2024,149,29.9
+Limpopo,Pseudomonas aeruginosa,Ceftriaxone,Respiratory,Public,2022,368,28.1
+Limpopo,Pseudomonas aeruginosa,Ceftriaxone,Respiratory,Public,2023,231,28.5
+Limpopo,Pseudomonas aeruginosa,Ceftriaxone,Respiratory,Public,2024,388,30.0
+Limpopo,Pseudomonas aeruginosa,Ceftriaxone,Urine,Public,2023,78,30.0
+Limpopo,Pseudomonas aeruginosa,Ceftriaxone,Urine,Public,2024,263,31.2
+Limpopo,Pseudomonas aeruginosa,Ceftriaxone,Wound,Public,2022,155,29.1
+Limpopo,Pseudomonas aeruginosa,Ceftriaxone,Wound,Public,2023,208,30.5
+Limpopo,Pseudomonas aeruginosa,Ceftriaxone,Wound,Public,2024,64,31.3
+Limpopo,Pseudomonas aeruginosa,Ciprofloxacin,Blood,Public,2022,179,30.9
+Limpopo,Pseudomonas aeruginosa,Ciprofloxacin,Blood,Public,2023,271,31.3
+Limpopo,Pseudomonas aeruginosa,Ciprofloxacin,Respiratory,Public,2022,390,33.2
+Limpopo,Pseudomonas aeruginosa,Ciprofloxacin,Respiratory,Public,2023,105,33.4
+Limpopo,Pseudomonas aeruginosa,Ciprofloxacin,Respiratory,Public,2024,178,36.1
+Limpopo,Pseudomonas aeruginosa,Ciprofloxacin,Urine,Public,2022,130,31.5
+Limpopo,Pseudomonas aeruginosa,Ciprofloxacin,Urine,Public,2023,341,32.2
+Limpopo,Pseudomonas aeruginosa,Ciprofloxacin,Urine,Public,2024,140,36.1
+Limpopo,Pseudomonas aeruginosa,Ciprofloxacin,Wound,Public,2022,303,32.9
+Limpopo,Pseudomonas aeruginosa,Ciprofloxacin,Wound,Public,2023,162,34.1
+Limpopo,Pseudomonas aeruginosa,Ciprofloxacin,Wound,Public,2024,207,36.0
+Limpopo,Pseudomonas aeruginosa,Meropenem,Blood,Public,2022,411,17.7
+Limpopo,Pseudomonas aeruginosa,Meropenem,Respiratory,Public,2022,301,20.8
+Limpopo,Pseudomonas aeruginosa,Meropenem,Respiratory,Public,2023,400,22.5
+Limpopo,Pseudomonas aeruginosa,Meropenem,Respiratory,Public,2024,450,23.7
+Limpopo,Pseudomonas aeruginosa,Meropenem,Urine,Public,2022,211,18.5
+Limpopo,Pseudomonas aeruginosa,Meropenem,Urine,Public,2023,173,20.3
+Limpopo,Pseudomonas aeruginosa,Meropenem,Urine,Public,2024,128,20.8
+Limpopo,Pseudomonas aeruginosa,Meropenem,Wound,Public,2022,292,20.1
+Limpopo,Pseudomonas aeruginosa,Meropenem,Wound,Public,2023,370,21.9
+Limpopo,Pseudomonas aeruginosa,Piperacillin-tazobactam,Blood,Public,2022,312,27.8
+Limpopo,Pseudomonas aeruginosa,Piperacillin-tazobactam,Blood,Public,2023,128,29.9
+Limpopo,Pseudomonas aeruginosa,Piperacillin-tazobactam,Blood,Public,2024,299,30.7
+Limpopo,Pseudomonas aeruginosa,Piperacillin-tazobactam,Respiratory,Public,2022,372,28.8
+Limpopo,Pseudomonas aeruginosa,Piperacillin-tazobactam,Respiratory,Public,2023,267,31.8
+Limpopo,Pseudomonas aeruginosa,Piperacillin-tazobactam,Respiratory,Public,2024,323,32.7
+Limpopo,Pseudomonas aeruginosa,Piperacillin-tazobactam,Urine,Public,2022,117,28.0
+Limpopo,Pseudomonas aeruginosa,Piperacillin-tazobactam,Urine,Public,2023,434,29.2
+Limpopo,Pseudomonas aeruginosa,Piperacillin-tazobactam,Urine,Public,2024,191,30.6
+Limpopo,Pseudomonas aeruginosa,Piperacillin-tazobactam,Wound,Public,2022,67,29.8
+Limpopo,Pseudomonas aeruginosa,Piperacillin-tazobactam,Wound,Public,2023,211,30.9
+Limpopo,Pseudomonas aeruginosa,Piperacillin-tazobactam,Wound,Public,2024,447,31.4
+Limpopo,Staphylococcus aureus,Amoxicillin-clavulanate,Blood,Public,2022,174,21.4
+Limpopo,Staphylococcus aureus,Amoxicillin-clavulanate,Blood,Public,2023,447,22.7
+Limpopo,Staphylococcus aureus,Amoxicillin-clavulanate,Blood,Public,2024,212,21.3
+Limpopo,Staphylococcus aureus,Amoxicillin-clavulanate,Respiratory,Public,2022,76,23.5
+Limpopo,Staphylococcus aureus,Amoxicillin-clavulanate,Respiratory,Public,2023,274,24.6
+Limpopo,Staphylococcus aureus,Amoxicillin-clavulanate,Respiratory,Public,2024,68,25.0
+Limpopo,Staphylococcus aureus,Amoxicillin-clavulanate,Urine,Public,2022,428,21.6
+Limpopo,Staphylococcus aureus,Amoxicillin-clavulanate,Urine,Public,2024,177,23.3
+Limpopo,Staphylococcus aureus,Amoxicillin-clavulanate,Wound,Public,2022,237,21.4
+Limpopo,Staphylococcus aureus,Ceftriaxone,Blood,Public,2023,322,17.5
+Limpopo,Staphylococcus aureus,Ceftriaxone,Blood,Public,2024,348,18.4
+Limpopo,Staphylococcus aureus,Ceftriaxone,Respiratory,Public,2022,92,18.2
+Limpopo,Staphylococcus aureus,Ceftriaxone,Respiratory,Public,2024,95,22.0
+Limpopo,Staphylococcus aureus,Ceftriaxone,Urine,Public,2022,296,16.4
+Limpopo,Staphylococcus aureus,Ceftriaxone,Urine,Public,2023,217,19.2
+Limpopo,Staphylococcus aureus,Ceftriaxone,Urine,Public,2024,262,20.4
+Limpopo,Staphylococcus aureus,Ceftriaxone,Wound,Public,2022,61,17.4
+Limpopo,Staphylococcus aureus,Ceftriaxone,Wound,Public,2023,356,19.9
+Limpopo,Staphylococcus aureus,Ceftriaxone,Wound,Public,2024,276,18.9
+Limpopo,Staphylococcus aureus,Ciprofloxacin,Blood,Public,2022,446,20.9
+Limpopo,Staphylococcus aureus,Ciprofloxacin,Blood,Public,2023,101,23.0
+Limpopo,Staphylococcus aureus,Ciprofloxacin,Blood,Public,2024,330,23.8
+Limpopo,Staphylococcus aureus,Ciprofloxacin,Respiratory,Public,2022,408,23.5
+Limpopo,Staphylococcus aureus,Ciprofloxacin,Respiratory,Public,2023,358,23.8
+Limpopo,Staphylococcus aureus,Ciprofloxacin,Respiratory,Public,2024,321,25.7
+Limpopo,Staphylococcus aureus,Ciprofloxacin,Urine,Public,2022,99,23.3
+Limpopo,Staphylococcus aureus,Ciprofloxacin,Urine,Public,2023,117,24.9
+Limpopo,Staphylococcus aureus,Ciprofloxacin,Urine,Public,2024,340,23.4
+Limpopo,Staphylococcus aureus,Ciprofloxacin,Wound,Public,2022,163,24.4
+Limpopo,Staphylococcus aureus,Ciprofloxacin,Wound,Public,2023,136,24.4
+Limpopo,Staphylococcus aureus,Ciprofloxacin,Wound,Public,2024,326,24.2
+Limpopo,Staphylococcus aureus,Meropenem,Blood,Public,2022,94,7.9
+Limpopo,Staphylococcus aureus,Meropenem,Blood,Public,2023,77,8.5
+Limpopo,Staphylococcus aureus,Meropenem,Blood,Public,2024,404,10.5
+Limpopo,Staphylococcus aureus,Meropenem,Respiratory,Public,2022,434,9.9
+Limpopo,Staphylococcus aureus,Meropenem,Respiratory,Public,2023,355,11.9
+Limpopo,Staphylococcus aureus,Meropenem,Respiratory,Public,2024,404,13.0
+Limpopo,Staphylococcus aureus,Meropenem,Urine,Public,2022,84,10.3
+Limpopo,Staphylococcus aureus,Meropenem,Urine,Public,2023,82,9.9
+Limpopo,Staphylococcus aureus,Meropenem,Urine,Public,2024,179,11.4
+Limpopo,Staphylococcus aureus,Meropenem,Wound,Public,2022,446,10.3
+Limpopo,Staphylococcus aureus,Meropenem,Wound,Public,2023,88,12.3
+Limpopo,Staphylococcus aureus,Meropenem,Wound,Public,2024,208,11.1
+Limpopo,Staphylococcus aureus,Piperacillin-tazobactam,Blood,Public,2022,301,19.1
+Limpopo,Staphylococcus aureus,Piperacillin-tazobactam,Blood,Public,2023,269,17.3
+Limpopo,Staphylococcus aureus,Piperacillin-tazobactam,Blood,Public,2024,129,18.7
+Limpopo,Staphylococcus aureus,Piperacillin-tazobactam,Respiratory,Public,2022,238,18.6
+Limpopo,Staphylococcus aureus,Piperacillin-tazobactam,Respiratory,Public,2023,335,19.5
+Limpopo,Staphylococcus aureus,Piperacillin-tazobactam,Respiratory,Public,2024,125,21.4
+Limpopo,Staphylococcus aureus,Piperacillin-tazobactam,Urine,Public,2022,433,19.5
+Limpopo,Staphylococcus aureus,Piperacillin-tazobactam,Urine,Public,2023,275,20.1
+Limpopo,Staphylococcus aureus,Piperacillin-tazobactam,Urine,Public,2024,255,20.3
+Limpopo,Staphylococcus aureus,Piperacillin-tazobactam,Wound,Public,2022,253,19.0
+Limpopo,Staphylococcus aureus,Piperacillin-tazobactam,Wound,Public,2023,409,19.8
+Limpopo,Staphylococcus aureus,Piperacillin-tazobactam,Wound,Public,2024,336,22.6
+Mpumalanga,E. coli,Amoxicillin-clavulanate,Blood,Public,2022,420,26.5
+Mpumalanga,E. coli,Amoxicillin-clavulanate,Blood,Public,2023,182,26.0
+Mpumalanga,E. coli,Amoxicillin-clavulanate,Respiratory,Public,2022,249,29.2
+Mpumalanga,E. coli,Amoxicillin-clavulanate,Respiratory,Public,2023,83,28.3
+Mpumalanga,E. coli,Amoxicillin-clavulanate,Respiratory,Public,2024,173,30.1
+Mpumalanga,E. coli,Amoxicillin-clavulanate,Urine,Public,2022,333,26.6
+Mpumalanga,E. coli,Amoxicillin-clavulanate,Urine,Public,2023,217,28.4
+Mpumalanga,E. coli,Amoxicillin-clavulanate,Urine,Public,2024,322,28.2
+Mpumalanga,E. coli,Amoxicillin-clavulanate,Wound,Public,2022,298,28.6
+Mpumalanga,E. coli,Amoxicillin-clavulanate,Wound,Public,2023,429,27.2
+Mpumalanga,E. coli,Amoxicillin-clavulanate,Wound,Public,2024,223,29.3
+Mpumalanga,E. coli,Ceftriaxone,Blood,Public,2022,446,21.5
+Mpumalanga,E. coli,Ceftriaxone,Blood,Public,2023,183,23.0
+Mpumalanga,E. coli,Ceftriaxone,Blood,Public,2024,213,25.0
+Mpumalanga,E. coli,Ceftriaxone,Respiratory,Public,2022,290,22.6
+Mpumalanga,E. coli,Ceftriaxone,Respiratory,Public,2023,107,26.0
+Mpumalanga,E. coli,Ceftriaxone,Respiratory,Public,2024,157,26.0
+Mpumalanga,E. coli,Ceftriaxone,Urine,Public,2023,89,24.8
+Mpumalanga,E. coli,Ceftriaxone,Urine,Public,2024,273,25.1
+Mpumalanga,E. coli,Ceftriaxone,Wound,Public,2022,128,23.6
+Mpumalanga,E. coli,Ceftriaxone,Wound,Public,2023,190,24.1
+Mpumalanga,E. coli,Ceftriaxone,Wound,Public,2024,391,24.5
+Mpumalanga,E. coli,Ciprofloxacin,Blood,Public,2022,133,26.1
+Mpumalanga,E. coli,Ciprofloxacin,Blood,Public,2023,326,29.4
+Mpumalanga,E. coli,Ciprofloxacin,Blood,Public,2024,213,28.1
+Mpumalanga,E. coli,Ciprofloxacin,Respiratory,Public,2022,328,28.6
+Mpumalanga,E. coli,Ciprofloxacin,Respiratory,Public,2023,273,29.4
+Mpumalanga,E. coli,Ciprofloxacin,Respiratory,Public,2024,213,30.6
+Mpumalanga,E. coli,Ciprofloxacin,Urine,Public,2022,345,27.2
+Mpumalanga,E. coli,Ciprofloxacin,Urine,Public,2023,436,30.3
+Mpumalanga,E. coli,Ciprofloxacin,Urine,Public,2024,380,31.1
+Mpumalanga,E. coli,Ciprofloxacin,Wound,Public,2022,344,28.9
+Mpumalanga,E. coli,Ciprofloxacin,Wound,Public,2023,236,29.4
+Mpumalanga,E. coli,Ciprofloxacin,Wound,Public,2024,403,31.7
+Mpumalanga,E. coli,Meropenem,Blood,Public,2023,359,14.2
+Mpumalanga,E. coli,Meropenem,Blood,Public,2024,273,16.1
+Mpumalanga,E. coli,Meropenem,Respiratory,Public,2023,295,17.6
+Mpumalanga,E. coli,Meropenem,Respiratory,Public,2024,240,16.9
+Mpumalanga,E. coli,Meropenem,Urine,Public,2022,160,14.3
+Mpumalanga,E. coli,Meropenem,Urine,Public,2023,254,15.4
+Mpumalanga,E. coli,Meropenem,Urine,Public,2024,185,17.1
+Mpumalanga,E. coli,Meropenem,Wound,Public,2023,232,17.7
+Mpumalanga,E. coli,Piperacillin-tazobactam,Blood,Public,2022,253,21.6
+Mpumalanga,E. coli,Piperacillin-tazobactam,Blood,Public,2023,368,24.4
+Mpumalanga,E. coli,Piperacillin-tazobactam,Blood,Public,2024,97,23.5
+Mpumalanga,E. coli,Piperacillin-tazobactam,Respiratory,Public,2022,120,26.3
+Mpumalanga,E. coli,Piperacillin-tazobactam,Respiratory,Public,2023,446,26.7
+Mpumalanga,E. coli,Piperacillin-tazobactam,Respiratory,Public,2024,184,26.8
+Mpumalanga,E. coli,Piperacillin-tazobactam,Urine,Public,2022,449,23.0
+Mpumalanga,E. coli,Piperacillin-tazobactam,Urine,Public,2023,403,25.2
+Mpumalanga,E. coli,Piperacillin-tazobactam,Urine,Public,2024,305,26.1
+Mpumalanga,E. coli,Piperacillin-tazobactam,Wound,Public,2022,230,23.5
+Mpumalanga,E. coli,Piperacillin-tazobactam,Wound,Public,2023,67,24.8
+Mpumalanga,E. coli,Piperacillin-tazobactam,Wound,Public,2024,157,25.5
+Mpumalanga,Klebsiella pneumoniae,Amoxicillin-clavulanate,Blood,Public,2022,390,34.9
+Mpumalanga,Klebsiella pneumoniae,Amoxicillin-clavulanate,Blood,Public,2024,108,37.3
+Mpumalanga,Klebsiella pneumoniae,Amoxicillin-clavulanate,Respiratory,Public,2022,151,36.4
+Mpumalanga,Klebsiella pneumoniae,Amoxicillin-clavulanate,Respiratory,Public,2024,166,36.5
+Mpumalanga,Klebsiella pneumoniae,Amoxicillin-clavulanate,Urine,Public,2022,81,36.1
+Mpumalanga,Klebsiella pneumoniae,Amoxicillin-clavulanate,Urine,Public,2023,414,35.1
+Mpumalanga,Klebsiella pneumoniae,Amoxicillin-clavulanate,Urine,Public,2024,303,38.1
+Mpumalanga,Klebsiella pneumoniae,Amoxicillin-clavulanate,Wound,Public,2022,98,34.7
+Mpumalanga,Klebsiella pneumoniae,Amoxicillin-clavulanate,Wound,Public,2023,203,37.0
+Mpumalanga,Klebsiella pneumoniae,Amoxicillin-clavulanate,Wound,Public,2024,348,38.6
+Mpumalanga,Klebsiella pneumoniae,Ceftriaxone,Blood,Public,2022,375,30.4
+Mpumalanga,Klebsiella pneumoniae,Ceftriaxone,Blood,Public,2023,397,32.1
+Mpumalanga,Klebsiella pneumoniae,Ceftriaxone,Blood,Public,2024,63,31.9
+Mpumalanga,Klebsiella pneumoniae,Ceftriaxone,Respiratory,Public,2022,109,30.7
+Mpumalanga,Klebsiella pneumoniae,Ceftriaxone,Respiratory,Public,2024,329,33.0
+Mpumalanga,Klebsiella pneumoniae,Ceftriaxone,Urine,Public,2023,331,30.4
+Mpumalanga,Klebsiella pneumoniae,Ceftriaxone,Urine,Public,2024,334,33.6
+Mpumalanga,Klebsiella pneumoniae,Ceftriaxone,Wound,Public,2022,68,32.8
+Mpumalanga,Klebsiella pneumoniae,Ceftriaxone,Wound,Public,2023,417,32.4
+Mpumalanga,Klebsiella pneumoniae,Ceftriaxone,Wound,Public,2024,151,33.9
+Mpumalanga,Klebsiella pneumoniae,Ciprofloxacin,Blood,Public,2022,428,33.9
+Mpumalanga,Klebsiella pneumoniae,Ciprofloxacin,Blood,Public,2023,154,36.0
+Mpumalanga,Klebsiella pneumoniae,Ciprofloxacin,Blood,Public,2024,337,38.2
+Mpumalanga,Klebsiella pneumoniae,Ciprofloxacin,Respiratory,Public,2022,171,35.9
+Mpumalanga,Klebsiella pneumoniae,Ciprofloxacin,Respiratory,Public,2023,251,37.9
+Mpumalanga,Klebsiella pneumoniae,Ciprofloxacin,Respiratory,Public,2024,386,37.6
+Mpumalanga,Klebsiella pneumoniae,Ciprofloxacin,Urine,Public,2022,90,37.4
+Mpumalanga,Klebsiella pneumoniae,Ciprofloxacin,Urine,Public,2023,98,37.0
+Mpumalanga,Klebsiella pneumoniae,Ciprofloxacin,Urine,Public,2024,402,39.2
+Mpumalanga,Klebsiella pneumoniae,Ciprofloxacin,Wound,Public,2022,63,35.1
+Mpumalanga,Klebsiella pneumoniae,Ciprofloxacin,Wound,Public,2024,422,37.6
+Mpumalanga,Klebsiella pneumoniae,Meropenem,Blood,Public,2022,445,22.2
+Mpumalanga,Klebsiella pneumoniae,Meropenem,Blood,Public,2023,263,23.9
+Mpumalanga,Klebsiella pneumoniae,Meropenem,Blood,Public,2024,213,25.2
+Mpumalanga,Klebsiella pneumoniae,Meropenem,Respiratory,Public,2022,237,24.6
+Mpumalanga,Klebsiella pneumoniae,Meropenem,Respiratory,Public,2023,283,23.6
+Mpumalanga,Klebsiella pneumoniae,Meropenem,Respiratory,Public,2024,98,25.1
+Mpumalanga,Klebsiella pneumoniae,Meropenem,Urine,Public,2022,183,21.9
+Mpumalanga,Klebsiella pneumoniae,Meropenem,Urine,Public,2023,259,24.1
+Mpumalanga,Klebsiella pneumoniae,Meropenem,Urine,Public,2024,336,25.4
+Mpumalanga,Klebsiella pneumoniae,Meropenem,Wound,Public,2022,446,22.9
+Mpumalanga,Klebsiella pneumoniae,Meropenem,Wound,Public,2023,412,25.1
+Mpumalanga,Klebsiella pneumoniae,Meropenem,Wound,Public,2024,316,26.1
+Mpumalanga,Klebsiella pneumoniae,Piperacillin-tazobactam,Blood,Public,2022,241,30.2
+Mpumalanga,Klebsiella pneumoniae,Piperacillin-tazobactam,Blood,Public,2023,263,31.2
+Mpumalanga,Klebsiella pneumoniae,Piperacillin-tazobactam,Blood,Public,2024,267,31.6
+Mpumalanga,Klebsiella pneumoniae,Piperacillin-tazobactam,Respiratory,Public,2022,88,33.1
+Mpumalanga,Klebsiella pneumoniae,Piperacillin-tazobactam,Respiratory,Public,2024,315,33.9
+Mpumalanga,Klebsiella pneumoniae,Piperacillin-tazobactam,Urine,Public,2022,184,31.8
+Mpumalanga,Klebsiella pneumoniae,Piperacillin-tazobactam,Urine,Public,2023,175,34.4
+Mpumalanga,Klebsiella pneumoniae,Piperacillin-tazobactam,Urine,Public,2024,101,33.3
+Mpumalanga,Klebsiella pneumoniae,Piperacillin-tazobactam,Wound,Public,2022,392,32.9
+Mpumalanga,Klebsiella pneumoniae,Piperacillin-tazobactam,Wound,Public,2023,107,34.2
+Mpumalanga,Klebsiella pneumoniae,Piperacillin-tazobactam,Wound,Public,2024,253,34.1
+Mpumalanga,Pseudomonas aeruginosa,Amoxicillin-clavulanate,Blood,Public,2022,186,31.5
+Mpumalanga,Pseudomonas aeruginosa,Amoxicillin-clavulanate,Blood,Public,2023,313,33.6
+Mpumalanga,Pseudomonas aeruginosa,Amoxicillin-clavulanate,Blood,Public,2024,160,34.2
+Mpumalanga,Pseudomonas aeruginosa,Amoxicillin-clavulanate,Respiratory,Public,2022,129,35.3
+Mpumalanga,Pseudomonas aeruginosa,Amoxicillin-clavulanate,Respiratory,Public,2023,368,34.3
+Mpumalanga,Pseudomonas aeruginosa,Amoxicillin-clavulanate,Urine,Public,2022,129,32.8
+Mpumalanga,Pseudomonas aeruginosa,Amoxicillin-clavulanate,Urine,Public,2023,262,33.3
+Mpumalanga,Pseudomonas aeruginosa,Amoxicillin-clavulanate,Urine,Public,2024,377,34.4
+Mpumalanga,Pseudomonas aeruginosa,Amoxicillin-clavulanate,Wound,Public,2022,228,33.0
+Mpumalanga,Pseudomonas aeruginosa,Amoxicillin-clavulanate,Wound,Public,2024,393,36.4
+Mpumalanga,Pseudomonas aeruginosa,Ceftriaxone,Blood,Public,2022,254,27.2
+Mpumalanga,Pseudomonas aeruginosa,Ceftriaxone,Blood,Public,2023,384,29.5
+Mpumalanga,Pseudomonas aeruginosa,Ceftriaxone,Blood,Public,2024,259,28.9
+Mpumalanga,Pseudomonas aeruginosa,Ceftriaxone,Respiratory,Public,2022,112,29.9
+Mpumalanga,Pseudomonas aeruginosa,Ceftriaxone,Respiratory,Public,2023,241,29.5
+Mpumalanga,Pseudomonas aeruginosa,Ceftriaxone,Respiratory,Public,2024,365,32.1
+Mpumalanga,Pseudomonas aeruginosa,Ceftriaxone,Urine,Public,2022,114,28.4
+Mpumalanga,Pseudomonas aeruginosa,Ceftriaxone,Urine,Public,2023,217,28.7
+Mpumalanga,Pseudomonas aeruginosa,Ceftriaxone,Urine,Public,2024,449,30.7
+Mpumalanga,Pseudomonas aeruginosa,Ceftriaxone,Wound,Public,2022,127,28.7
+Mpumalanga,Pseudomonas aeruginosa,Ceftriaxone,Wound,Public,2023,280,29.2
+Mpumalanga,Pseudomonas aeruginosa,Ceftriaxone,Wound,Public,2024,344,31.3
+Mpumalanga,Pseudomonas aeruginosa,Ciprofloxacin,Blood,Public,2022,374,32.4
+Mpumalanga,Pseudomonas aeruginosa,Ciprofloxacin,Blood,Public,2023,263,35.3
+Mpumalanga,Pseudomonas aeruginosa,Ciprofloxacin,Blood,Public,2024,227,36.3
+Mpumalanga,Pseudomonas aeruginosa,Ciprofloxacin,Respiratory,Public,2022,376,33.7
+Mpumalanga,Pseudomonas aeruginosa,Ciprofloxacin,Respiratory,Public,2023,186,35.3
+Mpumalanga,Pseudomonas aeruginosa,Ciprofloxacin,Respiratory,Public,2024,102,37.5
+Mpumalanga,Pseudomonas aeruginosa,Ciprofloxacin,Urine,Public,2022,199,32.5
+Mpumalanga,Pseudomonas aeruginosa,Ciprofloxacin,Urine,Public,2023,290,35.8
+Mpumalanga,Pseudomonas aeruginosa,Ciprofloxacin,Urine,Public,2024,242,35.9
+Mpumalanga,Pseudomonas aeruginosa,Ciprofloxacin,Wound,Public,2022,252,34.6
+Mpumalanga,Pseudomonas aeruginosa,Ciprofloxacin,Wound,Public,2023,408,35.2
+Mpumalanga,Pseudomonas aeruginosa,Ciprofloxacin,Wound,Public,2024,254,36.7
+Mpumalanga,Pseudomonas aeruginosa,Meropenem,Blood,Public,2022,150,19.8
+Mpumalanga,Pseudomonas aeruginosa,Meropenem,Blood,Public,2023,223,22.3
+Mpumalanga,Pseudomonas aeruginosa,Meropenem,Blood,Public,2024,415,21.3
+Mpumalanga,Pseudomonas aeruginosa,Meropenem,Respiratory,Public,2022,432,20.5
+Mpumalanga,Pseudomonas aeruginosa,Meropenem,Respiratory,Public,2023,422,22.8
+Mpumalanga,Pseudomonas aeruginosa,Meropenem,Respiratory,Public,2024,209,23.0
+Mpumalanga,Pseudomonas aeruginosa,Meropenem,Urine,Public,2023,226,22.8
+Mpumalanga,Pseudomonas aeruginosa,Meropenem,Urine,Public,2024,261,22.5
+Mpumalanga,Pseudomonas aeruginosa,Meropenem,Wound,Public,2022,348,21.0
+Mpumalanga,Pseudomonas aeruginosa,Meropenem,Wound,Public,2023,339,21.5
+Mpumalanga,Pseudomonas aeruginosa,Meropenem,Wound,Public,2024,341,22.5
+Mpumalanga,Pseudomonas aeruginosa,Piperacillin-tazobactam,Blood,Public,2022,226,29.2
+Mpumalanga,Pseudomonas aeruginosa,Piperacillin-tazobactam,Blood,Public,2023,66,31.0
+Mpumalanga,Pseudomonas aeruginosa,Piperacillin-tazobactam,Blood,Public,2024,258,30.3
+Mpumalanga,Pseudomonas aeruginosa,Piperacillin-tazobactam,Respiratory,Public,2022,282,29.6
+Mpumalanga,Pseudomonas aeruginosa,Piperacillin-tazobactam,Respiratory,Public,2024,99,32.9
+Mpumalanga,Pseudomonas aeruginosa,Piperacillin-tazobactam,Urine,Public,2022,431,30.7
+Mpumalanga,Pseudomonas aeruginosa,Piperacillin-tazobactam,Urine,Public,2023,184,32.1
+Mpumalanga,Pseudomonas aeruginosa,Piperacillin-tazobactam,Urine,Public,2024,146,32.1
+Mpumalanga,Pseudomonas aeruginosa,Piperacillin-tazobactam,Wound,Public,2022,146,31.0
+Mpumalanga,Pseudomonas aeruginosa,Piperacillin-tazobactam,Wound,Public,2023,214,30.3
+Mpumalanga,Pseudomonas aeruginosa,Piperacillin-tazobactam,Wound,Public,2024,134,31.7
+Mpumalanga,Staphylococcus aureus,Amoxicillin-clavulanate,Blood,Public,2022,213,21.4
+Mpumalanga,Staphylococcus aureus,Amoxicillin-clavulanate,Blood,Public,2023,423,21.5
+Mpumalanga,Staphylococcus aureus,Amoxicillin-clavulanate,Blood,Public,2024,235,22.8
+Mpumalanga,Staphylococcus aureus,Amoxicillin-clavulanate,Respiratory,Public,2022,155,24.3
+Mpumalanga,Staphylococcus aureus,Amoxicillin-clavulanate,Respiratory,Public,2023,281,25.3
+Mpumalanga,Staphylococcus aureus,Amoxicillin-clavulanate,Respiratory,Public,2024,437,25.6
+Mpumalanga,Staphylococcus aureus,Amoxicillin-clavulanate,Urine,Public,2022,406,23.4
+Mpumalanga,Staphylococcus aureus,Amoxicillin-clavulanate,Urine,Public,2023,439,24.8
+Mpumalanga,Staphylococcus aureus,Amoxicillin-clavulanate,Urine,Public,2024,149,24.1
+Mpumalanga,Staphylococcus aureus,Amoxicillin-clavulanate,Wound,Public,2022,229,23.6
+Mpumalanga,Staphylococcus aureus,Amoxicillin-clavulanate,Wound,Public,2023,296,24.6
+Mpumalanga,Staphylococcus aureus,Amoxicillin-clavulanate,Wound,Public,2024,267,24.6
+Mpumalanga,Staphylococcus aureus,Ceftriaxone,Blood,Public,2022,103,18.2
+Mpumalanga,Staphylococcus aureus,Ceftriaxone,Blood,Public,2023,187,17.7
+Mpumalanga,Staphylococcus aureus,Ceftriaxone,Blood,Public,2024,241,20.4
+Mpumalanga,Staphylococcus aureus,Ceftriaxone,Respiratory,Public,2022,321,19.2
+Mpumalanga,Staphylococcus aureus,Ceftriaxone,Respiratory,Public,2023,345,21.7
+Mpumalanga,Staphylococcus aureus,Ceftriaxone,Respiratory,Public,2024,354,22.2
+Mpumalanga,Staphylococcus aureus,Ceftriaxone,Urine,Public,2022,373,17.9
+Mpumalanga,Staphylococcus aureus,Ceftriaxone,Urine,Public,2023,390,18.5
+Mpumalanga,Staphylococcus aureus,Ceftriaxone,Wound,Public,2022,229,20.8
+Mpumalanga,Staphylococcus aureus,Ceftriaxone,Wound,Public,2023,280,21.8
+Mpumalanga,Staphylococcus aureus,Ciprofloxacin,Blood,Public,2022,95,23.9
+Mpumalanga,Staphylococcus aureus,Ciprofloxacin,Blood,Public,2023,269,24.9
+Mpumalanga,Staphylococcus aureus,Ciprofloxacin,Respiratory,Public,2022,78,24.7
+Mpumalanga,Staphylococcus aureus,Ciprofloxacin,Respiratory,Public,2024,334,27.5
+Mpumalanga,Staphylococcus aureus,Ciprofloxacin,Urine,Public,2022,183,24.3
+Mpumalanga,Staphylococcus aureus,Ciprofloxacin,Urine,Public,2023,138,24.2
+Mpumalanga,Staphylococcus aureus,Ciprofloxacin,Urine,Public,2024,253,26.6
+Mpumalanga,Staphylococcus aureus,Ciprofloxacin,Wound,Public,2022,366,23.1
+Mpumalanga,Staphylococcus aureus,Ciprofloxacin,Wound,Public,2023,265,25.3
+Mpumalanga,Staphylococcus aureus,Ciprofloxacin,Wound,Public,2024,414,26.5
+Mpumalanga,Staphylococcus aureus,Meropenem,Blood,Public,2022,161,10.3
+Mpumalanga,Staphylococcus aureus,Meropenem,Blood,Public,2023,279,10.8
+Mpumalanga,Staphylococcus aureus,Meropenem,Blood,Public,2024,420,11.6
+Mpumalanga,Staphylococcus aureus,Meropenem,Respiratory,Public,2022,387,12.0
+Mpumalanga,Staphylococcus aureus,Meropenem,Respiratory,Public,2023,258,12.4
+Mpumalanga,Staphylococcus aureus,Meropenem,Respiratory,Public,2024,360,14.2
+Mpumalanga,Staphylococcus aureus,Meropenem,Urine,Public,2022,202,10.1
+Mpumalanga,Staphylococcus aureus,Meropenem,Urine,Public,2023,92,12.7
+Mpumalanga,Staphylococcus aureus,Meropenem,Urine,Public,2024,334,13.1
+Mpumalanga,Staphylococcus aureus,Meropenem,Wound,Public,2023,118,11.5
+Mpumalanga,Staphylococcus aureus,Meropenem,Wound,Public,2024,310,12.7
+Mpumalanga,Staphylococcus aureus,Piperacillin-tazobactam,Blood,Public,2022,251,18.1
+Mpumalanga,Staphylococcus aureus,Piperacillin-tazobactam,Blood,Public,2023,407,19.6
+Mpumalanga,Staphylococcus aureus,Piperacillin-tazobactam,Blood,Public,2024,316,21.2
+Mpumalanga,Staphylococcus aureus,Piperacillin-tazobactam,Respiratory,Public,2022,238,21.0
+Mpumalanga,Staphylococcus aureus,Piperacillin-tazobactam,Respiratory,Public,2023,284,21.8
+Mpumalanga,Staphylococcus aureus,Piperacillin-tazobactam,Respiratory,Public,2024,291,23.6
+Mpumalanga,Staphylococcus aureus,Piperacillin-tazobactam,Urine,Public,2022,72,18.9
+Mpumalanga,Staphylococcus aureus,Piperacillin-tazobactam,Urine,Public,2024,103,21.7
+Mpumalanga,Staphylococcus aureus,Piperacillin-tazobactam,Wound,Public,2022,433,19.3
+Mpumalanga,Staphylococcus aureus,Piperacillin-tazobactam,Wound,Public,2023,219,20.3
+Mpumalanga,Staphylococcus aureus,Piperacillin-tazobactam,Wound,Public,2024,165,21.9
+North West,E. coli,Amoxicillin-clavulanate,Blood,Public,2022,112,23.2
+North West,E. coli,Amoxicillin-clavulanate,Blood,Public,2023,394,23.4
+North West,E. coli,Amoxicillin-clavulanate,Respiratory,Public,2023,372,25.8
+North West,E. coli,Amoxicillin-clavulanate,Respiratory,Public,2024,144,26.1
+North West,E. coli,Amoxicillin-clavulanate,Urine,Public,2023,238,23.5
+North West,E. coli,Amoxicillin-clavulanate,Urine,Public,2024,104,25.8
+North West,E. coli,Amoxicillin-clavulanate,Wound,Public,2023,181,25.0
+North West,E. coli,Ceftriaxone,Blood,Public,2022,390,18.3
+North West,E. coli,Ceftriaxone,Blood,Public,2023,148,20.0
+North West,E. coli,Ceftriaxone,Blood,Public,2024,310,19.9
+North West,E. coli,Ceftriaxone,Respiratory,Public,2022,269,20.1
+North West,E. coli,Ceftriaxone,Respiratory,Public,2023,272,21.2
+North West,E. coli,Ceftriaxone,Respiratory,Public,2024,287,22.3
+North West,E. coli,Ceftriaxone,Urine,Public,2022,155,18.1
+North West,E. coli,Ceftriaxone,Urine,Public,2023,290,19.1
+North West,E. coli,Ceftriaxone,Urine,Public,2024,243,21.0
+North West,E. coli,Ceftriaxone,Wound,Public,2022,308,20.5
+North West,E. coli,Ceftriaxone,Wound,Public,2023,256,19.1
+North West,E. coli,Ceftriaxone,Wound,Public,2024,318,22.6
+North West,E. coli,Ciprofloxacin,Blood,Public,2022,294,22.2
+North West,E. coli,Ciprofloxacin,Blood,Public,2023,404,24.0
+North West,E. coli,Ciprofloxacin,Blood,Public,2024,212,25.3
+North West,E. coli,Ciprofloxacin,Respiratory,Public,2022,354,25.0
+North West,E. coli,Ciprofloxacin,Respiratory,Public,2023,155,25.3
+North West,E. coli,Ciprofloxacin,Respiratory,Public,2024,335,26.6
+North West,E. coli,Ciprofloxacin,Urine,Public,2022,362,24.9
+North West,E. coli,Ciprofloxacin,Urine,Public,2023,128,23.4
+North West,E. coli,Ciprofloxacin,Urine,Public,2024,182,25.1
+North West,E. coli,Ciprofloxacin,Wound,Public,2022,153,23.6
+North West,E. coli,Ciprofloxacin,Wound,Public,2023,132,24.8
+North West,E. coli,Ciprofloxacin,Wound,Public,2024,274,26.2
+North West,E. coli,Meropenem,Blood,Public,2022,165,10.0
+North West,E. coli,Meropenem,Blood,Public,2023,90,11.6
+North West,E. coli,Meropenem,Blood,Public,2024,332,11.9
+North West,E. coli,Meropenem,Respiratory,Public,2022,270,13.1
+North West,E. coli,Meropenem,Respiratory,Public,2023,201,13.9
+North West,E. coli,Meropenem,Respiratory,Public,2024,124,14.8
+North West,E. coli,Meropenem,Urine,Public,2022,335,10.0
+North West,E. coli,Meropenem,Urine,Public,2023,420,10.7
+North West,E. coli,Meropenem,Urine,Public,2024,353,12.1
+North West,E. coli,Meropenem,Wound,Public,2022,323,10.5
+North West,E. coli,Piperacillin-tazobactam,Blood,Public,2022,102,18.7
+North West,E. coli,Piperacillin-tazobactam,Blood,Public,2023,449,19.9
+North West,E. coli,Piperacillin-tazobactam,Blood,Public,2024,76,19.8
+North West,E. coli,Piperacillin-tazobactam,Respiratory,Public,2022,447,20.8
+North West,E. coli,Piperacillin-tazobactam,Respiratory,Public,2023,428,20.3
+North West,E. coli,Piperacillin-tazobactam,Respiratory,Public,2024,171,22.5
+North West,E. coli,Piperacillin-tazobactam,Urine,Public,2022,335,19.0
+North West,E. coli,Piperacillin-tazobactam,Urine,Public,2023,294,20.1
+North West,E. coli,Piperacillin-tazobactam,Urine,Public,2024,313,21.9
+North West,E. coli,Piperacillin-tazobactam,Wound,Public,2022,117,20.3
+North West,E. coli,Piperacillin-tazobactam,Wound,Public,2023,197,21.4
+North West,E. coli,Piperacillin-tazobactam,Wound,Public,2024,247,23.0
+North West,Klebsiella pneumoniae,Amoxicillin-clavulanate,Blood,Public,2022,431,30.1
+North West,Klebsiella pneumoniae,Amoxicillin-clavulanate,Blood,Public,2023,179,31.3
+North West,Klebsiella pneumoniae,Amoxicillin-clavulanate,Blood,Public,2024,106,31.5
+North West,Klebsiella pneumoniae,Amoxicillin-clavulanate,Respiratory,Public,2022,276,33.1
+North West,Klebsiella pneumoniae,Amoxicillin-clavulanate,Respiratory,Public,2023,304,33.3
+North West,Klebsiella pneumoniae,Amoxicillin-clavulanate,Respiratory,Public,2024,256,32.4
+North West,Klebsiella pneumoniae,Amoxicillin-clavulanate,Urine,Public,2022,60,31.3
+North West,Klebsiella pneumoniae,Amoxicillin-clavulanate,Urine,Public,2023,99,30.8
+North West,Klebsiella pneumoniae,Amoxicillin-clavulanate,Urine,Public,2024,175,31.6
+North West,Klebsiella pneumoniae,Amoxicillin-clavulanate,Wound,Public,2022,287,31.2
+North West,Klebsiella pneumoniae,Amoxicillin-clavulanate,Wound,Public,2023,416,30.7
+North West,Klebsiella pneumoniae,Amoxicillin-clavulanate,Wound,Public,2024,121,32.7
+North West,Klebsiella pneumoniae,Ceftriaxone,Blood,Public,2022,61,25.2
+North West,Klebsiella pneumoniae,Ceftriaxone,Blood,Public,2023,435,27.8
+North West,Klebsiella pneumoniae,Ceftriaxone,Blood,Public,2024,294,26.5
+North West,Klebsiella pneumoniae,Ceftriaxone,Respiratory,Public,2022,355,27.2
+North West,Klebsiella pneumoniae,Ceftriaxone,Respiratory,Public,2024,409,30.6
+North West,Klebsiella pneumoniae,Ceftriaxone,Urine,Public,2023,92,27.3
+North West,Klebsiella pneumoniae,Ceftriaxone,Urine,Public,2024,263,29.6
+North West,Klebsiella pneumoniae,Ceftriaxone,Wound,Public,2022,279,26.3
+North West,Klebsiella pneumoniae,Ceftriaxone,Wound,Public,2023,313,29.2
+North West,Klebsiella pneumoniae,Ciprofloxacin,Blood,Public,2023,424,30.9
+North West,Klebsiella pneumoniae,Ciprofloxacin,Blood,Public,2024,186,32.2
+North West,Klebsiella pneumoniae,Ciprofloxacin,Respiratory,Public,2022,443,32.4
+North West,Klebsiella pneumoniae,Ciprofloxacin,Respiratory,Public,2023,248,33.0
+North West,Klebsiella pneumoniae,Ciprofloxacin,Respiratory,Public,2024,309,34.5
+North West,Klebsiella pneumoniae,Ciprofloxacin,Urine,Public,2022,406,32.5
+North West,Klebsiella pneumoniae,Ciprofloxacin,Urine,Public,2023,132,32.4
+North West,Klebsiella pneumoniae,Ciprofloxacin,Urine,Public,2024,197,33.9
+North West,Klebsiella pneumoniae,Ciprofloxacin,Wound,Public,2022,252,32.6
+North West,Klebsiella pneumoniae,Ciprofloxacin,Wound,Public,2023,384,33.0
+North West,Klebsiella pneumoniae,Ciprofloxacin,Wound,Public,2024,107,35.1
+North West,Klebsiella pneumoniae,Meropenem,Blood,Public,2022,112,16.5
+North West,Klebsiella pneumoniae,Meropenem,Blood,Public,2023,248,17.5
+North West,Klebsiella pneumoniae,Meropenem,Blood,Public,2024,130,20.8
+North West,Klebsiella pneumoniae,Meropenem,Respiratory,Public,2022,381,20.4
+North West,Klebsiella pneumoniae,Meropenem,Respiratory,Public,2023,270,21.4
+North West,Klebsiella pneumoniae,Meropenem,Respiratory,Public,2024,286,22.0
+North West,Klebsiella pneumoniae,Meropenem,Urine,Public,2022,445,18.3
+North West,Klebsiella pneumoniae,Meropenem,Urine,Public,2023,388,20.8
+North West,Klebsiella pneumoniae,Meropenem,Urine,Public,2024,133,22.2
+North West,Klebsiella pneumoniae,Meropenem,Wound,Public,2022,348,17.9
+North West,Klebsiella pneumoniae,Meropenem,Wound,Public,2023,392,18.7
+North West,Klebsiella pneumoniae,Meropenem,Wound,Public,2024,239,20.2
+North West,Klebsiella pneumoniae,Piperacillin-tazobactam,Blood,Public,2022,83,27.5
+North West,Klebsiella pneumoniae,Piperacillin-tazobactam,Blood,Public,2023,295,26.5
+North West,Klebsiella pneumoniae,Piperacillin-tazobactam,Blood,Public,2024,140,27.2
+North West,Klebsiella pneumoniae,Piperacillin-tazobactam,Respiratory,Public,2022,250,27.9
+North West,Klebsiella pneumoniae,Piperacillin-tazobactam,Respiratory,Public,2023,392,30.2
+North West,Klebsiella pneumoniae,Piperacillin-tazobactam,Respiratory,Public,2024,262,29.7
+North West,Klebsiella pneumoniae,Piperacillin-tazobactam,Urine,Public,2022,60,27.5
+North West,Klebsiella pneumoniae,Piperacillin-tazobactam,Wound,Public,2022,392,29.4
+North West,Klebsiella pneumoniae,Piperacillin-tazobactam,Wound,Public,2023,200,28.6
+North West,Klebsiella pneumoniae,Piperacillin-tazobactam,Wound,Public,2024,244,29.0
+North West,Pseudomonas aeruginosa,Amoxicillin-clavulanate,Blood,Public,2022,139,29.1
+North West,Pseudomonas aeruginosa,Amoxicillin-clavulanate,Blood,Public,2024,450,29.9
+North West,Pseudomonas aeruginosa,Amoxicillin-clavulanate,Respiratory,Public,2022,371,29.5
+North West,Pseudomonas aeruginosa,Amoxicillin-clavulanate,Respiratory,Public,2023,401,29.4
+North West,Pseudomonas aeruginosa,Amoxicillin-clavulanate,Respiratory,Public,2024,439,32.4
+North West,Pseudomonas aeruginosa,Amoxicillin-clavulanate,Urine,Public,2022,408,29.7
+North West,Pseudomonas aeruginosa,Amoxicillin-clavulanate,Urine,Public,2023,218,30.1
+North West,Pseudomonas aeruginosa,Amoxicillin-clavulanate,Urine,Public,2024,433,31.3
+North West,Pseudomonas aeruginosa,Amoxicillin-clavulanate,Wound,Public,2022,182,30.5
+North West,Pseudomonas aeruginosa,Amoxicillin-clavulanate,Wound,Public,2023,104,28.9
+North West,Pseudomonas aeruginosa,Amoxicillin-clavulanate,Wound,Public,2024,119,32.5
+North West,Pseudomonas aeruginosa,Ceftriaxone,Blood,Public,2022,320,23.7
+North West,Pseudomonas aeruginosa,Ceftriaxone,Blood,Public,2023,260,23.8
+North West,Pseudomonas aeruginosa,Ceftriaxone,Blood,Public,2024,87,25.1
+North West,Pseudomonas aeruginosa,Ceftriaxone,Respiratory,Public,2022,351,24.6
+North West,Pseudomonas aeruginosa,Ceftriaxone,Respiratory,Public,2023,339,26.4
+North West,Pseudomonas aeruginosa,Ceftriaxone,Respiratory,Public,2024,450,28.2
+North West,Pseudomonas aeruginosa,Ceftriaxone,Urine,Public,2022,182,25.5
+North West,Pseudomonas aeruginosa,Ceftriaxone,Urine,Public,2023,117,25.7
+North West,Pseudomonas aeruginosa,Ceftriaxone,Urine,Public,2024,386,25.9
+North West,Pseudomonas aeruginosa,Ceftriaxone,Wound,Public,2022,330,25.5
+North West,Pseudomonas aeruginosa,Ceftriaxone,Wound,Public,2024,222,28.6
+North West,Pseudomonas aeruginosa,Ciprofloxacin,Blood,Public,2022,104,29.8
+North West,Pseudomonas aeruginosa,Ciprofloxacin,Blood,Public,2023,131,30.9
+North West,Pseudomonas aeruginosa,Ciprofloxacin,Blood,Public,2024,361,31.4
+North West,Pseudomonas aeruginosa,Ciprofloxacin,Respiratory,Public,2022,413,30.0
+North West,Pseudomonas aeruginosa,Ciprofloxacin,Respiratory,Public,2024,165,33.8
+North West,Pseudomonas aeruginosa,Ciprofloxacin,Urine,Public,2022,239,30.4
+North West,Pseudomonas aeruginosa,Ciprofloxacin,Urine,Public,2023,221,32.1
+North West,Pseudomonas aeruginosa,Ciprofloxacin,Urine,Public,2024,186,32.6
+North West,Pseudomonas aeruginosa,Ciprofloxacin,Wound,Public,2022,103,29.5
+North West,Pseudomonas aeruginosa,Ciprofloxacin,Wound,Public,2023,367,30.4
+North West,Pseudomonas aeruginosa,Ciprofloxacin,Wound,Public,2024,371,32.5
+North West,Pseudomonas aeruginosa,Meropenem,Blood,Public,2022,66,14.7
+North West,Pseudomonas aeruginosa,Meropenem,Blood,Public,2023,419,17.3
+North West,Pseudomonas aeruginosa,Meropenem,Blood,Public,2024,314,16.2
+North West,Pseudomonas aeruginosa,Meropenem,Respiratory,Public,2022,279,17.2
+North West,Pseudomonas aeruginosa,Meropenem,Respiratory,Public,2023,92,18.0
+North West,Pseudomonas aeruginosa,Meropenem,Respiratory,Public,2024,355,19.0
+North West,Pseudomonas aeruginosa,Meropenem,Urine,Public,2022,327,18.0
+North West,Pseudomonas aeruginosa,Meropenem,Urine,Public,2023,429,17.7
+North West,Pseudomonas aeruginosa,Meropenem,Urine,Public,2024,250,18.0
+North West,Pseudomonas aeruginosa,Meropenem,Wound,Public,2022,197,16.1
+North West,Pseudomonas aeruginosa,Meropenem,Wound,Public,2023,120,18.9
+North West,Pseudomonas aeruginosa,Meropenem,Wound,Public,2024,75,20.0
+North West,Pseudomonas aeruginosa,Piperacillin-tazobactam,Blood,Public,2022,97,24.6
+North West,Pseudomonas aeruginosa,Piperacillin-tazobactam,Blood,Public,2024,170,25.2
+North West,Pseudomonas aeruginosa,Piperacillin-tazobactam,Respiratory,Public,2022,138,26.8
+North West,Pseudomonas aeruginosa,Piperacillin-tazobactam,Respiratory,Public,2023,218,27.0
+North West,Pseudomonas aeruginosa,Piperacillin-tazobactam,Respiratory,Public,2024,164,27.4
+North West,Pseudomonas aeruginosa,Piperacillin-tazobactam,Urine,Public,2022,90,24.3
+North West,Pseudomonas aeruginosa,Piperacillin-tazobactam,Urine,Public,2023,263,28.0
+North West,Pseudomonas aeruginosa,Piperacillin-tazobactam,Urine,Public,2024,381,27.7
+North West,Pseudomonas aeruginosa,Piperacillin-tazobactam,Wound,Public,2022,272,26.8
+North West,Pseudomonas aeruginosa,Piperacillin-tazobactam,Wound,Public,2023,265,27.0
+North West,Pseudomonas aeruginosa,Piperacillin-tazobactam,Wound,Public,2024,334,26.9
+North West,Staphylococcus aureus,Amoxicillin-clavulanate,Blood,Public,2022,396,16.2
+North West,Staphylococcus aureus,Amoxicillin-clavulanate,Blood,Public,2023,437,18.3
+North West,Staphylococcus aureus,Amoxicillin-clavulanate,Blood,Public,2024,113,20.4
+North West,Staphylococcus aureus,Amoxicillin-clavulanate,Respiratory,Public,2022,250,19.4
+North West,Staphylococcus aureus,Amoxicillin-clavulanate,Respiratory,Public,2023,442,20.6
+North West,Staphylococcus aureus,Amoxicillin-clavulanate,Respiratory,Public,2024,108,20.4
+North West,Staphylococcus aureus,Amoxicillin-clavulanate,Urine,Public,2022,181,17.8
+North West,Staphylococcus aureus,Amoxicillin-clavulanate,Urine,Public,2023,90,19.4
+North West,Staphylococcus aureus,Amoxicillin-clavulanate,Urine,Public,2024,132,22.1
+North West,Staphylococcus aureus,Amoxicillin-clavulanate,Wound,Public,2022,107,19.8
+North West,Staphylococcus aureus,Amoxicillin-clavulanate,Wound,Public,2024,326,22.4
+North West,Staphylococcus aureus,Ceftriaxone,Blood,Public,2022,425,13.8
+North West,Staphylococcus aureus,Ceftriaxone,Blood,Public,2023,274,15.4
+North West,Staphylococcus aureus,Ceftriaxone,Blood,Public,2024,187,14.9
+North West,Staphylococcus aureus,Ceftriaxone,Respiratory,Public,2022,298,14.4
+North West,Staphylococcus aureus,Ceftriaxone,Respiratory,Public,2023,219,17.8
+North West,Staphylococcus aureus,Ceftriaxone,Urine,Public,2022,428,14.4
+North West,Staphylococcus aureus,Ceftriaxone,Urine,Public,2023,99,15.1
+North West,Staphylococcus aureus,Ceftriaxone,Urine,Public,2024,121,16.9
+North West,Staphylococcus aureus,Ceftriaxone,Wound,Public,2023,324,15.2
+North West,Staphylococcus aureus,Ceftriaxone,Wound,Public,2024,265,18.6
+North West,Staphylococcus aureus,Ciprofloxacin,Blood,Public,2022,314,19.1
+North West,Staphylococcus aureus,Ciprofloxacin,Blood,Public,2023,244,19.6
+North West,Staphylococcus aureus,Ciprofloxacin,Blood,Public,2024,350,19.4
+North West,Staphylococcus aureus,Ciprofloxacin,Respiratory,Public,2022,301,19.9
+North West,Staphylococcus aureus,Ciprofloxacin,Respiratory,Public,2023,136,21.3
+North West,Staphylococcus aureus,Ciprofloxacin,Urine,Public,2022,140,18.7
+North West,Staphylococcus aureus,Ciprofloxacin,Urine,Public,2023,112,20.0
+North West,Staphylococcus aureus,Ciprofloxacin,Urine,Public,2024,405,22.9
+North West,Staphylococcus aureus,Ciprofloxacin,Wound,Public,2022,176,20.9
+North West,Staphylococcus aureus,Ciprofloxacin,Wound,Public,2023,61,21.9
+North West,Staphylococcus aureus,Ciprofloxacin,Wound,Public,2024,66,20.8
+North West,Staphylococcus aureus,Meropenem,Blood,Public,2022,386,5.7
+North West,Staphylococcus aureus,Meropenem,Blood,Public,2023,98,7.6
+North West,Staphylococcus aureus,Meropenem,Blood,Public,2024,91,8.0
+North West,Staphylococcus aureus,Meropenem,Respiratory,Public,2022,129,9.0
+North West,Staphylococcus aureus,Meropenem,Respiratory,Public,2024,114,8.5
+North West,Staphylococcus aureus,Meropenem,Urine,Public,2022,126,6.5
+North West,Staphylococcus aureus,Meropenem,Urine,Public,2023,193,6.9
+North West,Staphylococcus aureus,Meropenem,Urine,Public,2024,261,9.7
+North West,Staphylococcus aureus,Meropenem,Wound,Public,2022,436,7.8
+North West,Staphylococcus aureus,Meropenem,Wound,Public,2023,291,7.7
+North West,Staphylococcus aureus,Meropenem,Wound,Public,2024,98,8.5
+North West,Staphylococcus aureus,Piperacillin-tazobactam,Blood,Public,2022,248,14.6
+North West,Staphylococcus aureus,Piperacillin-tazobactam,Blood,Public,2023,348,14.8
+North West,Staphylococcus aureus,Piperacillin-tazobactam,Blood,Public,2024,438,17.5
+North West,Staphylococcus aureus,Piperacillin-tazobactam,Respiratory,Public,2022,337,15.3
+North West,Staphylococcus aureus,Piperacillin-tazobactam,Respiratory,Public,2023,415,17.2
+North West,Staphylococcus aureus,Piperacillin-tazobactam,Respiratory,Public,2024,231,19.8
+North West,Staphylococcus aureus,Piperacillin-tazobactam,Urine,Public,2022,297,16.1
+North West,Staphylococcus aureus,Piperacillin-tazobactam,Urine,Public,2023,312,16.3
+North West,Staphylococcus aureus,Piperacillin-tazobactam,Urine,Public,2024,160,19.2
+North West,Staphylococcus aureus,Piperacillin-tazobactam,Wound,Public,2022,339,16.9
+North West,Staphylococcus aureus,Piperacillin-tazobactam,Wound,Public,2023,185,18.0
+North West,Staphylococcus aureus,Piperacillin-tazobactam,Wound,Public,2024,269,17.1
+Northern Cape,E. coli,Amoxicillin-clavulanate,Blood,Public,2022,200,23.2
+Northern Cape,E. coli,Amoxicillin-clavulanate,Blood,Public,2023,136,22.3
+Northern Cape,E. coli,Amoxicillin-clavulanate,Blood,Public,2024,377,22.6
+Northern Cape,E. coli,Amoxicillin-clavulanate,Respiratory,Public,2022,338,23.2
+Northern Cape,E. coli,Amoxicillin-clavulanate,Respiratory,Public,2023,255,25.9
+Northern Cape,E. coli,Amoxicillin-clavulanate,Respiratory,Public,2024,243,26.8
+Northern Cape,E. coli,Amoxicillin-clavulanate,Urine,Public,2022,391,23.3
+Northern Cape,E. coli,Amoxicillin-clavulanate,Urine,Public,2023,270,23.4
+Northern Cape,E. coli,Amoxicillin-clavulanate,Urine,Public,2024,305,26.1
+Northern Cape,E. coli,Amoxicillin-clavulanate,Wound,Public,2023,274,24.1
+Northern Cape,E. coli,Amoxicillin-clavulanate,Wound,Public,2024,329,24.6
+Northern Cape,E. coli,Ceftriaxone,Blood,Public,2022,193,18.5
+Northern Cape,E. coli,Ceftriaxone,Blood,Public,2023,149,19.9
+Northern Cape,E. coli,Ceftriaxone,Blood,Public,2024,267,18.6
+Northern Cape,E. coli,Ceftriaxone,Respiratory,Public,2022,265,18.9
+Northern Cape,E. coli,Ceftriaxone,Respiratory,Public,2023,382,20.6
+Northern Cape,E. coli,Ceftriaxone,Respiratory,Public,2024,103,23.3
+Northern Cape,E. coli,Ceftriaxone,Urine,Public,2023,187,20.7
+Northern Cape,E. coli,Ceftriaxone,Urine,Public,2024,112,19.8
+Northern Cape,E. coli,Ceftriaxone,Wound,Public,2023,91,19.4
+Northern Cape,E. coli,Ciprofloxacin,Blood,Public,2022,268,22.9
+Northern Cape,E. coli,Ciprofloxacin,Blood,Public,2023,243,22.8
+Northern Cape,E. coli,Ciprofloxacin,Blood,Public,2024,166,26.4
+Northern Cape,E. coli,Ciprofloxacin,Respiratory,Public,2022,424,23.9
+Northern Cape,E. coli,Ciprofloxacin,Respiratory,Public,2023,242,25.2
+Northern Cape,E. coli,Ciprofloxacin,Respiratory,Public,2024,85,26.7
+Northern Cape,E. coli,Ciprofloxacin,Urine,Public,2022,297,23.8
+Northern Cape,E. coli,Ciprofloxacin,Urine,Public,2023,121,24.3
+Northern Cape,E. coli,Ciprofloxacin,Wound,Public,2022,420,23.9
+Northern Cape,E. coli,Ciprofloxacin,Wound,Public,2023,80,26.1
+Northern Cape,E. coli,Ciprofloxacin,Wound,Public,2024,227,25.6
+Northern Cape,E. coli,Meropenem,Blood,Public,2022,308,9.9
+Northern Cape,E. coli,Meropenem,Blood,Public,2023,349,10.5
+Northern Cape,E. coli,Meropenem,Blood,Public,2024,258,12.0
+Northern Cape,E. coli,Meropenem,Respiratory,Public,2022,396,10.8
+Northern Cape,E. coli,Meropenem,Respiratory,Public,2023,333,12.2
+Northern Cape,E. coli,Meropenem,Respiratory,Public,2024,437,14.9
+Northern Cape,E. coli,Meropenem,Urine,Public,2022,73,10.3
+Northern Cape,E. coli,Meropenem,Urine,Public,2023,172,11.4
+Northern Cape,E. coli,Meropenem,Urine,Public,2024,203,11.6
+Northern Cape,E. coli,Meropenem,Wound,Public,2022,301,10.2
+Northern Cape,E. coli,Meropenem,Wound,Public,2023,359,12.6
+Northern Cape,E. coli,Meropenem,Wound,Public,2024,141,15.0
+Northern Cape,E. coli,Piperacillin-tazobactam,Blood,Public,2022,192,19.2
+Northern Cape,E. coli,Piperacillin-tazobactam,Blood,Public,2023,98,21.2
+Northern Cape,E. coli,Piperacillin-tazobactam,Blood,Public,2024,93,19.6
+Northern Cape,E. coli,Piperacillin-tazobactam,Respiratory,Public,2022,75,20.7
+Northern Cape,E. coli,Piperacillin-tazobactam,Respiratory,Public,2023,278,21.6
+Northern Cape,E. coli,Piperacillin-tazobactam,Urine,Public,2022,390,19.1
+Northern Cape,E. coli,Piperacillin-tazobactam,Urine,Public,2023,125,20.8
+Northern Cape,E. coli,Piperacillin-tazobactam,Urine,Public,2024,229,20.8
+Northern Cape,E. coli,Piperacillin-tazobactam,Wound,Public,2022,296,19.4
+Northern Cape,E. coli,Piperacillin-tazobactam,Wound,Public,2023,353,20.1
+Northern Cape,E. coli,Piperacillin-tazobactam,Wound,Public,2024,430,22.3
+Northern Cape,Klebsiella pneumoniae,Amoxicillin-clavulanate,Blood,Public,2022,353,31.3
+Northern Cape,Klebsiella pneumoniae,Amoxicillin-clavulanate,Blood,Public,2023,350,30.7
+Northern Cape,Klebsiella pneumoniae,Amoxicillin-clavulanate,Blood,Public,2024,368,30.6
+Northern Cape,Klebsiella pneumoniae,Amoxicillin-clavulanate,Respiratory,Public,2022,105,32.4
+Northern Cape,Klebsiella pneumoniae,Amoxicillin-clavulanate,Respiratory,Public,2023,403,34.0
+Northern Cape,Klebsiella pneumoniae,Amoxicillin-clavulanate,Respiratory,Public,2024,231,34.4
+Northern Cape,Klebsiella pneumoniae,Amoxicillin-clavulanate,Urine,Public,2022,373,30.4
+Northern Cape,Klebsiella pneumoniae,Amoxicillin-clavulanate,Urine,Public,2023,349,31.1
+Northern Cape,Klebsiella pneumoniae,Amoxicillin-clavulanate,Urine,Public,2024,314,31.8
+Northern Cape,Klebsiella pneumoniae,Amoxicillin-clavulanate,Wound,Public,2022,441,30.4
+Northern Cape,Klebsiella pneumoniae,Amoxicillin-clavulanate,Wound,Public,2023,237,31.2
+Northern Cape,Klebsiella pneumoniae,Amoxicillin-clavulanate,Wound,Public,2024,145,34.9
+Northern Cape,Klebsiella pneumoniae,Ceftriaxone,Blood,Public,2022,368,24.7
+Northern Cape,Klebsiella pneumoniae,Ceftriaxone,Blood,Public,2023,329,26.1
+Northern Cape,Klebsiella pneumoniae,Ceftriaxone,Blood,Public,2024,229,27.9
+Northern Cape,Klebsiella pneumoniae,Ceftriaxone,Respiratory,Public,2022,97,29.1
+Northern Cape,Klebsiella pneumoniae,Ceftriaxone,Respiratory,Public,2023,399,28.6
+Northern Cape,Klebsiella pneumoniae,Ceftriaxone,Respiratory,Public,2024,111,29.7
+Northern Cape,Klebsiella pneumoniae,Ceftriaxone,Urine,Public,2022,163,28.2
+Northern Cape,Klebsiella pneumoniae,Ceftriaxone,Urine,Public,2023,234,28.9
+Northern Cape,Klebsiella pneumoniae,Ceftriaxone,Wound,Public,2022,135,26.2
+Northern Cape,Klebsiella pneumoniae,Ceftriaxone,Wound,Public,2023,132,28.7
+Northern Cape,Klebsiella pneumoniae,Ceftriaxone,Wound,Public,2024,329,30.3
+Northern Cape,Klebsiella pneumoniae,Ciprofloxacin,Blood,Public,2022,172,29.7
+Northern Cape,Klebsiella pneumoniae,Ciprofloxacin,Blood,Public,2023,258,32.2
+Northern Cape,Klebsiella pneumoniae,Ciprofloxacin,Blood,Public,2024,148,32.6
+Northern Cape,Klebsiella pneumoniae,Ciprofloxacin,Respiratory,Public,2022,312,34.3
+Northern Cape,Klebsiella pneumoniae,Ciprofloxacin,Respiratory,Public,2023,149,34.1
+Northern Cape,Klebsiella pneumoniae,Ciprofloxacin,Urine,Public,2022,363,31.0
+Northern Cape,Klebsiella pneumoniae,Ciprofloxacin,Urine,Public,2023,437,32.4
+Northern Cape,Klebsiella pneumoniae,Ciprofloxacin,Urine,Public,2024,362,34.6
+Northern Cape,Klebsiella pneumoniae,Ciprofloxacin,Wound,Public,2022,418,31.1
+Northern Cape,Klebsiella pneumoniae,Ciprofloxacin,Wound,Public,2023,350,33.0
+Northern Cape,Klebsiella pneumoniae,Ciprofloxacin,Wound,Public,2024,348,34.7
+Northern Cape,Klebsiella pneumoniae,Meropenem,Blood,Public,2022,195,17.8
+Northern Cape,Klebsiella pneumoniae,Meropenem,Blood,Public,2023,414,18.1
+Northern Cape,Klebsiella pneumoniae,Meropenem,Blood,Public,2024,191,18.7
+Northern Cape,Klebsiella pneumoniae,Meropenem,Respiratory,Public,2022,305,18.8
+Northern Cape,Klebsiella pneumoniae,Meropenem,Respiratory,Public,2023,355,21.9
+Northern Cape,Klebsiella pneumoniae,Meropenem,Respiratory,Public,2024,411,22.4
+Northern Cape,Klebsiella pneumoniae,Meropenem,Urine,Public,2022,428,19.8
+Northern Cape,Klebsiella pneumoniae,Meropenem,Urine,Public,2023,257,18.5
+Northern Cape,Klebsiella pneumoniae,Meropenem,Urine,Public,2024,274,20.8
+Northern Cape,Klebsiella pneumoniae,Meropenem,Wound,Public,2022,271,20.9
+Northern Cape,Klebsiella pneumoniae,Meropenem,Wound,Public,2023,253,20.5
+Northern Cape,Klebsiella pneumoniae,Piperacillin-tazobactam,Blood,Public,2022,225,26.5
+Northern Cape,Klebsiella pneumoniae,Piperacillin-tazobactam,Blood,Public,2023,140,26.9
+Northern Cape,Klebsiella pneumoniae,Piperacillin-tazobactam,Blood,Public,2024,283,29.7
+Northern Cape,Klebsiella pneumoniae,Piperacillin-tazobactam,Respiratory,Public,2022,435,28.6
+Northern Cape,Klebsiella pneumoniae,Piperacillin-tazobactam,Respiratory,Public,2023,125,30.6
+Northern Cape,Klebsiella pneumoniae,Piperacillin-tazobactam,Respiratory,Public,2024,60,30.0
+Northern Cape,Klebsiella pneumoniae,Piperacillin-tazobactam,Urine,Public,2022,309,28.9
+Northern Cape,Klebsiella pneumoniae,Piperacillin-tazobactam,Urine,Public,2024,347,30.6
+Northern Cape,Klebsiella pneumoniae,Piperacillin-tazobactam,Wound,Public,2022,374,29.1
+Northern Cape,Klebsiella pneumoniae,Piperacillin-tazobactam,Wound,Public,2023,174,30.3
+Northern Cape,Klebsiella pneumoniae,Piperacillin-tazobactam,Wound,Public,2024,149,31.0
+Northern Cape,Pseudomonas aeruginosa,Amoxicillin-clavulanate,Blood,Public,2022,348,29.0
+Northern Cape,Pseudomonas aeruginosa,Amoxicillin-clavulanate,Blood,Public,2023,445,27.7
+Northern Cape,Pseudomonas aeruginosa,Amoxicillin-clavulanate,Blood,Public,2024,109,30.6
+Northern Cape,Pseudomonas aeruginosa,Amoxicillin-clavulanate,Respiratory,Public,2022,303,30.5
+Northern Cape,Pseudomonas aeruginosa,Amoxicillin-clavulanate,Respiratory,Public,2023,180,31.2
+Northern Cape,Pseudomonas aeruginosa,Amoxicillin-clavulanate,Respiratory,Public,2024,100,31.9
+Northern Cape,Pseudomonas aeruginosa,Amoxicillin-clavulanate,Urine,Public,2022,236,27.7
+Northern Cape,Pseudomonas aeruginosa,Amoxicillin-clavulanate,Urine,Public,2023,271,30.9
+Northern Cape,Pseudomonas aeruginosa,Amoxicillin-clavulanate,Urine,Public,2024,361,32.4
+Northern Cape,Pseudomonas aeruginosa,Amoxicillin-clavulanate,Wound,Public,2023,327,31.5
+Northern Cape,Pseudomonas aeruginosa,Amoxicillin-clavulanate,Wound,Public,2024,334,31.2
+Northern Cape,Pseudomonas aeruginosa,Ceftriaxone,Blood,Public,2022,111,23.0
+Northern Cape,Pseudomonas aeruginosa,Ceftriaxone,Blood,Public,2023,157,24.5
+Northern Cape,Pseudomonas aeruginosa,Ceftriaxone,Blood,Public,2024,343,25.7
+Northern Cape,Pseudomonas aeruginosa,Ceftriaxone,Respiratory,Public,2023,398,26.4
+Northern Cape,Pseudomonas aeruginosa,Ceftriaxone,Respiratory,Public,2024,305,28.4
+Northern Cape,Pseudomonas aeruginosa,Ceftriaxone,Urine,Public,2022,433,25.7
+Northern Cape,Pseudomonas aeruginosa,Ceftriaxone,Urine,Public,2023,398,26.1
+Northern Cape,Pseudomonas aeruginosa,Ceftriaxone,Urine,Public,2024,181,26.3
+Northern Cape,Pseudomonas aeruginosa,Ceftriaxone,Wound,Public,2022,261,24.3
+Northern Cape,Pseudomonas aeruginosa,Ceftriaxone,Wound,Public,2024,244,26.4
+Northern Cape,Pseudomonas aeruginosa,Ciprofloxacin,Blood,Public,2022,291,28.2
+Northern Cape,Pseudomonas aeruginosa,Ciprofloxacin,Blood,Public,2023,77,28.7
+Northern Cape,Pseudomonas aeruginosa,Ciprofloxacin,Blood,Public,2024,223,30.4
+Northern Cape,Pseudomonas aeruginosa,Ciprofloxacin,Respiratory,Public,2022,420,32.2
+Northern Cape,Pseudomonas aeruginosa,Ciprofloxacin,Respiratory,Public,2023,394,30.6
+Northern Cape,Pseudomonas aeruginosa,Ciprofloxacin,Respiratory,Public,2024,282,32.0
+Northern Cape,Pseudomonas aeruginosa,Ciprofloxacin,Urine,Public,2022,113,29.3
+Northern Cape,Pseudomonas aeruginosa,Ciprofloxacin,Urine,Public,2023,147,29.7
+Northern Cape,Pseudomonas aeruginosa,Ciprofloxacin,Urine,Public,2024,142,33.2
+Northern Cape,Pseudomonas aeruginosa,Ciprofloxacin,Wound,Public,2023,107,32.8
+Northern Cape,Pseudomonas aeruginosa,Ciprofloxacin,Wound,Public,2024,374,32.0
+Northern Cape,Pseudomonas aeruginosa,Meropenem,Blood,Public,2022,425,15.7
+Northern Cape,Pseudomonas aeruginosa,Meropenem,Blood,Public,2023,352,15.6
+Northern Cape,Pseudomonas aeruginosa,Meropenem,Respiratory,Public,2022,381,17.8
+Northern Cape,Pseudomonas aeruginosa,Meropenem,Respiratory,Public,2023,364,17.9
+Northern Cape,Pseudomonas aeruginosa,Meropenem,Respiratory,Public,2024,432,19.3
+Northern Cape,Pseudomonas aeruginosa,Meropenem,Urine,Public,2022,377,17.5
+Northern Cape,Pseudomonas aeruginosa,Meropenem,Urine,Public,2023,447,16.9
+Northern Cape,Pseudomonas aeruginosa,Meropenem,Wound,Public,2022,158,18.9
+Northern Cape,Pseudomonas aeruginosa,Meropenem,Wound,Public,2023,276,17.4
+Northern Cape,Pseudomonas aeruginosa,Meropenem,Wound,Public,2024,409,18.2
+Northern Cape,Pseudomonas aeruginosa,Piperacillin-tazobactam,Blood,Public,2022,73,24.1
+Northern Cape,Pseudomonas aeruginosa,Piperacillin-tazobactam,Blood,Public,2023,386,25.1
+Northern Cape,Pseudomonas aeruginosa,Piperacillin-tazobactam,Blood,Public,2024,101,26.4
+Northern Cape,Pseudomonas aeruginosa,Piperacillin-tazobactam,Respiratory,Public,2022,288,26.6
+Northern Cape,Pseudomonas aeruginosa,Piperacillin-tazobactam,Respiratory,Public,2023,285,26.6
+Northern Cape,Pseudomonas aeruginosa,Piperacillin-tazobactam,Respiratory,Public,2024,175,28.9
+Northern Cape,Pseudomonas aeruginosa,Piperacillin-tazobactam,Urine,Public,2022,119,25.9
+Northern Cape,Pseudomonas aeruginosa,Piperacillin-tazobactam,Urine,Public,2023,263,26.4
+Northern Cape,Pseudomonas aeruginosa,Piperacillin-tazobactam,Urine,Public,2024,398,27.9
+Northern Cape,Pseudomonas aeruginosa,Piperacillin-tazobactam,Wound,Public,2022,388,25.8
+Northern Cape,Pseudomonas aeruginosa,Piperacillin-tazobactam,Wound,Public,2023,154,27.6
+Northern Cape,Pseudomonas aeruginosa,Piperacillin-tazobactam,Wound,Public,2024,255,28.1
+Northern Cape,Staphylococcus aureus,Amoxicillin-clavulanate,Blood,Public,2022,323,18.9
+Northern Cape,Staphylococcus aureus,Amoxicillin-clavulanate,Blood,Public,2023,93,19.9
+Northern Cape,Staphylococcus aureus,Amoxicillin-clavulanate,Blood,Public,2024,319,19.4
+Northern Cape,Staphylococcus aureus,Amoxicillin-clavulanate,Respiratory,Public,2022,248,19.1
+Northern Cape,Staphylococcus aureus,Amoxicillin-clavulanate,Respiratory,Public,2023,318,22.0
+Northern Cape,Staphylococcus aureus,Amoxicillin-clavulanate,Respiratory,Public,2024,123,21.7
+Northern Cape,Staphylococcus aureus,Amoxicillin-clavulanate,Urine,Public,2023,74,21.1
+Northern Cape,Staphylococcus aureus,Amoxicillin-clavulanate,Urine,Public,2024,162,20.0
+Northern Cape,Staphylococcus aureus,Amoxicillin-clavulanate,Wound,Public,2022,187,20.5
+Northern Cape,Staphylococcus aureus,Amoxicillin-clavulanate,Wound,Public,2023,85,19.1
+Northern Cape,Staphylococcus aureus,Amoxicillin-clavulanate,Wound,Public,2024,420,22.7
+Northern Cape,Staphylococcus aureus,Ceftriaxone,Blood,Public,2022,236,15.1
+Northern Cape,Staphylococcus aureus,Ceftriaxone,Blood,Public,2023,195,16.1
+Northern Cape,Staphylococcus aureus,Ceftriaxone,Blood,Public,2024,308,15.6
+Northern Cape,Staphylococcus aureus,Ceftriaxone,Respiratory,Public,2023,197,17.7
+Northern Cape,Staphylococcus aureus,Ceftriaxone,Respiratory,Public,2024,70,19.2
+Northern Cape,Staphylococcus aureus,Ceftriaxone,Urine,Public,2022,302,15.2
+Northern Cape,Staphylococcus aureus,Ceftriaxone,Urine,Public,2023,201,14.6
+Northern Cape,Staphylococcus aureus,Ceftriaxone,Urine,Public,2024,376,16.7
+Northern Cape,Staphylococcus aureus,Ceftriaxone,Wound,Public,2022,415,15.8
+Northern Cape,Staphylococcus aureus,Ceftriaxone,Wound,Public,2023,262,16.2
+Northern Cape,Staphylococcus aureus,Ceftriaxone,Wound,Public,2024,229,18.7
+Northern Cape,Staphylococcus aureus,Ciprofloxacin,Blood,Public,2022,94,20.2
+Northern Cape,Staphylococcus aureus,Ciprofloxacin,Blood,Public,2023,344,18.7
+Northern Cape,Staphylococcus aureus,Ciprofloxacin,Blood,Public,2024,226,20.7
+Northern Cape,Staphylococcus aureus,Ciprofloxacin,Respiratory,Public,2022,111,21.2
+Northern Cape,Staphylococcus aureus,Ciprofloxacin,Respiratory,Public,2023,348,23.3
+Northern Cape,Staphylococcus aureus,Ciprofloxacin,Respiratory,Public,2024,206,23.8
+Northern Cape,Staphylococcus aureus,Ciprofloxacin,Urine,Public,2023,66,20.9
+Northern Cape,Staphylococcus aureus,Ciprofloxacin,Urine,Public,2024,379,22.8
+Northern Cape,Staphylococcus aureus,Ciprofloxacin,Wound,Public,2022,274,20.7
+Northern Cape,Staphylococcus aureus,Ciprofloxacin,Wound,Public,2023,136,20.3
+Northern Cape,Staphylococcus aureus,Ciprofloxacin,Wound,Public,2024,361,21.4
+Northern Cape,Staphylococcus aureus,Meropenem,Blood,Public,2022,183,6.5
+Northern Cape,Staphylococcus aureus,Meropenem,Blood,Public,2023,364,6.6
+Northern Cape,Staphylococcus aureus,Meropenem,Blood,Public,2024,302,7.8
+Northern Cape,Staphylococcus aureus,Meropenem,Respiratory,Public,2022,391,9.1
+Northern Cape,Staphylococcus aureus,Meropenem,Respiratory,Public,2023,165,8.2
+Northern Cape,Staphylococcus aureus,Meropenem,Respiratory,Public,2024,269,9.3
+Northern Cape,Staphylococcus aureus,Meropenem,Urine,Public,2022,239,7.2
+Northern Cape,Staphylococcus aureus,Meropenem,Urine,Public,2023,192,7.5
+Northern Cape,Staphylococcus aureus,Meropenem,Urine,Public,2024,412,9.7
+Northern Cape,Staphylococcus aureus,Meropenem,Wound,Public,2022,74,6.3
+Northern Cape,Staphylococcus aureus,Meropenem,Wound,Public,2023,143,8.1
+Northern Cape,Staphylococcus aureus,Meropenem,Wound,Public,2024,169,10.5
+Northern Cape,Staphylococcus aureus,Piperacillin-tazobactam,Blood,Public,2022,215,14.5
+Northern Cape,Staphylococcus aureus,Piperacillin-tazobactam,Blood,Public,2023,311,15.4
+Northern Cape,Staphylococcus aureus,Piperacillin-tazobactam,Blood,Public,2024,410,18.1
+Northern Cape,Staphylococcus aureus,Piperacillin-tazobactam,Respiratory,Public,2022,268,18.2
+Northern Cape,Staphylococcus aureus,Piperacillin-tazobactam,Respiratory,Public,2023,448,18.7
+Northern Cape,Staphylococcus aureus,Piperacillin-tazobactam,Urine,Public,2022,176,14.8
+Northern Cape,Staphylococcus aureus,Piperacillin-tazobactam,Urine,Public,2023,440,15.9
+Northern Cape,Staphylococcus aureus,Piperacillin-tazobactam,Urine,Public,2024,224,17.8
+Northern Cape,Staphylococcus aureus,Piperacillin-tazobactam,Wound,Public,2022,273,15.8
+Northern Cape,Staphylococcus aureus,Piperacillin-tazobactam,Wound,Public,2023,105,17.8
+Northern Cape,Staphylococcus aureus,Piperacillin-tazobactam,Wound,Public,2024,168,17.6
+Western Cape,E. coli,Amoxicillin-clavulanate,Blood,Public,2022,396,25.1
+Western Cape,E. coli,Amoxicillin-clavulanate,Blood,Public,2023,152,26.2
+Western Cape,E. coli,Amoxicillin-clavulanate,Blood,Public,2024,301,25.5
+Western Cape,E. coli,Amoxicillin-clavulanate,Respiratory,Public,2022,275,27.2
+Western Cape,E. coli,Amoxicillin-clavulanate,Respiratory,Public,2023,229,27.9
+Western Cape,E. coli,Amoxicillin-clavulanate,Respiratory,Public,2024,359,27.7
+Western Cape,E. coli,Amoxicillin-clavulanate,Urine,Public,2022,192,24.0
+Western Cape,E. coli,Amoxicillin-clavulanate,Urine,Public,2023,346,26.8
+Western Cape,E. coli,Amoxicillin-clavulanate,Urine,Public,2024,153,27.9
+Western Cape,E. coli,Amoxicillin-clavulanate,Wound,Public,2022,231,26.9
+Western Cape,E. coli,Amoxicillin-clavulanate,Wound,Public,2023,173,27.0
+Western Cape,E. coli,Amoxicillin-clavulanate,Wound,Public,2024,441,27.1
+Western Cape,E. coli,Ceftriaxone,Blood,Public,2022,399,18.6
+Western Cape,E. coli,Ceftriaxone,Blood,Public,2023,251,22.5
+Western Cape,E. coli,Ceftriaxone,Blood,Public,2024,364,22.3
+Western Cape,E. coli,Ceftriaxone,Respiratory,Public,2022,136,21.5
+Western Cape,E. coli,Ceftriaxone,Respiratory,Public,2023,183,23.1
+Western Cape,E. coli,Ceftriaxone,Respiratory,Public,2024,367,25.3
+Western Cape,E. coli,Ceftriaxone,Urine,Public,2022,212,21.4
+Western Cape,E. coli,Ceftriaxone,Urine,Public,2023,306,22.6
+Western Cape,E. coli,Ceftriaxone,Urine,Public,2024,201,21.8
+Western Cape,E. coli,Ceftriaxone,Wound,Public,2022,201,22.0
+Western Cape,E. coli,Ceftriaxone,Wound,Public,2023,424,21.9
+Western Cape,E. coli,Ceftriaxone,Wound,Public,2024,393,24.9
+Western Cape,E. coli,Ciprofloxacin,Blood,Public,2022,409,26.2
+Western Cape,E. coli,Ciprofloxacin,Blood,Public,2023,127,24.6
+Western Cape,E. coli,Ciprofloxacin,Blood,Public,2024,367,27.5
+Western Cape,E. coli,Ciprofloxacin,Respiratory,Public,2022,406,27.0
+Western Cape,E. coli,Ciprofloxacin,Respiratory,Public,2023,379,28.1
+Western Cape,E. coli,Ciprofloxacin,Respiratory,Public,2024,112,28.8
+Western Cape,E. coli,Ciprofloxacin,Urine,Public,2023,216,26.3
+Western Cape,E. coli,Ciprofloxacin,Urine,Public,2024,423,28.7
+Western Cape,E. coli,Ciprofloxacin,Wound,Public,2022,276,27.0
+Western Cape,E. coli,Ciprofloxacin,Wound,Public,2023,238,28.8
+Western Cape,E. coli,Ciprofloxacin,Wound,Public,2024,171,28.5
+Western Cape,E. coli,Meropenem,Blood,Public,2022,120,11.5
+Western Cape,E. coli,Meropenem,Blood,Public,2023,384,13.0
+Western Cape,E. coli,Meropenem,Blood,Public,2024,377,14.3
+Western Cape,E. coli,Meropenem,Respiratory,Public,2022,294,15.3
+Western Cape,E. coli,Meropenem,Respiratory,Public,2023,426,14.0
+Western Cape,E. coli,Meropenem,Respiratory,Public,2024,101,15.1
+Western Cape,E. coli,Meropenem,Urine,Public,2022,159,11.8
+Western Cape,E. coli,Meropenem,Urine,Public,2023,408,14.1
+Western Cape,E. coli,Meropenem,Urine,Public,2024,212,14.7
+Western Cape,E. coli,Meropenem,Wound,Public,2022,137,13.3
+Western Cape,E. coli,Meropenem,Wound,Public,2023,162,13.5
+Western Cape,E. coli,Meropenem,Wound,Public,2024,351,15.1
+Western Cape,E. coli,Piperacillin-tazobactam,Blood,Public,2022,223,20.8
+Western Cape,E. coli,Piperacillin-tazobactam,Blood,Public,2023,429,22.6
+Western Cape,E. coli,Piperacillin-tazobactam,Blood,Public,2024,314,21.7
+Western Cape,E. coli,Piperacillin-tazobactam,Respiratory,Public,2022,386,23.6
+Western Cape,E. coli,Piperacillin-tazobactam,Respiratory,Public,2023,403,24.9
+Western Cape,E. coli,Piperacillin-tazobactam,Urine,Public,2022,192,23.6
+Western Cape,E. coli,Piperacillin-tazobactam,Urine,Public,2023,267,24.3
+Western Cape,E. coli,Piperacillin-tazobactam,Urine,Public,2024,78,23.7
+Western Cape,E. coli,Piperacillin-tazobactam,Wound,Public,2022,352,22.8
+Western Cape,E. coli,Piperacillin-tazobactam,Wound,Public,2023,235,24.5
+Western Cape,E. coli,Piperacillin-tazobactam,Wound,Public,2024,173,25.3
+Western Cape,Klebsiella pneumoniae,Amoxicillin-clavulanate,Blood,Public,2022,387,31.7
+Western Cape,Klebsiella pneumoniae,Amoxicillin-clavulanate,Blood,Public,2023,333,32.3
+Western Cape,Klebsiella pneumoniae,Amoxicillin-clavulanate,Blood,Public,2024,364,34.4
+Western Cape,Klebsiella pneumoniae,Amoxicillin-clavulanate,Respiratory,Public,2022,411,33.2
+Western Cape,Klebsiella pneumoniae,Amoxicillin-clavulanate,Respiratory,Public,2023,214,35.5
+Western Cape,Klebsiella pneumoniae,Amoxicillin-clavulanate,Urine,Public,2022,398,34.6
+Western Cape,Klebsiella pneumoniae,Amoxicillin-clavulanate,Urine,Public,2023,70,32.9
+Western Cape,Klebsiella pneumoniae,Amoxicillin-clavulanate,Urine,Public,2024,119,33.7
+Western Cape,Klebsiella pneumoniae,Amoxicillin-clavulanate,Wound,Public,2022,254,33.3
+Western Cape,Klebsiella pneumoniae,Amoxicillin-clavulanate,Wound,Public,2023,189,33.5
+Western Cape,Klebsiella pneumoniae,Amoxicillin-clavulanate,Wound,Public,2024,138,35.5
+Western Cape,Klebsiella pneumoniae,Ceftriaxone,Blood,Public,2022,251,27.2
+Western Cape,Klebsiella pneumoniae,Ceftriaxone,Blood,Public,2023,224,30.4
+Western Cape,Klebsiella pneumoniae,Ceftriaxone,Blood,Public,2024,331,30.9
+Western Cape,Klebsiella pneumoniae,Ceftriaxone,Respiratory,Public,2022,83,29.1
+Western Cape,Klebsiella pneumoniae,Ceftriaxone,Respiratory,Public,2023,208,30.5
+Western Cape,Klebsiella pneumoniae,Ceftriaxone,Respiratory,Public,2024,326,31.9
+Western Cape,Klebsiella pneumoniae,Ceftriaxone,Urine,Public,2022,406,28.2
+Western Cape,Klebsiella pneumoniae,Ceftriaxone,Urine,Public,2023,435,28.6
+Western Cape,Klebsiella pneumoniae,Ceftriaxone,Urine,Public,2024,415,30.3
+Western Cape,Klebsiella pneumoniae,Ceftriaxone,Wound,Public,2023,256,29.5
+Western Cape,Klebsiella pneumoniae,Ceftriaxone,Wound,Public,2024,216,31.6
+Western Cape,Klebsiella pneumoniae,Ciprofloxacin,Blood,Public,2022,383,33.0
+Western Cape,Klebsiella pneumoniae,Ciprofloxacin,Blood,Public,2024,62,35.5
+Western Cape,Klebsiella pneumoniae,Ciprofloxacin,Respiratory,Public,2022,279,34.9
+Western Cape,Klebsiella pneumoniae,Ciprofloxacin,Respiratory,Public,2023,256,37.5
+Western Cape,Klebsiella pneumoniae,Ciprofloxacin,Respiratory,Public,2024,333,35.6
+Western Cape,Klebsiella pneumoniae,Ciprofloxacin,Urine,Public,2022,167,33.9
+Western Cape,Klebsiella pneumoniae,Ciprofloxacin,Urine,Public,2023,146,35.9
+Western Cape,Klebsiella pneumoniae,Ciprofloxacin,Urine,Public,2024,141,36.3
+Western Cape,Klebsiella pneumoniae,Ciprofloxacin,Wound,Public,2022,450,34.5
+Western Cape,Klebsiella pneumoniae,Ciprofloxacin,Wound,Public,2023,126,36.4
+Western Cape,Klebsiella pneumoniae,Ciprofloxacin,Wound,Public,2024,384,36.9
+Western Cape,Klebsiella pneumoniae,Meropenem,Blood,Public,2022,198,20.6
+Western Cape,Klebsiella pneumoniae,Meropenem,Blood,Public,2023,418,21.4
+Western Cape,Klebsiella pneumoniae,Meropenem,Blood,Public,2024,113,21.0
+Western Cape,Klebsiella pneumoniae,Meropenem,Respiratory,Public,2022,211,22.7
+Western Cape,Klebsiella pneumoniae,Meropenem,Respiratory,Public,2024,166,24.1
+Western Cape,Klebsiella pneumoniae,Meropenem,Urine,Public,2022,376,21.1
+Western Cape,Klebsiella pneumoniae,Meropenem,Urine,Public,2023,118,20.9
+Western Cape,Klebsiella pneumoniae,Meropenem,Urine,Public,2024,314,23.9
+Western Cape,Klebsiella pneumoniae,Meropenem,Wound,Public,2023,327,23.4
+Western Cape,Klebsiella pneumoniae,Meropenem,Wound,Public,2024,243,25.0
+Western Cape,Klebsiella pneumoniae,Piperacillin-tazobactam,Blood,Public,2022,232,29.4
+Western Cape,Klebsiella pneumoniae,Piperacillin-tazobactam,Blood,Public,2023,411,29.9
+Western Cape,Klebsiella pneumoniae,Piperacillin-tazobactam,Blood,Public,2024,235,32.6
+Western Cape,Klebsiella pneumoniae,Piperacillin-tazobactam,Respiratory,Public,2022,146,31.3
+Western Cape,Klebsiella pneumoniae,Piperacillin-tazobactam,Respiratory,Public,2023,424,30.9
+Western Cape,Klebsiella pneumoniae,Piperacillin-tazobactam,Respiratory,Public,2024,79,33.5
+Western Cape,Klebsiella pneumoniae,Piperacillin-tazobactam,Urine,Public,2022,310,31.6
+Western Cape,Klebsiella pneumoniae,Piperacillin-tazobactam,Urine,Public,2023,156,30.7
+Western Cape,Klebsiella pneumoniae,Piperacillin-tazobactam,Urine,Public,2024,266,31.1
+Western Cape,Klebsiella pneumoniae,Piperacillin-tazobactam,Wound,Public,2022,174,29.1
+Western Cape,Klebsiella pneumoniae,Piperacillin-tazobactam,Wound,Public,2023,127,32.3
+Western Cape,Klebsiella pneumoniae,Piperacillin-tazobactam,Wound,Public,2024,71,31.7
+Western Cape,Pseudomonas aeruginosa,Amoxicillin-clavulanate,Blood,Public,2022,432,31.2
+Western Cape,Pseudomonas aeruginosa,Amoxicillin-clavulanate,Blood,Public,2023,126,32.5
+Western Cape,Pseudomonas aeruginosa,Amoxicillin-clavulanate,Respiratory,Public,2022,402,31.3
+Western Cape,Pseudomonas aeruginosa,Amoxicillin-clavulanate,Respiratory,Public,2023,325,34.2
+Western Cape,Pseudomonas aeruginosa,Amoxicillin-clavulanate,Respiratory,Public,2024,418,34.1
+Western Cape,Pseudomonas aeruginosa,Amoxicillin-clavulanate,Urine,Public,2022,270,29.9
+Western Cape,Pseudomonas aeruginosa,Amoxicillin-clavulanate,Urine,Public,2023,92,31.9
+Western Cape,Pseudomonas aeruginosa,Amoxicillin-clavulanate,Urine,Public,2024,220,32.4
+Western Cape,Pseudomonas aeruginosa,Amoxicillin-clavulanate,Wound,Public,2022,407,30.1
+Western Cape,Pseudomonas aeruginosa,Amoxicillin-clavulanate,Wound,Public,2023,440,32.7
+Western Cape,Pseudomonas aeruginosa,Amoxicillin-clavulanate,Wound,Public,2024,349,33.8
+Western Cape,Pseudomonas aeruginosa,Ceftriaxone,Blood,Public,2022,208,27.2
+Western Cape,Pseudomonas aeruginosa,Ceftriaxone,Blood,Public,2023,406,26.7
+Western Cape,Pseudomonas aeruginosa,Ceftriaxone,Blood,Public,2024,438,27.5
+Western Cape,Pseudomonas aeruginosa,Ceftriaxone,Respiratory,Public,2024,265,29.1
+Western Cape,Pseudomonas aeruginosa,Ceftriaxone,Urine,Public,2022,448,25.9
+Western Cape,Pseudomonas aeruginosa,Ceftriaxone,Urine,Public,2023,64,29.3
+Western Cape,Pseudomonas aeruginosa,Ceftriaxone,Urine,Public,2024,399,30.1
+Western Cape,Pseudomonas aeruginosa,Ceftriaxone,Wound,Public,2022,228,28.0
+Western Cape,Pseudomonas aeruginosa,Ceftriaxone,Wound,Public,2023,284,28.2
+Western Cape,Pseudomonas aeruginosa,Ceftriaxone,Wound,Public,2024,197,30.9
+Western Cape,Pseudomonas aeruginosa,Ciprofloxacin,Blood,Public,2022,306,31.6
+Western Cape,Pseudomonas aeruginosa,Ciprofloxacin,Blood,Public,2024,105,31.6
+Western Cape,Pseudomonas aeruginosa,Ciprofloxacin,Respiratory,Public,2022,211,34.5
+Western Cape,Pseudomonas aeruginosa,Ciprofloxacin,Respiratory,Public,2023,85,33.4
+Western Cape,Pseudomonas aeruginosa,Ciprofloxacin,Respiratory,Public,2024,149,33.9
+Western Cape,Pseudomonas aeruginosa,Ciprofloxacin,Urine,Public,2023,136,33.6
+Western Cape,Pseudomonas aeruginosa,Ciprofloxacin,Urine,Public,2024,321,35.4
+Western Cape,Pseudomonas aeruginosa,Ciprofloxacin,Wound,Public,2022,430,31.3
+Western Cape,Pseudomonas aeruginosa,Ciprofloxacin,Wound,Public,2024,293,35.0
+Western Cape,Pseudomonas aeruginosa,Meropenem,Blood,Public,2022,281,18.4
+Western Cape,Pseudomonas aeruginosa,Meropenem,Blood,Public,2024,399,20.0
+Western Cape,Pseudomonas aeruginosa,Meropenem,Respiratory,Public,2022,98,21.2
+Western Cape,Pseudomonas aeruginosa,Meropenem,Respiratory,Public,2023,224,21.8
+Western Cape,Pseudomonas aeruginosa,Meropenem,Respiratory,Public,2024,202,21.3
+Western Cape,Pseudomonas aeruginosa,Meropenem,Urine,Public,2022,257,19.6
+Western Cape,Pseudomonas aeruginosa,Meropenem,Urine,Public,2023,345,19.0
+Western Cape,Pseudomonas aeruginosa,Meropenem,Urine,Public,2024,373,22.3
+Western Cape,Pseudomonas aeruginosa,Meropenem,Wound,Public,2022,389,18.2
+Western Cape,Pseudomonas aeruginosa,Meropenem,Wound,Public,2023,318,21.9
+Western Cape,Pseudomonas aeruginosa,Meropenem,Wound,Public,2024,313,22.6
+Western Cape,Pseudomonas aeruginosa,Piperacillin-tazobactam,Blood,Public,2022,293,26.8
+Western Cape,Pseudomonas aeruginosa,Piperacillin-tazobactam,Blood,Public,2023,257,27.4
+Western Cape,Pseudomonas aeruginosa,Piperacillin-tazobactam,Blood,Public,2024,304,29.6
+Western Cape,Pseudomonas aeruginosa,Piperacillin-tazobactam,Respiratory,Public,2022,152,29.6
+Western Cape,Pseudomonas aeruginosa,Piperacillin-tazobactam,Respiratory,Public,2023,243,30.4
+Western Cape,Pseudomonas aeruginosa,Piperacillin-tazobactam,Respiratory,Public,2024,410,31.4
+Western Cape,Pseudomonas aeruginosa,Piperacillin-tazobactam,Urine,Public,2022,392,29.0
+Western Cape,Pseudomonas aeruginosa,Piperacillin-tazobactam,Urine,Public,2024,416,28.9
+Western Cape,Pseudomonas aeruginosa,Piperacillin-tazobactam,Wound,Public,2022,141,29.3
+Western Cape,Pseudomonas aeruginosa,Piperacillin-tazobactam,Wound,Public,2023,362,28.4
+Western Cape,Pseudomonas aeruginosa,Piperacillin-tazobactam,Wound,Public,2024,351,30.5
+Western Cape,Staphylococcus aureus,Amoxicillin-clavulanate,Blood,Public,2022,404,21.4
+Western Cape,Staphylococcus aureus,Amoxicillin-clavulanate,Blood,Public,2023,290,21.3
+Western Cape,Staphylococcus aureus,Amoxicillin-clavulanate,Blood,Public,2024,361,22.0
+Western Cape,Staphylococcus aureus,Amoxicillin-clavulanate,Respiratory,Public,2022,148,22.7
+Western Cape,Staphylococcus aureus,Amoxicillin-clavulanate,Respiratory,Public,2023,125,23.8
+Western Cape,Staphylococcus aureus,Amoxicillin-clavulanate,Respiratory,Public,2024,396,22.9
+Western Cape,Staphylococcus aureus,Amoxicillin-clavulanate,Urine,Public,2022,128,22.4
+Western Cape,Staphylococcus aureus,Amoxicillin-clavulanate,Urine,Public,2023,62,23.5
+Western Cape,Staphylococcus aureus,Amoxicillin-clavulanate,Urine,Public,2024,84,23.2
+Western Cape,Staphylococcus aureus,Amoxicillin-clavulanate,Wound,Public,2022,281,21.7
+Western Cape,Staphylococcus aureus,Amoxicillin-clavulanate,Wound,Public,2023,307,23.6
+Western Cape,Staphylococcus aureus,Amoxicillin-clavulanate,Wound,Public,2024,150,24.9
+Western Cape,Staphylococcus aureus,Ceftriaxone,Blood,Public,2022,386,17.5
+Western Cape,Staphylococcus aureus,Ceftriaxone,Blood,Public,2023,320,16.5
+Western Cape,Staphylococcus aureus,Ceftriaxone,Blood,Public,2024,395,18.3
+Western Cape,Staphylococcus aureus,Ceftriaxone,Respiratory,Public,2022,109,17.9
+Western Cape,Staphylococcus aureus,Ceftriaxone,Respiratory,Public,2024,241,18.6
+Western Cape,Staphylococcus aureus,Ceftriaxone,Urine,Public,2022,234,17.6
+Western Cape,Staphylococcus aureus,Ceftriaxone,Urine,Public,2023,87,17.7
+Western Cape,Staphylococcus aureus,Ceftriaxone,Urine,Public,2024,292,20.0
+Western Cape,Staphylococcus aureus,Ceftriaxone,Wound,Public,2022,377,17.1
+Western Cape,Staphylococcus aureus,Ceftriaxone,Wound,Public,2023,426,18.9
+Western Cape,Staphylococcus aureus,Ceftriaxone,Wound,Public,2024,426,20.1
+Western Cape,Staphylococcus aureus,Ciprofloxacin,Blood,Public,2022,174,19.7
+Western Cape,Staphylococcus aureus,Ciprofloxacin,Blood,Public,2023,253,22.2
+Western Cape,Staphylococcus aureus,Ciprofloxacin,Blood,Public,2024,180,22.8
+Western Cape,Staphylococcus aureus,Ciprofloxacin,Respiratory,Public,2022,78,22.8
+Western Cape,Staphylococcus aureus,Ciprofloxacin,Respiratory,Public,2023,60,24.3
+Western Cape,Staphylococcus aureus,Ciprofloxacin,Urine,Public,2022,287,20.8
+Western Cape,Staphylococcus aureus,Ciprofloxacin,Urine,Public,2023,289,24.0
+Western Cape,Staphylococcus aureus,Ciprofloxacin,Urine,Public,2024,315,22.8
+Western Cape,Staphylococcus aureus,Ciprofloxacin,Wound,Public,2022,120,22.4
+Western Cape,Staphylococcus aureus,Ciprofloxacin,Wound,Public,2023,441,25.0
+Western Cape,Staphylococcus aureus,Meropenem,Blood,Public,2022,224,8.4
+Western Cape,Staphylococcus aureus,Meropenem,Blood,Public,2023,256,9.1
+Western Cape,Staphylococcus aureus,Meropenem,Blood,Public,2024,371,9.8
+Western Cape,Staphylococcus aureus,Meropenem,Respiratory,Public,2022,419,10.1
+Western Cape,Staphylococcus aureus,Meropenem,Respiratory,Public,2023,220,11.2
+Western Cape,Staphylococcus aureus,Meropenem,Respiratory,Public,2024,343,12.7
+Western Cape,Staphylococcus aureus,Meropenem,Urine,Public,2022,450,10.3
+Western Cape,Staphylococcus aureus,Meropenem,Urine,Public,2023,263,9.3
+Western Cape,Staphylococcus aureus,Meropenem,Urine,Public,2024,210,12.5
+Western Cape,Staphylococcus aureus,Meropenem,Wound,Public,2022,128,9.4
+Western Cape,Staphylococcus aureus,Meropenem,Wound,Public,2023,368,9.5
+Western Cape,Staphylococcus aureus,Meropenem,Wound,Public,2024,443,12.2
+Western Cape,Staphylococcus aureus,Piperacillin-tazobactam,Blood,Public,2022,209,18.1
+Western Cape,Staphylococcus aureus,Piperacillin-tazobactam,Blood,Public,2024,83,19.7
+Western Cape,Staphylococcus aureus,Piperacillin-tazobactam,Respiratory,Public,2022,157,18.2
+Western Cape,Staphylococcus aureus,Piperacillin-tazobactam,Urine,Public,2022,312,19.3
+Western Cape,Staphylococcus aureus,Piperacillin-tazobactam,Urine,Public,2023,427,18.0
+Western Cape,Staphylococcus aureus,Piperacillin-tazobactam,Urine,Public,2024,269,20.8
+Western Cape,Staphylococcus aureus,Piperacillin-tazobactam,Wound,Public,2022,372,17.4
+Western Cape,Staphylococcus aureus,Piperacillin-tazobactam,Wound,Public,2023,121,18.7
+Western Cape,Staphylococcus aureus,Piperacillin-tazobactam,Wound,Public,2024,261,21.9

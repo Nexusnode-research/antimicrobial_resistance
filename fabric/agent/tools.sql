@@ -1,20 +1,23 @@
--- Spark SQL helpers for the Agent (Lakehouse)
-
--- Latest alert per province x bug x drug x specimen
-CREATE OR REPLACE VIEW alerts_latest AS
-SELECT *
-FROM (
+-- GET_ALERTS_WITH_BRIEF
+CREATE OR REPLACE VIEW alerts_with_brief AS
+WITH base AS (
   SELECT
-    a.*,
-    ROW_NUMBER() OVER (
-      PARTITION BY province, organism, antibiotic, specimen
-      ORDER BY year DESC
-    ) AS rn
+      a.*,
+      -- portable null-safe row_key
+      CONCAT(
+        COALESCE(a.province, ''), '|',
+        COALESCE(a.organism, ''), '|',
+        COALESCE(a.antibiotic, ''), '|',
+        COALESCE(a.specimen, ''), '|',
+        CAST(a.year AS STRING)
+      ) AS row_key
   FROM alerts a
 )
-WHERE rn = 1;
+SELECT b.*, s.title, s.bullets, s.sms
+FROM base b
+LEFT JOIN alerts_ai_summaries s USING (row_key);
 
--- Latest threshold per bug x drug x specimen
+-- Latest thresholds (per organism, antibiotic, specimen)
 CREATE OR REPLACE VIEW thresholds_latest AS
 SELECT *
 FROM (
@@ -22,24 +25,21 @@ FROM (
     t.*,
     ROW_NUMBER() OVER (
       PARTITION BY organism, antibiotic, specimen
-      ORDER BY year_ref DESC
+      ORDER BY tau_year DESC
     ) AS rn
   FROM thresholds t
-)
+) AS ranked
 WHERE rn = 1;
 
--- 3-year trend window per key (uses max-year within each key)
+-- Last 3 years trend per province/organism/antibiotic/specimen
 CREATE OR REPLACE VIEW alerts_trend_3yr AS
 SELECT province, organism, antibiotic, specimen, year, pr_exceed_tau
 FROM (
   SELECT
     a.*,
-    MAX(year) OVER (PARTITION BY province, organism, antibiotic, specimen) AS y_max
+    MAX(year) OVER (
+      PARTITION BY province, organism, antibiotic, specimen
+    ) AS y_max
   FROM alerts a
-)
+) AS w
 WHERE year >= y_max - 2;
-
--- Convenience passthroughs (so the Agent can SELECT with WHERE filters)
-CREATE OR REPLACE VIEW v_alerts AS SELECT * FROM alerts;
-CREATE OR REPLACE VIEW v_thresholds AS SELECT * FROM thresholds;
-CREATE OR REPLACE VIEW v_isolates AS SELECT * FROM isolates;
